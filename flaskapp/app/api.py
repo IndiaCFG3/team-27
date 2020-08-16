@@ -16,7 +16,7 @@ class EggsDemand(Resource):
         data= data.groupby('Area').agg({'Year': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
         return json.dumps(data)
 
-api.add_resource(EggsDemand, '/eggsDemand')
+# api.add_resource(EggsDemand, '/eggsDemand')
 
 
 
