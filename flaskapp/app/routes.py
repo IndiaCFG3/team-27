@@ -59,7 +59,7 @@ def eggsProducedByArea():
 @app.route('/eggsProducedByYear')
 def eggsProducedByYear():
     if request.method=='GET':
-        country = request.headers.get('country')
+        country = int(request.headers.get('country'))
         data= pd.read_csv('eggs_produced.csv')
         data= data.groupby('Year').agg({'Area': lambda x: list(x),'Value': lambda x: list(x)}).to_dict(orient='index')
         return json.dumps(data[country])
@@ -75,7 +75,7 @@ def eggsExportedByArea():
 @app.route('/eggsExportedByYear')
 def eggsExportedByYear():
     if request.method=='GET':
-        country = request.headers.get('country')
+        country = int(request.headers.get('country'))
         data= pd.read_csv('eggs_export.csv')
         data= data.groupby('Year').agg({'Area': lambda x: list(x),'Value': lambda x: list(x)}).to_dict(orient='index')
         return json.dumps(data[country])
