@@ -25,9 +25,11 @@ class EggsPriceDemand(Resource):
 class EggsMalnutritionDemand(Resource):
     def get(self):
         data= pd.read_csv('eggs_malnutrition_demand.csv')
-        data= data.groupby('Counrty ').agg({'Survey year': lambda x: list(x),'Wasting': lambda x: list(x), 'Stunting': lambda x: list(x), 
+        data= data.groupby('Counrty ').agg({'Survey year': lambda x: list(x),'Wasting': lambda x: list(x), 'Stunting': lambda x: list(x),
         'Underweight': lambda x: list(x)}).to_json(orient='index')
         return json.dumps(data)
+
+
 
 
 # class EggsMalnutritionDemand(Resource):
