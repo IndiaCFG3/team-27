@@ -6,6 +6,7 @@ import Top from "./containers/Top";
 import Bar from "./Components/BarGraph";
 import Line from "./Components/LineGraph";
 import Pie from "./Components/PieGraph";
+import Worlds from "./Components/worldmap";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Pie />
         <Line />
       </div>
+      <Worlds />
     </Container>
   );
 }
