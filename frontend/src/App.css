@@ -46,3 +46,7 @@
   display: flex;
   flex-wrap: wrap;
 }
+.wasteCentral {
+  display: flex;
+  justify-content: center;
+}
