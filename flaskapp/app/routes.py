@@ -5,9 +5,7 @@ from flask import request, jsonify
 from flask_restful import Api, Resource
 from flask_marshmallow import Marshmallow
 import json
-
-
-
+ 
 @app.route('/')
 @app.route('/index')
 def index():
@@ -30,7 +28,7 @@ def eggsPrice():
         data= data.groupby('Area').agg({'Year': lambda x: list(x),'Value': lambda x: list(x)}).to_dict(orient='index')
         return json.dumps(data[country])
 
-@app.route('/eggsMalnutrition')
+@app.route('/eggsMalnutrition',methods=['POST'])
 def eggsMalnutrition():
     if request.method=='GET':
         country = request.headers.get('country')
