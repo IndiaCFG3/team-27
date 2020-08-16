@@ -21,7 +21,7 @@ function Entry(props) {
     }).then((req) => console.log(req));
 
     axios({
-      url: "https://localhost:5000/eggsDemand",
+      url: "https://localhost:5000/eggsPrice",
       method: "get",
       headers: {
         country: props.country,
@@ -30,6 +30,14 @@ function Entry(props) {
 
     axios({
       url: "https://localhost:5000/eggsMalnutrition",
+      method: "get",
+      headers: {
+        country: props.country,
+      },
+    }).then((req) => console.log(req));
+
+    axios({
+      url: "https://localhost:5000/eggsProtein",
       method: "get",
       headers: {
         country: props.country,
