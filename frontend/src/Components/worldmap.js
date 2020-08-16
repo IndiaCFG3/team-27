@@ -1,5 +1,6 @@
 import React from "react"
 import { WorldMap } from "react-svg-worldmap"
+import "../App.css";
 
 function World() {
   const data =
@@ -17,8 +18,8 @@ function World() {
     ]
 
   return (
-    <div className="App" >
-       <WorldMap color="red" title="Top 10 Populous Countries" value-suffix="people" size="lg" data={data} />
+    <div className="App" style={{marginTop:"108vh"}}>
+       <WorldMap color="red" title="Egg Supply Worldwide" value-suffix="eggs" size="lg" data={data} />
     </div>
   )
 }
