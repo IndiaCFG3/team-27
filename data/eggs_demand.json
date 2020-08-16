@@ -1,0 +1,7331 @@
+[
+    {
+      "id": 0,
+      "Area": "Afghanistan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 17
+    },
+    {
+      "id": 1,
+      "Area": "Afghanistan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 16
+    },
+    {
+      "id": 2,
+      "Area": "Afghanistan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 13
+    },
+    {
+      "id": 3,
+      "Area": "Afghanistan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 4,
+      "Area": "Afghanistan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 13
+    },
+    {
+      "id": 5,
+      "Area": "Afghanistan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 29
+    },
+    {
+      "id": 6,
+      "Area": "Albania",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 7,
+      "Area": "Albania",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 8,
+      "Area": "Albania",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 9,
+      "Area": "Albania",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 10,
+      "Area": "Albania",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 11,
+      "Area": "Albania",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 12,
+      "Area": "Algeria",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 13,
+      "Area": "Algeria",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 14,
+      "Area": "Algeria",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 15,
+      "Area": "Algeria",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 16,
+      "Area": "Algeria",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 17,
+      "Area": "Algeria",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 18,
+      "Area": "Angola",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 26
+    },
+    {
+      "id": 19,
+      "Area": "Angola",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 22
+    },
+    {
+      "id": 20,
+      "Area": "Angola",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 21,
+      "Area": "Angola",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 36
+    },
+    {
+      "id": 22,
+      "Area": "Angola",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 48
+    },
+    {
+      "id": 23,
+      "Area": "Angola",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 24
+    },
+    {
+      "id": 24,
+      "Area": "Antigua and Barbuda",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 25,
+      "Area": "Antigua and Barbuda",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 26,
+      "Area": "Antigua and Barbuda",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 27,
+      "Area": "Antigua and Barbuda",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 28,
+      "Area": "Antigua and Barbuda",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 29,
+      "Area": "Antigua and Barbuda",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 30,
+      "Area": "Argentina",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 31,
+      "Area": "Argentina",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 32,
+      "Area": "Argentina",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 33,
+      "Area": "Argentina",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 34,
+      "Area": "Argentina",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 35,
+      "Area": "Argentina",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 36,
+      "Area": "Armenia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 37,
+      "Area": "Armenia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 38,
+      "Area": "Armenia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 39,
+      "Area": "Armenia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 40,
+      "Area": "Armenia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 41,
+      "Area": "Armenia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 42,
+      "Area": "Australia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 43,
+      "Area": "Australia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 44,
+      "Area": "Australia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 45,
+      "Area": "Australia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 46,
+      "Area": "Australia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 47,
+      "Area": "Australia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 48,
+      "Area": "Austria",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 35
+    },
+    {
+      "id": 49,
+      "Area": "Austria",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 37
+    },
+    {
+      "id": 50,
+      "Area": "Austria",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 38
+    },
+    {
+      "id": 51,
+      "Area": "Austria",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 52,
+      "Area": "Austria",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 29
+    },
+    {
+      "id": 53,
+      "Area": "Austria",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 31
+    },
+    {
+      "id": 54,
+      "Area": "Azerbaijan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 55,
+      "Area": "Azerbaijan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 56,
+      "Area": "Azerbaijan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 57,
+      "Area": "Azerbaijan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 19
+    },
+    {
+      "id": 58,
+      "Area": "Azerbaijan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 59,
+      "Area": "Azerbaijan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 60,
+      "Area": "Bahamas",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 61,
+      "Area": "Bahamas",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 62,
+      "Area": "Bahamas",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 63,
+      "Area": "Bahamas",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 64,
+      "Area": "Bahamas",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 65,
+      "Area": "Bahamas",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 66,
+      "Area": "Bangladesh",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 67,
+      "Area": "Bangladesh",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 68,
+      "Area": "Bangladesh",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 69,
+      "Area": "Bangladesh",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 70,
+      "Area": "Bangladesh",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 71,
+      "Area": "Bangladesh",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 72,
+      "Area": "Barbados",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 73,
+      "Area": "Barbados",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 74,
+      "Area": "Barbados",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 75,
+      "Area": "Barbados",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 76,
+      "Area": "Barbados",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 77,
+      "Area": "Barbados",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 78,
+      "Area": "Belarus",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 79,
+      "Area": "Belarus",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 80,
+      "Area": "Belarus",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 81,
+      "Area": "Belarus",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 82,
+      "Area": "Belarus",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 83,
+      "Area": "Belarus",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 84,
+      "Area": "Belgium",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 75
+    },
+    {
+      "id": 85,
+      "Area": "Belgium",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 71
+    },
+    {
+      "id": 86,
+      "Area": "Belgium",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 90
+    },
+    {
+      "id": 87,
+      "Area": "Belgium",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 84
+    },
+    {
+      "id": 88,
+      "Area": "Belgium",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 85
+    },
+    {
+      "id": 89,
+      "Area": "Belgium",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 89
+    },
+    {
+      "id": 90,
+      "Area": "Belize",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 91,
+      "Area": "Belize",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 92,
+      "Area": "Belize",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 93,
+      "Area": "Belize",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 94,
+      "Area": "Belize",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 95,
+      "Area": "Belize",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 96,
+      "Area": "Benin",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 97,
+      "Area": "Benin",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 98,
+      "Area": "Benin",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 99,
+      "Area": "Benin",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 100,
+      "Area": "Benin",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 101,
+      "Area": "Benin",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 102,
+      "Area": "Bermuda",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 103,
+      "Area": "Bermuda",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 104,
+      "Area": "Bermuda",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 105,
+      "Area": "Bermuda",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 106,
+      "Area": "Bermuda",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 107,
+      "Area": "Bermuda",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 108,
+      "Area": "Bolivia (Plurinational State of)",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 109,
+      "Area": "Bolivia (Plurinational State of)",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 110,
+      "Area": "Bolivia (Plurinational State of)",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 111,
+      "Area": "Bolivia (Plurinational State of)",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 112,
+      "Area": "Bolivia (Plurinational State of)",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 113,
+      "Area": "Bolivia (Plurinational State of)",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 114,
+      "Area": "Bosnia and Herzegovina",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 115,
+      "Area": "Bosnia and Herzegovina",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 116,
+      "Area": "Bosnia and Herzegovina",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 117,
+      "Area": "Bosnia and Herzegovina",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 118,
+      "Area": "Bosnia and Herzegovina",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 119,
+      "Area": "Bosnia and Herzegovina",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 120,
+      "Area": "Botswana",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 121,
+      "Area": "Botswana",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 122,
+      "Area": "Botswana",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 123,
+      "Area": "Botswana",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 124,
+      "Area": "Botswana",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 125,
+      "Area": "Botswana",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 126,
+      "Area": "Brazil",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 127,
+      "Area": "Brazil",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 128,
+      "Area": "Brazil",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 129,
+      "Area": "Brazil",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 130,
+      "Area": "Brazil",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 131,
+      "Area": "Brazil",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 132,
+      "Area": "Brunei Darussalam",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 133,
+      "Area": "Brunei Darussalam",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 134,
+      "Area": "Brunei Darussalam",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 135,
+      "Area": "Brunei Darussalam",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 136,
+      "Area": "Brunei Darussalam",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 137,
+      "Area": "Brunei Darussalam",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 138,
+      "Area": "Bulgaria",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 139,
+      "Area": "Bulgaria",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 140,
+      "Area": "Bulgaria",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 141,
+      "Area": "Bulgaria",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 142,
+      "Area": "Bulgaria",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 143,
+      "Area": "Bulgaria",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 144,
+      "Area": "Burkina Faso",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 145,
+      "Area": "Burkina Faso",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 146,
+      "Area": "Burkina Faso",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 147,
+      "Area": "Burkina Faso",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 148,
+      "Area": "Burkina Faso",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 149,
+      "Area": "Burkina Faso",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 150,
+      "Area": "Cabo Verde",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 151,
+      "Area": "Cabo Verde",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 152,
+      "Area": "Cabo Verde",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 153,
+      "Area": "Cabo Verde",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 154,
+      "Area": "Cabo Verde",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 155,
+      "Area": "Cabo Verde",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 156,
+      "Area": "Cambodia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 157,
+      "Area": "Cambodia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 158,
+      "Area": "Cambodia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 159,
+      "Area": "Cambodia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 160,
+      "Area": "Cambodia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 161,
+      "Area": "Cambodia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 162,
+      "Area": "Cameroon",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 163,
+      "Area": "Cameroon",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 164,
+      "Area": "Cameroon",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 165,
+      "Area": "Cameroon",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 166,
+      "Area": "Cameroon",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 167,
+      "Area": "Cameroon",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 168,
+      "Area": "Canada",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 169,
+      "Area": "Canada",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 38
+    },
+    {
+      "id": 170,
+      "Area": "Canada",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 35
+    },
+    {
+      "id": 171,
+      "Area": "Canada",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 172,
+      "Area": "Canada",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 34
+    },
+    {
+      "id": 173,
+      "Area": "Canada",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 44
+    },
+    {
+      "id": 174,
+      "Area": "Central African Republic",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 175,
+      "Area": "Central African Republic",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 176,
+      "Area": "Central African Republic",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 177,
+      "Area": "Central African Republic",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 178,
+      "Area": "Central African Republic",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 179,
+      "Area": "Central African Republic",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 180,
+      "Area": "Chad",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 181,
+      "Area": "Chad",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 182,
+      "Area": "Chad",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 183,
+      "Area": "Chad",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 184,
+      "Area": "Chad",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 185,
+      "Area": "Chad",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 186,
+      "Area": "Chile",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 187,
+      "Area": "Chile",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 188,
+      "Area": "Chile",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 189,
+      "Area": "Chile",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 190,
+      "Area": "Chile",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 191,
+      "Area": "Chile",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 192,
+      "Area": "China",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 104
+    },
+    {
+      "id": 193,
+      "Area": "China",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 103
+    },
+    {
+      "id": 194,
+      "Area": "China",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 108
+    },
+    {
+      "id": 195,
+      "Area": "China",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 117
+    },
+    {
+      "id": 196,
+      "Area": "China",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 129
+    },
+    {
+      "id": 197,
+      "Area": "China",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 126
+    },
+    {
+      "id": 198,
+      "Area": "China, Hong Kong SAR",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 93
+    },
+    {
+      "id": 199,
+      "Area": "China, Hong Kong SAR",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 95
+    },
+    {
+      "id": 200,
+      "Area": "China, Hong Kong SAR",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 99
+    },
+    {
+      "id": 201,
+      "Area": "China, Hong Kong SAR",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 107
+    },
+    {
+      "id": 202,
+      "Area": "China, Hong Kong SAR",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 117
+    },
+    {
+      "id": 203,
+      "Area": "China, Hong Kong SAR",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 114
+    },
+    {
+      "id": 204,
+      "Area": "China, Macao SAR",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 205,
+      "Area": "China, Macao SAR",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 206,
+      "Area": "China, Macao SAR",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 207,
+      "Area": "China, Macao SAR",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 208,
+      "Area": "China, Macao SAR",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 209,
+      "Area": "China, Macao SAR",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 210,
+      "Area": "China, mainland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 211,
+      "Area": "China, mainland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 212,
+      "Area": "China, mainland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 213,
+      "Area": "China, mainland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 214,
+      "Area": "China, mainland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 215,
+      "Area": "China, mainland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 216,
+      "Area": "China, Taiwan Province of",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 217,
+      "Area": "China, Taiwan Province of",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 218,
+      "Area": "China, Taiwan Province of",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 219,
+      "Area": "China, Taiwan Province of",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 220,
+      "Area": "China, Taiwan Province of",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 221,
+      "Area": "China, Taiwan Province of",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 222,
+      "Area": "Colombia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 223,
+      "Area": "Colombia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 224,
+      "Area": "Colombia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 225,
+      "Area": "Colombia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 226,
+      "Area": "Colombia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 227,
+      "Area": "Colombia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 228,
+      "Area": "Congo",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 229,
+      "Area": "Congo",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 230,
+      "Area": "Congo",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 231,
+      "Area": "Congo",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 232,
+      "Area": "Congo",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 233,
+      "Area": "Congo",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 234,
+      "Area": "Costa Rica",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 235,
+      "Area": "Costa Rica",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 236,
+      "Area": "Costa Rica",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 237,
+      "Area": "Costa Rica",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 238,
+      "Area": "Costa Rica",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 239,
+      "Area": "Costa Rica",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 240,
+      "Area": "Côte d'Ivoire",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 241,
+      "Area": "Côte d'Ivoire",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 242,
+      "Area": "Côte d'Ivoire",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 243,
+      "Area": "Côte d'Ivoire",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 244,
+      "Area": "Côte d'Ivoire",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 245,
+      "Area": "Côte d'Ivoire",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 246,
+      "Area": "Croatia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 247,
+      "Area": "Croatia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 248,
+      "Area": "Croatia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 249,
+      "Area": "Croatia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 250,
+      "Area": "Croatia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 251,
+      "Area": "Croatia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 252,
+      "Area": "Cuba",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 253,
+      "Area": "Cuba",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 254,
+      "Area": "Cuba",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 255,
+      "Area": "Cuba",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 256,
+      "Area": "Cuba",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 257,
+      "Area": "Cuba",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 258,
+      "Area": "Cyprus",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 259,
+      "Area": "Cyprus",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 260,
+      "Area": "Cyprus",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 261,
+      "Area": "Cyprus",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 262,
+      "Area": "Cyprus",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 263,
+      "Area": "Cyprus",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 264,
+      "Area": "Czechia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 27
+    },
+    {
+      "id": 265,
+      "Area": "Czechia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 35
+    },
+    {
+      "id": 266,
+      "Area": "Czechia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 39
+    },
+    {
+      "id": 267,
+      "Area": "Czechia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 41
+    },
+    {
+      "id": 268,
+      "Area": "Czechia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 38
+    },
+    {
+      "id": 269,
+      "Area": "Czechia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 34
+    },
+    {
+      "id": 270,
+      "Area": "Democratic People's Republic of Korea",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 271,
+      "Area": "Democratic People's Republic of Korea",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 272,
+      "Area": "Democratic People's Republic of Korea",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 273,
+      "Area": "Democratic People's Republic of Korea",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 274,
+      "Area": "Democratic People's Republic of Korea",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 275,
+      "Area": "Democratic People's Republic of Korea",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 276,
+      "Area": "Denmark",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 45
+    },
+    {
+      "id": 277,
+      "Area": "Denmark",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 45
+    },
+    {
+      "id": 278,
+      "Area": "Denmark",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 40
+    },
+    {
+      "id": 279,
+      "Area": "Denmark",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 34
+    },
+    {
+      "id": 280,
+      "Area": "Denmark",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 281,
+      "Area": "Denmark",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 28
+    },
+    {
+      "id": 282,
+      "Area": "Djibouti",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 283,
+      "Area": "Djibouti",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 284,
+      "Area": "Djibouti",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 285,
+      "Area": "Djibouti",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 286,
+      "Area": "Djibouti",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 287,
+      "Area": "Djibouti",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 288,
+      "Area": "Dominica",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 289,
+      "Area": "Dominica",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 290,
+      "Area": "Dominica",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 291,
+      "Area": "Dominica",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 292,
+      "Area": "Dominica",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 293,
+      "Area": "Dominica",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 294,
+      "Area": "Dominican Republic",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 295,
+      "Area": "Dominican Republic",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 296,
+      "Area": "Dominican Republic",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 297,
+      "Area": "Dominican Republic",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 298,
+      "Area": "Dominican Republic",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 299,
+      "Area": "Dominican Republic",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 300,
+      "Area": "Ecuador",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 301,
+      "Area": "Ecuador",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 302,
+      "Area": "Ecuador",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 303,
+      "Area": "Ecuador",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 304,
+      "Area": "Ecuador",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 305,
+      "Area": "Ecuador",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 306,
+      "Area": "Egypt",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 307,
+      "Area": "Egypt",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 308,
+      "Area": "Egypt",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 309,
+      "Area": "Egypt",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 310,
+      "Area": "Egypt",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 311,
+      "Area": "Egypt",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 312,
+      "Area": "El Salvador",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 313,
+      "Area": "El Salvador",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 314,
+      "Area": "El Salvador",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 315,
+      "Area": "El Salvador",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 316,
+      "Area": "El Salvador",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 317,
+      "Area": "El Salvador",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 318,
+      "Area": "Estonia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 319,
+      "Area": "Estonia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 320,
+      "Area": "Estonia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 321,
+      "Area": "Estonia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 322,
+      "Area": "Estonia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 323,
+      "Area": "Estonia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 324,
+      "Area": "Eswatini",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 325,
+      "Area": "Eswatini",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 326,
+      "Area": "Eswatini",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 327,
+      "Area": "Eswatini",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 328,
+      "Area": "Eswatini",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 329,
+      "Area": "Eswatini",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 330,
+      "Area": "Ethiopia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 331,
+      "Area": "Ethiopia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 332,
+      "Area": "Ethiopia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 333,
+      "Area": "Ethiopia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 334,
+      "Area": "Ethiopia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 335,
+      "Area": "Ethiopia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 336,
+      "Area": "Fiji",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 337,
+      "Area": "Fiji",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 338,
+      "Area": "Fiji",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 339,
+      "Area": "Fiji",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 340,
+      "Area": "Fiji",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 341,
+      "Area": "Fiji",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 342,
+      "Area": "Finland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 343,
+      "Area": "Finland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 344,
+      "Area": "Finland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 345,
+      "Area": "Finland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 346,
+      "Area": "Finland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 347,
+      "Area": "Finland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 348,
+      "Area": "France",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 175
+    },
+    {
+      "id": 349,
+      "Area": "France",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 184
+    },
+    {
+      "id": 350,
+      "Area": "France",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 105
+    },
+    {
+      "id": 351,
+      "Area": "France",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 109
+    },
+    {
+      "id": 352,
+      "Area": "France",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 140
+    },
+    {
+      "id": 353,
+      "Area": "France",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 100
+    },
+    {
+      "id": 354,
+      "Area": "French Polynesia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 355,
+      "Area": "French Polynesia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 356,
+      "Area": "French Polynesia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 357,
+      "Area": "French Polynesia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 358,
+      "Area": "French Polynesia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 359,
+      "Area": "French Polynesia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 360,
+      "Area": "Gabon",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 361,
+      "Area": "Gabon",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 362,
+      "Area": "Gabon",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 363,
+      "Area": "Gabon",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 364,
+      "Area": "Gabon",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 365,
+      "Area": "Gabon",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 366,
+      "Area": "Gambia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 367,
+      "Area": "Gambia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 368,
+      "Area": "Gambia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 369,
+      "Area": "Gambia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 370,
+      "Area": "Gambia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 371,
+      "Area": "Gambia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 372,
+      "Area": "Georgia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 373,
+      "Area": "Georgia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 374,
+      "Area": "Georgia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 375,
+      "Area": "Georgia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 376,
+      "Area": "Georgia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 377,
+      "Area": "Georgia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 378,
+      "Area": "Germany",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 414
+    },
+    {
+      "id": 379,
+      "Area": "Germany",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 514
+    },
+    {
+      "id": 380,
+      "Area": "Germany",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 575
+    },
+    {
+      "id": 381,
+      "Area": "Germany",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 510
+    },
+    {
+      "id": 382,
+      "Area": "Germany",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 479
+    },
+    {
+      "id": 383,
+      "Area": "Germany",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 464
+    },
+    {
+      "id": 384,
+      "Area": "Ghana",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 385,
+      "Area": "Ghana",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 386,
+      "Area": "Ghana",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 387,
+      "Area": "Ghana",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 388,
+      "Area": "Ghana",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 389,
+      "Area": "Ghana",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 390,
+      "Area": "Greece",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 391,
+      "Area": "Greece",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 11
+    },
+    {
+      "id": 392,
+      "Area": "Greece",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 393,
+      "Area": "Greece",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 394,
+      "Area": "Greece",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 14
+    },
+    {
+      "id": 395,
+      "Area": "Greece",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 26
+    },
+    {
+      "id": 396,
+      "Area": "Grenada",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 397,
+      "Area": "Grenada",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 398,
+      "Area": "Grenada",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 399,
+      "Area": "Grenada",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 400,
+      "Area": "Grenada",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 401,
+      "Area": "Grenada",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 402,
+      "Area": "Guatemala",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 403,
+      "Area": "Guatemala",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 404,
+      "Area": "Guatemala",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 405,
+      "Area": "Guatemala",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 406,
+      "Area": "Guatemala",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 407,
+      "Area": "Guatemala",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 408,
+      "Area": "Guinea",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 409,
+      "Area": "Guinea",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 410,
+      "Area": "Guinea",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 411,
+      "Area": "Guinea",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 412,
+      "Area": "Guinea",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 413,
+      "Area": "Guinea",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 414,
+      "Area": "Guyana",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 415,
+      "Area": "Guyana",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 416,
+      "Area": "Guyana",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 417,
+      "Area": "Guyana",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 418,
+      "Area": "Guyana",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 419,
+      "Area": "Guyana",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 420,
+      "Area": "Haiti",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 421,
+      "Area": "Haiti",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 422,
+      "Area": "Haiti",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 423,
+      "Area": "Haiti",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 424,
+      "Area": "Haiti",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 425,
+      "Area": "Haiti",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 426,
+      "Area": "Honduras",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 427,
+      "Area": "Honduras",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 428,
+      "Area": "Honduras",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 429,
+      "Area": "Honduras",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 430,
+      "Area": "Honduras",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 431,
+      "Area": "Honduras",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 432,
+      "Area": "Hungary",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 15
+    },
+    {
+      "id": 433,
+      "Area": "Hungary",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 434,
+      "Area": "Hungary",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 13
+    },
+    {
+      "id": 435,
+      "Area": "Hungary",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 15
+    },
+    {
+      "id": 436,
+      "Area": "Hungary",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 16
+    },
+    {
+      "id": 437,
+      "Area": "Hungary",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 16
+    },
+    {
+      "id": 438,
+      "Area": "Iceland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 439,
+      "Area": "Iceland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 440,
+      "Area": "Iceland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 441,
+      "Area": "Iceland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 442,
+      "Area": "Iceland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 443,
+      "Area": "Iceland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 444,
+      "Area": "India",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 445,
+      "Area": "India",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 446,
+      "Area": "India",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 447,
+      "Area": "India",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 448,
+      "Area": "India",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 449,
+      "Area": "India",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 450,
+      "Area": "Indonesia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 451,
+      "Area": "Indonesia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 452,
+      "Area": "Indonesia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 453,
+      "Area": "Indonesia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 454,
+      "Area": "Indonesia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 455,
+      "Area": "Indonesia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 456,
+      "Area": "Iran (Islamic Republic of)",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 457,
+      "Area": "Iran (Islamic Republic of)",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 458,
+      "Area": "Iran (Islamic Republic of)",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 459,
+      "Area": "Iran (Islamic Republic of)",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 30
+    },
+    {
+      "id": 460,
+      "Area": "Iran (Islamic Republic of)",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 461,
+      "Area": "Iran (Islamic Republic of)",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 462,
+      "Area": "Iraq",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 122
+    },
+    {
+      "id": 463,
+      "Area": "Iraq",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 179
+    },
+    {
+      "id": 464,
+      "Area": "Iraq",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 199
+    },
+    {
+      "id": 465,
+      "Area": "Iraq",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 188
+    },
+    {
+      "id": 466,
+      "Area": "Iraq",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 256
+    },
+    {
+      "id": 467,
+      "Area": "Iraq",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 294
+    },
+    {
+      "id": 468,
+      "Area": "Ireland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 469,
+      "Area": "Ireland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 11
+    },
+    {
+      "id": 470,
+      "Area": "Ireland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 11
+    },
+    {
+      "id": 471,
+      "Area": "Ireland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 472,
+      "Area": "Ireland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 12
+    },
+    {
+      "id": 473,
+      "Area": "Ireland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 11
+    },
+    {
+      "id": 474,
+      "Area": "Israel",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 475,
+      "Area": "Israel",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 476,
+      "Area": "Israel",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 477,
+      "Area": "Israel",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 478,
+      "Area": "Israel",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 479,
+      "Area": "Israel",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 480,
+      "Area": "Italy",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 26
+    },
+    {
+      "id": 481,
+      "Area": "Italy",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 34
+    },
+    {
+      "id": 482,
+      "Area": "Italy",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 50
+    },
+    {
+      "id": 483,
+      "Area": "Italy",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 39
+    },
+    {
+      "id": 484,
+      "Area": "Italy",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 59
+    },
+    {
+      "id": 485,
+      "Area": "Italy",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 111
+    },
+    {
+      "id": 486,
+      "Area": "Jamaica",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 487,
+      "Area": "Jamaica",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 488,
+      "Area": "Jamaica",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 489,
+      "Area": "Jamaica",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 490,
+      "Area": "Jamaica",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 491,
+      "Area": "Jamaica",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 492,
+      "Area": "Japan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 40
+    },
+    {
+      "id": 493,
+      "Area": "Japan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 33
+    },
+    {
+      "id": 494,
+      "Area": "Japan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 35
+    },
+    {
+      "id": 495,
+      "Area": "Japan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 48
+    },
+    {
+      "id": 496,
+      "Area": "Japan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 40
+    },
+    {
+      "id": 497,
+      "Area": "Japan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 39
+    },
+    {
+      "id": 498,
+      "Area": "Jordan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 499,
+      "Area": "Jordan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 500,
+      "Area": "Jordan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 501,
+      "Area": "Jordan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 502,
+      "Area": "Jordan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 503,
+      "Area": "Jordan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 12
+    },
+    {
+      "id": 504,
+      "Area": "Kazakhstan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 17
+    },
+    {
+      "id": 505,
+      "Area": "Kazakhstan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 20
+    },
+    {
+      "id": 506,
+      "Area": "Kazakhstan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 507,
+      "Area": "Kazakhstan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 16
+    },
+    {
+      "id": 508,
+      "Area": "Kazakhstan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 509,
+      "Area": "Kazakhstan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 510,
+      "Area": "Kenya",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 511,
+      "Area": "Kenya",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 512,
+      "Area": "Kenya",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 513,
+      "Area": "Kenya",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 514,
+      "Area": "Kenya",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 515,
+      "Area": "Kenya",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 516,
+      "Area": "Kiribati",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 517,
+      "Area": "Kiribati",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 518,
+      "Area": "Kiribati",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 519,
+      "Area": "Kiribati",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 520,
+      "Area": "Kiribati",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 521,
+      "Area": "Kiribati",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 522,
+      "Area": "Kuwait",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 523,
+      "Area": "Kuwait",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 524,
+      "Area": "Kuwait",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 525,
+      "Area": "Kuwait",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 526,
+      "Area": "Kuwait",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 527,
+      "Area": "Kuwait",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 528,
+      "Area": "Kyrgyzstan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 529,
+      "Area": "Kyrgyzstan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 530,
+      "Area": "Kyrgyzstan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 531,
+      "Area": "Kyrgyzstan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 532,
+      "Area": "Kyrgyzstan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 533,
+      "Area": "Kyrgyzstan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 534,
+      "Area": "Lao People's Democratic Republic",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 535,
+      "Area": "Lao People's Democratic Republic",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 536,
+      "Area": "Lao People's Democratic Republic",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 537,
+      "Area": "Lao People's Democratic Republic",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 538,
+      "Area": "Lao People's Democratic Republic",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 539,
+      "Area": "Lao People's Democratic Republic",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 540,
+      "Area": "Latvia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 541,
+      "Area": "Latvia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 542,
+      "Area": "Latvia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 543,
+      "Area": "Latvia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 544,
+      "Area": "Latvia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 545,
+      "Area": "Latvia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 11
+    },
+    {
+      "id": 546,
+      "Area": "Lebanon",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 547,
+      "Area": "Lebanon",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 548,
+      "Area": "Lebanon",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 549,
+      "Area": "Lebanon",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 550,
+      "Area": "Lebanon",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 551,
+      "Area": "Lebanon",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 552,
+      "Area": "Lesotho",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 553,
+      "Area": "Lesotho",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 554,
+      "Area": "Lesotho",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 555,
+      "Area": "Lesotho",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 556,
+      "Area": "Lesotho",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 557,
+      "Area": "Lesotho",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 558,
+      "Area": "Liberia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 559,
+      "Area": "Liberia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 560,
+      "Area": "Liberia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 561,
+      "Area": "Liberia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 562,
+      "Area": "Liberia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 563,
+      "Area": "Liberia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 564,
+      "Area": "Lithuania",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 565,
+      "Area": "Lithuania",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 566,
+      "Area": "Lithuania",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 567,
+      "Area": "Lithuania",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 568,
+      "Area": "Lithuania",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 569,
+      "Area": "Lithuania",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 9
+    },
+    {
+      "id": 570,
+      "Area": "Luxembourg",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 571,
+      "Area": "Luxembourg",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 572,
+      "Area": "Luxembourg",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 573,
+      "Area": "Luxembourg",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 574,
+      "Area": "Luxembourg",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 575,
+      "Area": "Luxembourg",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 576,
+      "Area": "Madagascar",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 577,
+      "Area": "Madagascar",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 578,
+      "Area": "Madagascar",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 579,
+      "Area": "Madagascar",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 580,
+      "Area": "Madagascar",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 581,
+      "Area": "Madagascar",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 582,
+      "Area": "Malawi",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 583,
+      "Area": "Malawi",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 584,
+      "Area": "Malawi",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 585,
+      "Area": "Malawi",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 586,
+      "Area": "Malawi",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 587,
+      "Area": "Malawi",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 588,
+      "Area": "Malaysia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 589,
+      "Area": "Malaysia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 590,
+      "Area": "Malaysia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 591,
+      "Area": "Malaysia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 592,
+      "Area": "Malaysia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 593,
+      "Area": "Malaysia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 594,
+      "Area": "Maldives",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 595,
+      "Area": "Maldives",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 596,
+      "Area": "Maldives",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 597,
+      "Area": "Maldives",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 598,
+      "Area": "Maldives",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 599,
+      "Area": "Maldives",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 600,
+      "Area": "Mali",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 601,
+      "Area": "Mali",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 602,
+      "Area": "Mali",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 603,
+      "Area": "Mali",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 604,
+      "Area": "Mali",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 605,
+      "Area": "Mali",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 606,
+      "Area": "Malta",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 607,
+      "Area": "Malta",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 608,
+      "Area": "Malta",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 609,
+      "Area": "Malta",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 610,
+      "Area": "Malta",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 611,
+      "Area": "Malta",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 612,
+      "Area": "Mauritania",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 613,
+      "Area": "Mauritania",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 614,
+      "Area": "Mauritania",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 615,
+      "Area": "Mauritania",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 616,
+      "Area": "Mauritania",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 617,
+      "Area": "Mauritania",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 618,
+      "Area": "Mauritius",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 619,
+      "Area": "Mauritius",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 620,
+      "Area": "Mauritius",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 621,
+      "Area": "Mauritius",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 622,
+      "Area": "Mauritius",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 623,
+      "Area": "Mauritius",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 624,
+      "Area": "Mexico",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 14
+    },
+    {
+      "id": 625,
+      "Area": "Mexico",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 17
+    },
+    {
+      "id": 626,
+      "Area": "Mexico",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 15
+    },
+    {
+      "id": 627,
+      "Area": "Mexico",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 20
+    },
+    {
+      "id": 628,
+      "Area": "Mexico",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 41
+    },
+    {
+      "id": 629,
+      "Area": "Mexico",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 101
+    },
+    {
+      "id": 630,
+      "Area": "Mongolia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 631,
+      "Area": "Mongolia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 632,
+      "Area": "Mongolia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 633,
+      "Area": "Mongolia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 634,
+      "Area": "Mongolia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 635,
+      "Area": "Mongolia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 636,
+      "Area": "Montenegro",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 637,
+      "Area": "Montenegro",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 638,
+      "Area": "Montenegro",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 639,
+      "Area": "Montenegro",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 640,
+      "Area": "Montenegro",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 641,
+      "Area": "Montenegro",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 642,
+      "Area": "Morocco",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 643,
+      "Area": "Morocco",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 644,
+      "Area": "Morocco",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 645,
+      "Area": "Morocco",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 646,
+      "Area": "Morocco",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 647,
+      "Area": "Morocco",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 648,
+      "Area": "Mozambique",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 649,
+      "Area": "Mozambique",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 650,
+      "Area": "Mozambique",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 651,
+      "Area": "Mozambique",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 652,
+      "Area": "Mozambique",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 653,
+      "Area": "Mozambique",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 654,
+      "Area": "Myanmar",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 655,
+      "Area": "Myanmar",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 656,
+      "Area": "Myanmar",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 657,
+      "Area": "Myanmar",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 658,
+      "Area": "Myanmar",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 659,
+      "Area": "Myanmar",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 660,
+      "Area": "Namibia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 661,
+      "Area": "Namibia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 662,
+      "Area": "Namibia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 663,
+      "Area": "Namibia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 664,
+      "Area": "Namibia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 665,
+      "Area": "Namibia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 666,
+      "Area": "Nepal",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 667,
+      "Area": "Nepal",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 668,
+      "Area": "Nepal",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 669,
+      "Area": "Nepal",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 670,
+      "Area": "Nepal",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 671,
+      "Area": "Nepal",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 672,
+      "Area": "Netherlands",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 241
+    },
+    {
+      "id": 673,
+      "Area": "Netherlands",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 146
+    },
+    {
+      "id": 674,
+      "Area": "Netherlands",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 202
+    },
+    {
+      "id": 675,
+      "Area": "Netherlands",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 189
+    },
+    {
+      "id": 676,
+      "Area": "Netherlands",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 190
+    },
+    {
+      "id": 677,
+      "Area": "Netherlands",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 244
+    },
+    {
+      "id": 678,
+      "Area": "Netherlands Antilles (former)",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 679,
+      "Area": "Netherlands Antilles (former)",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 680,
+      "Area": "Netherlands Antilles (former)",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 681,
+      "Area": "New Caledonia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 682,
+      "Area": "New Caledonia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 683,
+      "Area": "New Caledonia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 684,
+      "Area": "New Caledonia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 685,
+      "Area": "New Caledonia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 686,
+      "Area": "New Caledonia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 687,
+      "Area": "New Zealand",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 688,
+      "Area": "New Zealand",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 689,
+      "Area": "New Zealand",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 690,
+      "Area": "New Zealand",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 691,
+      "Area": "New Zealand",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 692,
+      "Area": "New Zealand",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 693,
+      "Area": "Nicaragua",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 694,
+      "Area": "Nicaragua",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 695,
+      "Area": "Nicaragua",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 696,
+      "Area": "Nicaragua",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 697,
+      "Area": "Nicaragua",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 698,
+      "Area": "Nicaragua",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 699,
+      "Area": "Niger",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 700,
+      "Area": "Niger",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 701,
+      "Area": "Niger",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 702,
+      "Area": "Niger",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 703,
+      "Area": "Niger",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 704,
+      "Area": "Niger",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 705,
+      "Area": "Nigeria",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 706,
+      "Area": "Nigeria",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 707,
+      "Area": "Nigeria",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 708,
+      "Area": "Nigeria",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 709,
+      "Area": "Nigeria",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 710,
+      "Area": "Nigeria",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 711,
+      "Area": "North Macedonia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 712,
+      "Area": "North Macedonia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 713,
+      "Area": "North Macedonia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 714,
+      "Area": "North Macedonia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 715,
+      "Area": "North Macedonia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 716,
+      "Area": "North Macedonia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 717,
+      "Area": "Norway",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 718,
+      "Area": "Norway",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 719,
+      "Area": "Norway",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 720,
+      "Area": "Norway",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 721,
+      "Area": "Norway",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 722,
+      "Area": "Norway",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 723,
+      "Area": "Oman",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 17
+    },
+    {
+      "id": 724,
+      "Area": "Oman",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 17
+    },
+    {
+      "id": 725,
+      "Area": "Oman",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 726,
+      "Area": "Oman",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 20
+    },
+    {
+      "id": 727,
+      "Area": "Oman",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 24
+    },
+    {
+      "id": 728,
+      "Area": "Oman",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 23
+    },
+    {
+      "id": 729,
+      "Area": "Pakistan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 730,
+      "Area": "Pakistan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 731,
+      "Area": "Pakistan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 732,
+      "Area": "Pakistan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 733,
+      "Area": "Pakistan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 734,
+      "Area": "Pakistan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 735,
+      "Area": "Panama",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 736,
+      "Area": "Panama",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 737,
+      "Area": "Panama",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 738,
+      "Area": "Panama",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 739,
+      "Area": "Panama",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 740,
+      "Area": "Panama",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 741,
+      "Area": "Paraguay",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 742,
+      "Area": "Paraguay",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 743,
+      "Area": "Paraguay",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 744,
+      "Area": "Paraguay",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 745,
+      "Area": "Paraguay",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 746,
+      "Area": "Paraguay",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 747,
+      "Area": "Peru",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 748,
+      "Area": "Peru",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 749,
+      "Area": "Peru",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 750,
+      "Area": "Peru",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 751,
+      "Area": "Peru",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 752,
+      "Area": "Peru",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 753,
+      "Area": "Philippines",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 754,
+      "Area": "Philippines",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 755,
+      "Area": "Philippines",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 756,
+      "Area": "Philippines",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 757,
+      "Area": "Philippines",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 758,
+      "Area": "Philippines",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 759,
+      "Area": "Poland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 27
+    },
+    {
+      "id": 760,
+      "Area": "Poland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 36
+    },
+    {
+      "id": 761,
+      "Area": "Poland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 762,
+      "Area": "Poland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 36
+    },
+    {
+      "id": 763,
+      "Area": "Poland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 26
+    },
+    {
+      "id": 764,
+      "Area": "Poland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 32
+    },
+    {
+      "id": 765,
+      "Area": "Portugal",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 15
+    },
+    {
+      "id": 766,
+      "Area": "Portugal",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 17
+    },
+    {
+      "id": 767,
+      "Area": "Portugal",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 768,
+      "Area": "Portugal",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 19
+    },
+    {
+      "id": 769,
+      "Area": "Portugal",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 770,
+      "Area": "Portugal",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 771,
+      "Area": "Republic of Korea",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 772,
+      "Area": "Republic of Korea",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 773,
+      "Area": "Republic of Korea",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 774,
+      "Area": "Republic of Korea",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 775,
+      "Area": "Republic of Korea",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 776,
+      "Area": "Republic of Korea",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 777,
+      "Area": "Republic of Moldova",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 778,
+      "Area": "Republic of Moldova",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 779,
+      "Area": "Republic of Moldova",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 780,
+      "Area": "Republic of Moldova",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 781,
+      "Area": "Republic of Moldova",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 782,
+      "Area": "Republic of Moldova",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 783,
+      "Area": "Romania",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 24
+    },
+    {
+      "id": 784,
+      "Area": "Romania",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 26
+    },
+    {
+      "id": 785,
+      "Area": "Romania",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 786,
+      "Area": "Romania",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 25
+    },
+    {
+      "id": 787,
+      "Area": "Romania",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 16
+    },
+    {
+      "id": 788,
+      "Area": "Romania",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 789,
+      "Area": "Russian Federation",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 790,
+      "Area": "Russian Federation",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 791,
+      "Area": "Russian Federation",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 23
+    },
+    {
+      "id": 792,
+      "Area": "Russian Federation",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 27
+    },
+    {
+      "id": 793,
+      "Area": "Russian Federation",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 65
+    },
+    {
+      "id": 794,
+      "Area": "Russian Federation",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 71
+    },
+    {
+      "id": 795,
+      "Area": "Rwanda",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 796,
+      "Area": "Rwanda",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 797,
+      "Area": "Rwanda",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 798,
+      "Area": "Rwanda",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 799,
+      "Area": "Rwanda",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 800,
+      "Area": "Rwanda",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 801,
+      "Area": "Saint Kitts and Nevis",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 802,
+      "Area": "Saint Kitts and Nevis",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 803,
+      "Area": "Saint Kitts and Nevis",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 804,
+      "Area": "Saint Kitts and Nevis",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 805,
+      "Area": "Saint Kitts and Nevis",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 806,
+      "Area": "Saint Kitts and Nevis",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 807,
+      "Area": "Saint Lucia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 808,
+      "Area": "Saint Lucia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 809,
+      "Area": "Saint Lucia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 810,
+      "Area": "Saint Lucia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 811,
+      "Area": "Saint Lucia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 812,
+      "Area": "Saint Lucia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 813,
+      "Area": "Saint Vincent and the Grenadines",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 814,
+      "Area": "Saint Vincent and the Grenadines",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 815,
+      "Area": "Saint Vincent and the Grenadines",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 816,
+      "Area": "Saint Vincent and the Grenadines",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 817,
+      "Area": "Saint Vincent and the Grenadines",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 818,
+      "Area": "Saint Vincent and the Grenadines",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 819,
+      "Area": "Samoa",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 820,
+      "Area": "Samoa",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 821,
+      "Area": "Samoa",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 822,
+      "Area": "Samoa",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 823,
+      "Area": "Samoa",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 824,
+      "Area": "Samoa",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 825,
+      "Area": "Sao Tome and Principe",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 826,
+      "Area": "Sao Tome and Principe",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 827,
+      "Area": "Sao Tome and Principe",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 828,
+      "Area": "Sao Tome and Principe",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 829,
+      "Area": "Sao Tome and Principe",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 830,
+      "Area": "Sao Tome and Principe",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 831,
+      "Area": "Saudi Arabia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 832,
+      "Area": "Saudi Arabia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 833,
+      "Area": "Saudi Arabia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 834,
+      "Area": "Saudi Arabia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 835,
+      "Area": "Saudi Arabia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 12
+    },
+    {
+      "id": 836,
+      "Area": "Saudi Arabia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 837,
+      "Area": "Senegal",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 838,
+      "Area": "Senegal",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 839,
+      "Area": "Senegal",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 840,
+      "Area": "Senegal",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 841,
+      "Area": "Senegal",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 842,
+      "Area": "Senegal",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 843,
+      "Area": "Serbia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 844,
+      "Area": "Serbia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 845,
+      "Area": "Serbia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 846,
+      "Area": "Serbia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 847,
+      "Area": "Serbia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 848,
+      "Area": "Serbia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 849,
+      "Area": "Sierra Leone",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 850,
+      "Area": "Sierra Leone",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 851,
+      "Area": "Sierra Leone",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 852,
+      "Area": "Sierra Leone",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 853,
+      "Area": "Sierra Leone",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 854,
+      "Area": "Sierra Leone",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 855,
+      "Area": "Slovakia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 856,
+      "Area": "Slovakia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 857,
+      "Area": "Slovakia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 13
+    },
+    {
+      "id": 858,
+      "Area": "Slovakia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 12
+    },
+    {
+      "id": 859,
+      "Area": "Slovakia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 12
+    },
+    {
+      "id": 860,
+      "Area": "Slovakia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 861,
+      "Area": "Slovenia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 862,
+      "Area": "Slovenia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 863,
+      "Area": "Slovenia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 864,
+      "Area": "Slovenia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 865,
+      "Area": "Slovenia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 866,
+      "Area": "Slovenia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 867,
+      "Area": "Solomon Islands",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 868,
+      "Area": "Solomon Islands",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 869,
+      "Area": "Solomon Islands",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 870,
+      "Area": "Solomon Islands",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 871,
+      "Area": "Solomon Islands",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 872,
+      "Area": "Solomon Islands",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 873,
+      "Area": "South Africa",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 874,
+      "Area": "South Africa",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 875,
+      "Area": "South Africa",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 876,
+      "Area": "South Africa",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 877,
+      "Area": "South Africa",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 878,
+      "Area": "South Africa",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 879,
+      "Area": "Spain",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 22
+    },
+    {
+      "id": 880,
+      "Area": "Spain",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 29
+    },
+    {
+      "id": 881,
+      "Area": "Spain",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 35
+    },
+    {
+      "id": 882,
+      "Area": "Spain",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 45
+    },
+    {
+      "id": 883,
+      "Area": "Spain",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 46
+    },
+    {
+      "id": 884,
+      "Area": "Spain",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 45
+    },
+    {
+      "id": 885,
+      "Area": "Sri Lanka",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 886,
+      "Area": "Sri Lanka",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 887,
+      "Area": "Sri Lanka",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 888,
+      "Area": "Sri Lanka",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 889,
+      "Area": "Sri Lanka",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 890,
+      "Area": "Sri Lanka",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 891,
+      "Area": "Sudan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 892,
+      "Area": "Sudan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 893,
+      "Area": "Sudan (former)",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 894,
+      "Area": "Sudan (former)",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 895,
+      "Area": "Sudan (former)",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 896,
+      "Area": "Sudan (former)",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 897,
+      "Area": "Suriname",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 898,
+      "Area": "Suriname",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 899,
+      "Area": "Suriname",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 900,
+      "Area": "Suriname",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 901,
+      "Area": "Suriname",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 902,
+      "Area": "Suriname",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 903,
+      "Area": "Sweden",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 16
+    },
+    {
+      "id": 904,
+      "Area": "Sweden",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 905,
+      "Area": "Sweden",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 20
+    },
+    {
+      "id": 906,
+      "Area": "Sweden",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 19
+    },
+    {
+      "id": 907,
+      "Area": "Sweden",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 21
+    },
+    {
+      "id": 908,
+      "Area": "Sweden",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 18
+    },
+    {
+      "id": 909,
+      "Area": "Switzerland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 46
+    },
+    {
+      "id": 910,
+      "Area": "Switzerland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 46
+    },
+    {
+      "id": 911,
+      "Area": "Switzerland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 46
+    },
+    {
+      "id": 912,
+      "Area": "Switzerland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 42
+    },
+    {
+      "id": 913,
+      "Area": "Switzerland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 42
+    },
+    {
+      "id": 914,
+      "Area": "Switzerland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 43
+    },
+    {
+      "id": 915,
+      "Area": "Tajikistan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 916,
+      "Area": "Tajikistan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 917,
+      "Area": "Tajikistan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 918,
+      "Area": "Tajikistan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 919,
+      "Area": "Tajikistan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 920,
+      "Area": "Tajikistan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 921,
+      "Area": "Thailand",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 922,
+      "Area": "Thailand",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 923,
+      "Area": "Thailand",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 924,
+      "Area": "Thailand",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 925,
+      "Area": "Thailand",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 926,
+      "Area": "Thailand",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 927,
+      "Area": "Timor-Leste",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 928,
+      "Area": "Timor-Leste",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 929,
+      "Area": "Timor-Leste",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 930,
+      "Area": "Timor-Leste",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 931,
+      "Area": "Timor-Leste",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 932,
+      "Area": "Timor-Leste",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 933,
+      "Area": "Togo",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 934,
+      "Area": "Togo",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 935,
+      "Area": "Togo",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 936,
+      "Area": "Togo",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 937,
+      "Area": "Togo",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 938,
+      "Area": "Togo",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 939,
+      "Area": "Trinidad and Tobago",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 940,
+      "Area": "Trinidad and Tobago",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 941,
+      "Area": "Trinidad and Tobago",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 942,
+      "Area": "Trinidad and Tobago",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 943,
+      "Area": "Trinidad and Tobago",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 944,
+      "Area": "Trinidad and Tobago",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 5
+    },
+    {
+      "id": 945,
+      "Area": "Tunisia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 946,
+      "Area": "Tunisia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 947,
+      "Area": "Tunisia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 948,
+      "Area": "Tunisia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 949,
+      "Area": "Tunisia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 950,
+      "Area": "Tunisia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 951,
+      "Area": "Turkey",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 952,
+      "Area": "Turkey",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 953,
+      "Area": "Turkey",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 954,
+      "Area": "Turkey",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 955,
+      "Area": "Turkey",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 956,
+      "Area": "Turkey",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 957,
+      "Area": "Turkmenistan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 958,
+      "Area": "Turkmenistan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 959,
+      "Area": "Turkmenistan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 960,
+      "Area": "Turkmenistan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 961,
+      "Area": "Turkmenistan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 962,
+      "Area": "Turkmenistan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 963,
+      "Area": "Uganda",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 964,
+      "Area": "Uganda",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 965,
+      "Area": "Uganda",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 966,
+      "Area": "Uganda",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 967,
+      "Area": "Uganda",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 968,
+      "Area": "Uganda",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 969,
+      "Area": "Ukraine",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 7
+    },
+    {
+      "id": 970,
+      "Area": "Ukraine",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 971,
+      "Area": "Ukraine",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 972,
+      "Area": "Ukraine",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 973,
+      "Area": "Ukraine",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 974,
+      "Area": "Ukraine",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 4
+    },
+    {
+      "id": 975,
+      "Area": "United Arab Emirates",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 40
+    },
+    {
+      "id": 976,
+      "Area": "United Arab Emirates",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 36
+    },
+    {
+      "id": 977,
+      "Area": "United Arab Emirates",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 29
+    },
+    {
+      "id": 978,
+      "Area": "United Arab Emirates",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 31
+    },
+    {
+      "id": 979,
+      "Area": "United Arab Emirates",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 37
+    },
+    {
+      "id": 980,
+      "Area": "United Arab Emirates",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 63
+    },
+    {
+      "id": 981,
+      "Area": "United Kingdom of Great Britain and Northern Ireland",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 121
+    },
+    {
+      "id": 982,
+      "Area": "United Kingdom of Great Britain and Northern Ireland",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 111
+    },
+    {
+      "id": 983,
+      "Area": "United Kingdom of Great Britain and Northern Ireland",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 96
+    },
+    {
+      "id": 984,
+      "Area": "United Kingdom of Great Britain and Northern Ireland",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 85
+    },
+    {
+      "id": 985,
+      "Area": "United Kingdom of Great Britain and Northern Ireland",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 123
+    },
+    {
+      "id": 986,
+      "Area": "United Kingdom of Great Britain and Northern Ireland",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 122
+    },
+    {
+      "id": 987,
+      "Area": "United Republic of Tanzania",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 988,
+      "Area": "United Republic of Tanzania",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 989,
+      "Area": "United Republic of Tanzania",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 990,
+      "Area": "United Republic of Tanzania",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 991,
+      "Area": "United Republic of Tanzania",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 992,
+      "Area": "United Republic of Tanzania",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 993,
+      "Area": "United States of America",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 994,
+      "Area": "United States of America",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 6
+    },
+    {
+      "id": 995,
+      "Area": "United States of America",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 996,
+      "Area": "United States of America",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 8
+    },
+    {
+      "id": 997,
+      "Area": "United States of America",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 10
+    },
+    {
+      "id": 998,
+      "Area": "United States of America",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 11
+    },
+    {
+      "id": 999,
+      "Area": "Uruguay",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1000,
+      "Area": "Uruguay",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1001,
+      "Area": "Uruguay",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1002,
+      "Area": "Uruguay",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1003,
+      "Area": "Uruguay",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1004,
+      "Area": "Uruguay",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1005,
+      "Area": "Uzbekistan",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1006,
+      "Area": "Uzbekistan",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1007,
+      "Area": "Uzbekistan",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1008,
+      "Area": "Uzbekistan",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1009,
+      "Area": "Uzbekistan",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1010,
+      "Area": "Uzbekistan",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1011,
+      "Area": "Vanuatu",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1012,
+      "Area": "Vanuatu",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1013,
+      "Area": "Vanuatu",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1014,
+      "Area": "Vanuatu",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1015,
+      "Area": "Vanuatu",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1016,
+      "Area": "Vanuatu",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1017,
+      "Area": "Venezuela (Bolivarian Republic of)",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 19
+    },
+    {
+      "id": 1018,
+      "Area": "Venezuela (Bolivarian Republic of)",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 1019,
+      "Area": "Venezuela (Bolivarian Republic of)",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 1020,
+      "Area": "Venezuela (Bolivarian Republic of)",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1021,
+      "Area": "Venezuela (Bolivarian Republic of)",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1022,
+      "Area": "Venezuela (Bolivarian Republic of)",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 2
+    },
+    {
+      "id": 1023,
+      "Area": "Viet Nam",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1024,
+      "Area": "Viet Nam",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1025,
+      "Area": "Viet Nam",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1026,
+      "Area": "Viet Nam",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1027,
+      "Area": "Viet Nam",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1028,
+      "Area": "Viet Nam",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1029,
+      "Area": "Yemen",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1030,
+      "Area": "Yemen",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1031,
+      "Area": "Yemen",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1032,
+      "Area": "Yemen",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1033,
+      "Area": "Yemen",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1034,
+      "Area": "Yemen",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1035,
+      "Area": "Zambia",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1036,
+      "Area": "Zambia",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1037,
+      "Area": "Zambia",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1038,
+      "Area": "Zambia",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1039,
+      "Area": "Zambia",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1040,
+      "Area": "Zambia",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1041,
+      "Area": "Zimbabwe",
+      "Year": 2008,
+      "Unit": "1000 tonnes",
+      "Value": 0
+    },
+    {
+      "id": 1042,
+      "Area": "Zimbabwe",
+      "Year": 2009,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 1043,
+      "Area": "Zimbabwe",
+      "Year": 2010,
+      "Unit": "1000 tonnes",
+      "Value": 3
+    },
+    {
+      "id": 1044,
+      "Area": "Zimbabwe",
+      "Year": 2011,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1045,
+      "Area": "Zimbabwe",
+      "Year": 2012,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    },
+    {
+      "id": 1046,
+      "Area": "Zimbabwe",
+      "Year": 2013,
+      "Unit": "1000 tonnes",
+      "Value": 1
+    }
+  ]

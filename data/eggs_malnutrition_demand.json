@@ -1,0 +1,7394 @@
+[
+    {
+      "id": 1,
+      "Counrty": "AFGHANISTAN",
+      "Survey year": 1997,
+      "Wasting": 18.2,
+      "Stunting": 53.2,
+      "Underweight": 44.9
+    },
+    {
+      "id": 2,
+      "Counrty": "AFGHANISTAN",
+      "Survey year": 2004,
+      "Wasting": 8.6,
+      "Stunting": 59.3,
+      "Underweight": 32.9
+    },
+    {
+      "id": 3,
+      "Counrty": "AFGHANISTAN",
+      "Survey year": 2013,
+      "Wasting": 9.5,
+      "Stunting": 40.4,
+      "Underweight": 24.6
+    },
+    {
+      "id": 4,
+      "Counrty": "AFGHANISTAN",
+      "Survey year": 2018,
+      "Wasting": 5.1,
+      "Stunting": 38.2,
+      "Underweight": 19.1
+    },
+    {
+      "id": 5,
+      "Counrty": "ALBANIA",
+      "Survey year": "1996-98",
+      "Wasting": 8.1,
+      "Stunting": 20.4,
+      "Underweight": 7.1
+    },
+    {
+      "id": 6,
+      "Counrty": "ALBANIA",
+      "Survey year": 2000,
+      "Wasting": 12.2,
+      "Stunting": 39.2,
+      "Underweight": 17
+    },
+    {
+      "id": 7,
+      "Counrty": "ALBANIA",
+      "Survey year": 2005,
+      "Wasting": 7.3,
+      "Stunting": 26.7,
+      "Underweight": 6.6
+    },
+    {
+      "id": 8,
+      "Counrty": "ALBANIA",
+      "Survey year": "2008-09",
+      "Wasting": 9.6,
+      "Stunting": 23.2,
+      "Underweight": 6.3
+    },
+    {
+      "id": 9,
+      "Counrty": "ALBANIA",
+      "Survey year": "2017-18",
+      "Wasting": 1.6,
+      "Stunting": 11.3,
+      "Underweight": 1.5
+    },
+    {
+      "id": 10,
+      "Counrty": "ALGERIA",
+      "Survey year": 1987,
+      "Wasting": 4,
+      "Stunting": 16.9,
+      "Underweight": 8
+    },
+    {
+      "id": 11,
+      "Counrty": "ALGERIA",
+      "Survey year": 1992,
+      "Wasting": 7.1,
+      "Stunting": 22.9,
+      "Underweight": 9.2
+    },
+    {
+      "id": 12,
+      "Counrty": "ALGERIA",
+      "Survey year": 1995,
+      "Wasting": 9.6,
+      "Stunting": 22.5,
+      "Underweight": 11.3
+    },
+    {
+      "id": 13,
+      "Counrty": "ALGERIA",
+      "Survey year": 2000,
+      "Wasting": 3.1,
+      "Stunting": 23.6,
+      "Underweight": 5.4
+    },
+    {
+      "id": 14,
+      "Counrty": "ALGERIA",
+      "Survey year": 2002,
+      "Wasting": 9.6,
+      "Stunting": 24,
+      "Underweight": 11.1
+    },
+    {
+      "id": 15,
+      "Counrty": "ALGERIA",
+      "Survey year": 2006,
+      "Wasting": 4.1,
+      "Stunting": 15.4,
+      "Underweight": 3.4
+    },
+    {
+      "id": 16,
+      "Counrty": "ALGERIA",
+      "Survey year": "2012-13",
+      "Wasting": 4.1,
+      "Stunting": 11.7,
+      "Underweight": 3
+    },
+    {
+      "id": 17,
+      "Counrty": "ANGOLA",
+      "Survey year": 1996,
+      "Wasting": 7.7,
+      "Stunting": 61.1,
+      "Underweight": 36.2
+    },
+    {
+      "id": 18,
+      "Counrty": "ANGOLA",
+      "Survey year": 2007,
+      "Wasting": 8.2,
+      "Stunting": 29.2,
+      "Underweight": 15.6
+    },
+    {
+      "id": 19,
+      "Counrty": "ANGOLA",
+      "Survey year": "2015-16",
+      "Wasting": 4.9,
+      "Stunting": 37.6,
+      "Underweight": 19
+    },
+    {
+      "id": 20,
+      "Counrty": "ARGENTINA",
+      "Survey year": 1994,
+      "Wasting": 1.6,
+      "Stunting": 7.1,
+      "Underweight": 1.7
+    },
+    {
+      "id": 21,
+      "Counrty": "ARGENTINA",
+      "Survey year": "1995-96",
+      "Wasting": 4.2,
+      "Stunting": 16.9,
+      "Underweight": 4.7
+    },
+    {
+      "id": 22,
+      "Counrty": "ARGENTINA",
+      "Survey year": "2004-05",
+      "Wasting": 1.2,
+      "Stunting": 8.2,
+      "Underweight": 2.3
+    },
+    {
+      "id": 23,
+      "Counrty": "ARGENTINA",
+      "Survey year": "2018-19",
+      "Wasting": 1.6,
+      "Stunting": 7.9,
+      "Underweight": 1.7
+    },
+    {
+      "id": 24,
+      "Counrty": "ARMENIA",
+      "Survey year": 1998,
+      "Wasting": 3.3,
+      "Stunting": 15.1,
+      "Underweight": 2.7
+    },
+    {
+      "id": 25,
+      "Counrty": "ARMENIA",
+      "Survey year": 2000,
+      "Wasting": 2.5,
+      "Stunting": 17.3,
+      "Underweight": 2.6
+    },
+    {
+      "id": 26,
+      "Counrty": "ARMENIA",
+      "Survey year": 2005,
+      "Wasting": 5.4,
+      "Stunting": 17.9,
+      "Underweight": 4.2
+    },
+    {
+      "id": 27,
+      "Counrty": "ARMENIA",
+      "Survey year": 2010,
+      "Wasting": 4.1,
+      "Stunting": 20.9,
+      "Underweight": 5.3
+    },
+    {
+      "id": 28,
+      "Counrty": "ARMENIA",
+      "Survey year": "2015-16",
+      "Wasting": 4.4,
+      "Stunting": 9.4,
+      "Underweight": 2.6
+    },
+    {
+      "id": 29,
+      "Counrty": "AUSTRALIA",
+      "Survey year": "1995-96",
+      "Wasting": 0,
+      "Stunting": 0,
+      "Underweight": 0
+    },
+    {
+      "id": 30,
+      "Counrty": "AUSTRALIA",
+      "Survey year": 2007,
+      "Wasting": 0,
+      "Stunting": 2,
+      "Underweight": 0.2
+    },
+    {
+      "id": 31,
+      "Counrty": "AUSTRALIA",
+      "Survey year": "2014-15",
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 32,
+      "Counrty": "AUSTRALIA",
+      "Survey year": "2017-18",
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 33,
+      "Counrty": "AZERBAIJAN",
+      "Survey year": 1996,
+      "Wasting": 3.8,
+      "Stunting": 28,
+      "Underweight": 8.8
+    },
+    {
+      "id": 34,
+      "Counrty": "AZERBAIJAN",
+      "Survey year": 2000,
+      "Wasting": 9,
+      "Stunting": 24.2,
+      "Underweight": 14
+    },
+    {
+      "id": 35,
+      "Counrty": "AZERBAIJAN",
+      "Survey year": 2001,
+      "Wasting": 3.2,
+      "Stunting": 18,
+      "Underweight": 5.9
+    },
+    {
+      "id": 36,
+      "Counrty": "AZERBAIJAN",
+      "Survey year": 2006,
+      "Wasting": 6.8,
+      "Stunting": 26.5,
+      "Underweight": 8.4
+    },
+    {
+      "id": 37,
+      "Counrty": "AZERBAIJAN",
+      "Survey year": 2011,
+      "Wasting": 6.6,
+      "Stunting": 16.4,
+      "Underweight": 6.5
+    },
+    {
+      "id": 38,
+      "Counrty": "AZERBAIJAN",
+      "Survey year": 2013,
+      "Wasting": 3.2,
+      "Stunting": 17.8,
+      "Underweight": 4.9
+    },
+    {
+      "id": 39,
+      "Counrty": "BAHRAIN",
+      "Survey year": 1989,
+      "Wasting": 6.8,
+      "Stunting": 13.9,
+      "Underweight": 6.3
+    },
+    {
+      "id": 40,
+      "Counrty": "BAHRAIN",
+      "Survey year": 1995,
+      "Wasting": 6.6,
+      "Stunting": 13.6,
+      "Underweight": 7.6
+    },
+    {
+      "id": 41,
+      "Counrty": "BANGLADESH",
+      "Survey year": "1985-86",
+      "Wasting": 17.3,
+      "Stunting": 70.9,
+      "Underweight": 66.8
+    },
+    {
+      "id": 42,
+      "Counrty": "BANGLADESH",
+      "Survey year": "1989-90",
+      "Wasting": 17.5,
+      "Stunting": 63.4,
+      "Underweight": 61.5
+    },
+    {
+      "id": 43,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1991,
+      "Wasting": 15.2,
+      "Stunting": 73.6,
+      "Underweight": 61.2
+    },
+    {
+      "id": 44,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1992,
+      "Wasting": 16.1,
+      "Stunting": 71.5,
+      "Underweight": 60.6
+    },
+    {
+      "id": 45,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1993,
+      "Wasting": 14,
+      "Stunting": 69.2,
+      "Underweight": 56.1
+    },
+    {
+      "id": 46,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1994,
+      "Wasting": 16.7,
+      "Stunting": 67.3,
+      "Underweight": 58
+    },
+    {
+      "id": 47,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1995,
+      "Wasting": 15.1,
+      "Stunting": 65.8,
+      "Underweight": 55.2
+    },
+    {
+      "id": 48,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1996,
+      "Wasting": 15.5,
+      "Stunting": 63.8,
+      "Underweight": 54
+    },
+    {
+      "id": 49,
+      "Counrty": "BANGLADESH",
+      "Survey year": "1996-97",
+      "Wasting": 20.7,
+      "Stunting": 59.6,
+      "Underweight": 53.6
+    },
+    {
+      "id": 50,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1998,
+      "Wasting": 15,
+      "Stunting": 59.3,
+      "Underweight": 50.7
+    },
+    {
+      "id": 51,
+      "Counrty": "BANGLADESH",
+      "Survey year": 1999,
+      "Wasting": 13.7,
+      "Stunting": 59.9,
+      "Underweight": 49.5
+    },
+    {
+      "id": 52,
+      "Counrty": "BANGLADESH",
+      "Survey year": "1999-00",
+      "Wasting": 12.5,
+      "Stunting": 51.1,
+      "Underweight": 42.4
+    },
+    {
+      "id": 53,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2001,
+      "Wasting": 12.7,
+      "Stunting": 53.2,
+      "Underweight": 43.2
+    },
+    {
+      "id": 54,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2002,
+      "Wasting": 12.4,
+      "Stunting": 51.4,
+      "Underweight": 41
+    },
+    {
+      "id": 55,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2003,
+      "Wasting": 12.5,
+      "Stunting": 47.8,
+      "Underweight": 38.9
+    },
+    {
+      "id": 56,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2004,
+      "Wasting": 14.6,
+      "Stunting": 50.5,
+      "Underweight": 42.8
+    },
+    {
+      "id": 57,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2005,
+      "Wasting": 11.8,
+      "Stunting": 45.9,
+      "Underweight": 37.3
+    },
+    {
+      "id": 58,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2006,
+      "Wasting": 11.9,
+      "Stunting": 45.1,
+      "Underweight": 37.9
+    },
+    {
+      "id": 59,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2007,
+      "Wasting": 17.5,
+      "Stunting": 43.2,
+      "Underweight": 41.3
+    },
+    {
+      "id": 60,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2011,
+      "Wasting": 15.7,
+      "Stunting": 41.3,
+      "Underweight": 36.7
+    },
+    {
+      "id": 61,
+      "Counrty": "BANGLADESH",
+      "Survey year": "2012-13",
+      "Wasting": 9.6,
+      "Stunting": 42,
+      "Underweight": 31.9
+    },
+    {
+      "id": 62,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2013,
+      "Wasting": 18.1,
+      "Stunting": 38.7,
+      "Underweight": 35.1
+    },
+    {
+      "id": 63,
+      "Counrty": "BANGLADESH",
+      "Survey year": 2014,
+      "Wasting": 14.4,
+      "Stunting": 36.2,
+      "Underweight": 32.8
+    },
+    {
+      "id": 64,
+      "Counrty": "BANGLADESH",
+      "Survey year": "2017-18",
+      "Wasting": 8.4,
+      "Stunting": 30.8,
+      "Underweight": 21.9
+    },
+    {
+      "id": 65,
+      "Counrty": "BARBADOS",
+      "Survey year": 2012,
+      "Wasting": 6.8,
+      "Stunting": 7.7,
+      "Underweight": 3.5
+    },
+    {
+      "id": 66,
+      "Counrty": "BELARUS",
+      "Survey year": 2005,
+      "Wasting": 2.2,
+      "Stunting": 4.5,
+      "Underweight": 1.3
+    },
+    {
+      "id": 67,
+      "Counrty": "BELIZE",
+      "Survey year": 1992,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 5.4
+    },
+    {
+      "id": 68,
+      "Counrty": "BELIZE",
+      "Survey year": 2006,
+      "Wasting": 1.9,
+      "Stunting": 22,
+      "Underweight": 5
+    },
+    {
+      "id": 69,
+      "Counrty": "BELIZE",
+      "Survey year": 2011,
+      "Wasting": 3.3,
+      "Stunting": 19.3,
+      "Underweight": 6.2
+    },
+    {
+      "id": 70,
+      "Counrty": "BELIZE",
+      "Survey year": "2015-16",
+      "Wasting": 1.8,
+      "Stunting": 15,
+      "Underweight": 4.6
+    },
+    {
+      "id": 71,
+      "Counrty": "BENIN",
+      "Survey year": 1996,
+      "Wasting": 12.3,
+      "Stunting": 39.1,
+      "Underweight": 26.2
+    },
+    {
+      "id": 72,
+      "Counrty": "BENIN",
+      "Survey year": 2001,
+      "Wasting": 9,
+      "Stunting": 36.2,
+      "Underweight": 19.5
+    },
+    {
+      "id": 73,
+      "Counrty": "BENIN",
+      "Survey year": 2014,
+      "Wasting": 4.5,
+      "Stunting": 34,
+      "Underweight": 18
+    },
+    {
+      "id": 74,
+      "Counrty": "BENIN",
+      "Survey year": "2017-18",
+      "Wasting": 5,
+      "Stunting": 32.2,
+      "Underweight": 16.8
+    },
+    {
+      "id": 75,
+      "Counrty": "BHUTAN",
+      "Survey year": "1986-88",
+      "Wasting": 5.2,
+      "Stunting": 60.9,
+      "Underweight": 34
+    },
+    {
+      "id": 76,
+      "Counrty": "BHUTAN",
+      "Survey year": 1999,
+      "Wasting": 2.5,
+      "Stunting": 47.7,
+      "Underweight": 14.1
+    },
+    {
+      "id": 77,
+      "Counrty": "BHUTAN",
+      "Survey year": 2008,
+      "Wasting": 4.5,
+      "Stunting": 34.9,
+      "Underweight": 10.4
+    },
+    {
+      "id": 78,
+      "Counrty": "BHUTAN",
+      "Survey year": 2010,
+      "Wasting": 5.9,
+      "Stunting": 33.5,
+      "Underweight": 12.7
+    },
+    {
+      "id": 79,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 1988,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 9.8
+    },
+    {
+      "id": 80,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 1989,
+      "Wasting": 1.5,
+      "Stunting": 44,
+      "Underweight": 7.8
+    },
+    {
+      "id": 81,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 1990,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 9.7
+    },
+    {
+      "id": 82,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 1991,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 10.2
+    },
+    {
+      "id": 83,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 1992,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 10.5
+    },
+    {
+      "id": 84,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": "1993-94",
+      "Wasting": 3.6,
+      "Stunting": 37.1,
+      "Underweight": 11
+    },
+    {
+      "id": 85,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 1998,
+      "Wasting": 1.6,
+      "Stunting": 33.2,
+      "Underweight": 5.9
+    },
+    {
+      "id": 86,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": "2003-04",
+      "Wasting": 1.7,
+      "Stunting": 32.4,
+      "Underweight": 5.8
+    },
+    {
+      "id": 87,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 2008,
+      "Wasting": 1.4,
+      "Stunting": 27.1,
+      "Underweight": 4.5
+    },
+    {
+      "id": 88,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 2012,
+      "Wasting": 1.5,
+      "Stunting": 18.2,
+      "Underweight": 3.6
+    },
+    {
+      "id": 89,
+      "Counrty": "BOLIVIA (PLURINATIONAL STATE OF)",
+      "Survey year": 2016,
+      "Wasting": 2,
+      "Stunting": 16.1,
+      "Underweight": 3.4
+    },
+    {
+      "id": 90,
+      "Counrty": "BOSNIA AND HERZEGOVINA",
+      "Survey year": 2000,
+      "Wasting": 7.4,
+      "Stunting": 12.1,
+      "Underweight": 4.2
+    },
+    {
+      "id": 91,
+      "Counrty": "BOSNIA AND HERZEGOVINA",
+      "Survey year": 2006,
+      "Wasting": 4,
+      "Stunting": 11.8,
+      "Underweight": 1.6
+    },
+    {
+      "id": 92,
+      "Counrty": "BOSNIA AND HERZEGOVINA",
+      "Survey year": "2011-12",
+      "Wasting": 2.3,
+      "Stunting": 8.9,
+      "Underweight": 1.6
+    },
+    {
+      "id": 93,
+      "Counrty": "BOTSWANA",
+      "Survey year": 1996,
+      "Wasting": 13.2,
+      "Stunting": 35.1,
+      "Underweight": 15.1
+    },
+    {
+      "id": 94,
+      "Counrty": "BOTSWANA",
+      "Survey year": 2000,
+      "Wasting": 5.9,
+      "Stunting": 29.1,
+      "Underweight": 11.1
+    },
+    {
+      "id": 95,
+      "Counrty": "BOTSWANA",
+      "Survey year": "2007-08",
+      "Wasting": 7.3,
+      "Stunting": 28.9,
+      "Underweight": 11.8
+    },
+    {
+      "id": 96,
+      "Counrty": "BRAZIL",
+      "Survey year": 1989,
+      "Wasting": 2.4,
+      "Stunting": 19.8,
+      "Underweight": 5.6
+    },
+    {
+      "id": 97,
+      "Counrty": "BRAZIL",
+      "Survey year": 1996,
+      "Wasting": 2.8,
+      "Stunting": 13,
+      "Underweight": 4.5
+    },
+    {
+      "id": 98,
+      "Counrty": "BRAZIL",
+      "Survey year": "2002-03",
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 3.7
+    },
+    {
+      "id": 99,
+      "Counrty": "BRAZIL",
+      "Survey year": "2006-07",
+      "Wasting": 1.8,
+      "Stunting": 7,
+      "Underweight": 2.2
+    },
+    {
+      "id": 100,
+      "Counrty": "BRUNEI DARUSSALAM",
+      "Survey year": 2009,
+      "Wasting": 2.9,
+      "Stunting": 19.7,
+      "Underweight": 9.6
+    },
+    {
+      "id": 101,
+      "Counrty": "BULGARIA",
+      "Survey year": 2004,
+      "Wasting": 3.2,
+      "Stunting": 8.8,
+      "Underweight": 1.6
+    },
+    {
+      "id": 102,
+      "Counrty": "BULGARIA",
+      "Survey year": 2007,
+      "Wasting": 4.5,
+      "Stunting": 6.6,
+      "Underweight": 2.5
+    },
+    {
+      "id": 103,
+      "Counrty": "BULGARIA",
+      "Survey year": 2014,
+      "Wasting": 6.3,
+      "Stunting": 7,
+      "Underweight": 1.9
+    },
+    {
+      "id": 104,
+      "Counrty": "BURKINA FASO",
+      "Survey year": "1992-93",
+      "Wasting": 15.4,
+      "Stunting": 38.7,
+      "Underweight": 28.7
+    },
+    {
+      "id": 105,
+      "Counrty": "BURKINA FASO",
+      "Survey year": "1998-99",
+      "Wasting": 15.5,
+      "Stunting": 41.4,
+      "Underweight": 30.9
+    },
+    {
+      "id": 106,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2003,
+      "Wasting": 21.2,
+      "Stunting": 43.1,
+      "Underweight": 35.2
+    },
+    {
+      "id": 107,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2006,
+      "Wasting": 24.4,
+      "Stunting": 40,
+      "Underweight": 35.9
+    },
+    {
+      "id": 108,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2009,
+      "Wasting": 11.3,
+      "Stunting": 35.1,
+      "Underweight": 26
+    },
+    {
+      "id": 109,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2010,
+      "Wasting": 15.5,
+      "Stunting": 34.7,
+      "Underweight": 26.2
+    },
+    {
+      "id": 110,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2011,
+      "Wasting": 10.4,
+      "Stunting": 34.6,
+      "Underweight": 25.1
+    },
+    {
+      "id": 111,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2012,
+      "Wasting": 10.7,
+      "Stunting": 32.8,
+      "Underweight": 24.3
+    },
+    {
+      "id": 112,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2013,
+      "Wasting": 8.1,
+      "Stunting": 31.3,
+      "Underweight": 20.9
+    },
+    {
+      "id": 113,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2014,
+      "Wasting": 8.5,
+      "Stunting": 29,
+      "Underweight": 20
+    },
+    {
+      "id": 114,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2016,
+      "Wasting": 7.5,
+      "Stunting": 26.8,
+      "Underweight": 18.9
+    },
+    {
+      "id": 115,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2017,
+      "Wasting": 8.6,
+      "Stunting": 21.1,
+      "Underweight": 16.2
+    },
+    {
+      "id": 116,
+      "Counrty": "BURKINA FASO",
+      "Survey year": 2018,
+      "Wasting": 8.4,
+      "Stunting": 24.9,
+      "Underweight": 17.7
+    },
+    {
+      "id": 117,
+      "Counrty": "BURUNDI",
+      "Survey year": 1987,
+      "Wasting": 6.7,
+      "Stunting": 56.2,
+      "Underweight": 33.6
+    },
+    {
+      "id": 118,
+      "Counrty": "BURUNDI",
+      "Survey year": 2000,
+      "Wasting": 8.1,
+      "Stunting": 64,
+      "Underweight": 39.1
+    },
+    {
+      "id": 119,
+      "Counrty": "BURUNDI",
+      "Survey year": 2005,
+      "Wasting": 9,
+      "Stunting": 57.7,
+      "Underweight": 35.2
+    },
+    {
+      "id": 120,
+      "Counrty": "BURUNDI",
+      "Survey year": "2010-11",
+      "Wasting": 6,
+      "Stunting": 57.6,
+      "Underweight": 29.1
+    },
+    {
+      "id": 121,
+      "Counrty": "BURUNDI",
+      "Survey year": "2016-17",
+      "Wasting": 5.1,
+      "Stunting": 55.9,
+      "Underweight": 29.3
+    },
+    {
+      "id": 122,
+      "Counrty": "BURUNDI",
+      "Survey year": "2018-19",
+      "Wasting": 4.8,
+      "Stunting": 54,
+      "Underweight": 27
+    },
+    {
+      "id": 123,
+      "Counrty": "CABO VERDE",
+      "Survey year": 1985,
+      "Wasting": 4.2,
+      "Stunting": 26.8,
+      "Underweight": 13.7
+    },
+    {
+      "id": 124,
+      "Counrty": "CABO VERDE",
+      "Survey year": 1994,
+      "Wasting": 6.9,
+      "Stunting": 21.4,
+      "Underweight": 11.8
+    },
+    {
+      "id": 125,
+      "Counrty": "CAMBODIA",
+      "Survey year": 1996,
+      "Wasting": 13.4,
+      "Stunting": 58.6,
+      "Underweight": 42.6
+    },
+    {
+      "id": 126,
+      "Counrty": "CAMBODIA",
+      "Survey year": 2000,
+      "Wasting": 17.1,
+      "Stunting": 49,
+      "Underweight": 39.7
+    },
+    {
+      "id": 127,
+      "Counrty": "CAMBODIA",
+      "Survey year": "2005-06",
+      "Wasting": 8.5,
+      "Stunting": 42.8,
+      "Underweight": 28.3
+    },
+    {
+      "id": 128,
+      "Counrty": "CAMBODIA",
+      "Survey year": 2008,
+      "Wasting": 9.1,
+      "Stunting": 39.5,
+      "Underweight": 28.3
+    },
+    {
+      "id": 129,
+      "Counrty": "CAMBODIA",
+      "Survey year": "2010-11",
+      "Wasting": 11,
+      "Stunting": 39.8,
+      "Underweight": 28.9
+    },
+    {
+      "id": 130,
+      "Counrty": "CAMBODIA",
+      "Survey year": 2014,
+      "Wasting": 9.7,
+      "Stunting": 32.4,
+      "Underweight": 24.1
+    },
+    {
+      "id": 131,
+      "Counrty": "CAMEROON",
+      "Survey year": 1991,
+      "Wasting": 4.5,
+      "Stunting": 31.6,
+      "Underweight": 12.9
+    },
+    {
+      "id": 132,
+      "Counrty": "CAMEROON",
+      "Survey year": 1998,
+      "Wasting": 6.2,
+      "Stunting": 38.2,
+      "Underweight": 17.3
+    },
+    {
+      "id": 133,
+      "Counrty": "CAMEROON",
+      "Survey year": 2004,
+      "Wasting": 6.2,
+      "Stunting": 35.6,
+      "Underweight": 15.1
+    },
+    {
+      "id": 134,
+      "Counrty": "CAMEROON",
+      "Survey year": 2006,
+      "Wasting": 7.6,
+      "Stunting": 37.6,
+      "Underweight": 16.5
+    },
+    {
+      "id": 135,
+      "Counrty": "CAMEROON",
+      "Survey year": 2011,
+      "Wasting": 5.7,
+      "Stunting": 32.6,
+      "Underweight": 15.2
+    },
+    {
+      "id": 136,
+      "Counrty": "CAMEROON",
+      "Survey year": 2014,
+      "Wasting": 5.2,
+      "Stunting": 31.7,
+      "Underweight": 14.8
+    },
+    {
+      "id": 137,
+      "Counrty": "CAMEROON",
+      "Survey year": "2018-19",
+      "Wasting": 4.3,
+      "Stunting": 28.9,
+      "Underweight": 11
+    },
+    {
+      "id": 138,
+      "Counrty": "CANADA",
+      "Survey year": 2004,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 139,
+      "Counrty": "CENTRAL AFRICAN REPUBLIC",
+      "Survey year": "1994-95",
+      "Wasting": 8.7,
+      "Stunting": 41.5,
+      "Underweight": 24
+    },
+    {
+      "id": 140,
+      "Counrty": "CENTRAL AFRICAN REPUBLIC",
+      "Survey year": 2000,
+      "Wasting": 10.4,
+      "Stunting": 44.4,
+      "Underweight": 21.3
+    },
+    {
+      "id": 141,
+      "Counrty": "CENTRAL AFRICAN REPUBLIC",
+      "Survey year": 2006,
+      "Wasting": 12.1,
+      "Stunting": 43.6,
+      "Underweight": 26.1
+    },
+    {
+      "id": 142,
+      "Counrty": "CENTRAL AFRICAN REPUBLIC",
+      "Survey year": "2010-11",
+      "Wasting": 7.4,
+      "Stunting": 40.7,
+      "Underweight": 23.5
+    },
+    {
+      "id": 143,
+      "Counrty": "CENTRAL AFRICAN REPUBLIC",
+      "Survey year": 2012,
+      "Wasting": 7.4,
+      "Stunting": 39.7,
+      "Underweight": 24.5
+    },
+    {
+      "id": 144,
+      "Counrty": "CENTRAL AFRICAN REPUBLIC",
+      "Survey year": 2018,
+      "Wasting": 6.5,
+      "Stunting": 37.5,
+      "Underweight": 19.7
+    },
+    {
+      "id": 145,
+      "Counrty": "CHAD",
+      "Survey year": "1996-97",
+      "Wasting": 16.5,
+      "Stunting": 44.5,
+      "Underweight": 34.3
+    },
+    {
+      "id": 146,
+      "Counrty": "CHAD",
+      "Survey year": 2000,
+      "Wasting": 13.9,
+      "Stunting": 38.9,
+      "Underweight": 29.2
+    },
+    {
+      "id": 147,
+      "Counrty": "CHAD",
+      "Survey year": 2004,
+      "Wasting": 16.2,
+      "Stunting": 44.4,
+      "Underweight": 33.8
+    },
+    {
+      "id": 148,
+      "Counrty": "CHAD",
+      "Survey year": 2010,
+      "Wasting": 16.3,
+      "Stunting": 38.7,
+      "Underweight": 30.3
+    },
+    {
+      "id": 149,
+      "Counrty": "CHAD",
+      "Survey year": "2014-15",
+      "Wasting": 13.3,
+      "Stunting": 39.8,
+      "Underweight": 29.4
+    },
+    {
+      "id": 150,
+      "Counrty": "CHILE",
+      "Survey year": 1986,
+      "Wasting": 0.7,
+      "Stunting": 13.5,
+      "Underweight": 2.2
+    },
+    {
+      "id": 151,
+      "Counrty": "CHILE",
+      "Survey year": 1994,
+      "Wasting": 0.5,
+      "Stunting": 4.2,
+      "Underweight": 0.8
+    },
+    {
+      "id": 152,
+      "Counrty": "CHILE",
+      "Survey year": 1995,
+      "Wasting": 0.5,
+      "Stunting": 3.9,
+      "Underweight": 0.8
+    },
+    {
+      "id": 153,
+      "Counrty": "CHILE",
+      "Survey year": 1996,
+      "Wasting": 0.5,
+      "Stunting": 3.7,
+      "Underweight": 0.7
+    },
+    {
+      "id": 154,
+      "Counrty": "CHILE",
+      "Survey year": 1998,
+      "Wasting": 0.6,
+      "Stunting": 3.3,
+      "Underweight": 0.7
+    },
+    {
+      "id": 155,
+      "Counrty": "CHILE",
+      "Survey year": 1999,
+      "Wasting": 0.5,
+      "Stunting": 3.1,
+      "Underweight": 0.7
+    },
+    {
+      "id": 156,
+      "Counrty": "CHILE",
+      "Survey year": 2001,
+      "Wasting": 0.5,
+      "Stunting": 2.8,
+      "Underweight": 0.7
+    },
+    {
+      "id": 157,
+      "Counrty": "CHILE",
+      "Survey year": 2002,
+      "Wasting": 0.5,
+      "Stunting": 2.5,
+      "Underweight": 0.7
+    },
+    {
+      "id": 158,
+      "Counrty": "CHILE",
+      "Survey year": 2003,
+      "Wasting": 0.5,
+      "Stunting": 2.5,
+      "Underweight": 0.6
+    },
+    {
+      "id": 159,
+      "Counrty": "CHILE",
+      "Survey year": 2004,
+      "Wasting": 0.5,
+      "Stunting": 2.4,
+      "Underweight": 0.6
+    },
+    {
+      "id": 160,
+      "Counrty": "CHILE",
+      "Survey year": 2006,
+      "Wasting": 0.5,
+      "Stunting": 2.2,
+      "Underweight": 0.6
+    },
+    {
+      "id": 161,
+      "Counrty": "CHILE",
+      "Survey year": 2007,
+      "Wasting": 0.3,
+      "Stunting": 2.1,
+      "Underweight": 0.6
+    },
+    {
+      "id": 162,
+      "Counrty": "CHILE",
+      "Survey year": 2008,
+      "Wasting": 0.3,
+      "Stunting": 2,
+      "Underweight": 0.5
+    },
+    {
+      "id": 163,
+      "Counrty": "CHILE",
+      "Survey year": 2013,
+      "Wasting": 0.3,
+      "Stunting": 1.8,
+      "Underweight": 0.5
+    },
+    {
+      "id": 164,
+      "Counrty": "CHILE",
+      "Survey year": 2014,
+      "Wasting": 0.3,
+      "Stunting": 1.8,
+      "Underweight": 0.5
+    },
+    {
+      "id": 165,
+      "Counrty": "CHINA",
+      "Survey year": 1987,
+      "Wasting": 4.8,
+      "Stunting": 38.3,
+      "Underweight": 18.7
+    },
+    {
+      "id": 166,
+      "Counrty": "CHINA",
+      "Survey year": 1990,
+      "Wasting": 4.2,
+      "Stunting": 32.3,
+      "Underweight": 12.6
+    },
+    {
+      "id": 167,
+      "Counrty": "CHINA",
+      "Survey year": 1992,
+      "Wasting": 3.9,
+      "Stunting": 38,
+      "Underweight": 14.2
+    },
+    {
+      "id": 168,
+      "Counrty": "CHINA",
+      "Survey year": 1995,
+      "Wasting": 5,
+      "Stunting": 31.2,
+      "Underweight": 10.7
+    },
+    {
+      "id": 169,
+      "Counrty": "CHINA",
+      "Survey year": 1998,
+      "Wasting": 2.4,
+      "Stunting": 19.8,
+      "Underweight": 6.9
+    },
+    {
+      "id": 170,
+      "Counrty": "CHINA",
+      "Survey year": 2000,
+      "Wasting": 2.5,
+      "Stunting": 17.8,
+      "Underweight": 7.4
+    },
+    {
+      "id": 171,
+      "Counrty": "CHINA",
+      "Survey year": 2002,
+      "Wasting": 3,
+      "Stunting": 21.8,
+      "Underweight": 6.8
+    },
+    {
+      "id": 172,
+      "Counrty": "CHINA",
+      "Survey year": 2005,
+      "Wasting": 2.9,
+      "Stunting": 11.7,
+      "Underweight": 4.5
+    },
+    {
+      "id": 173,
+      "Counrty": "CHINA",
+      "Survey year": 2008,
+      "Wasting": 2.6,
+      "Stunting": 9.8,
+      "Underweight": 3.8
+    },
+    {
+      "id": 174,
+      "Counrty": "CHINA",
+      "Survey year": 2009,
+      "Wasting": 2.6,
+      "Stunting": 9,
+      "Underweight": 3.4
+    },
+    {
+      "id": 175,
+      "Counrty": "CHINA",
+      "Survey year": 2010,
+      "Wasting": 2.3,
+      "Stunting": 9.4,
+      "Underweight": 3.4
+    },
+    {
+      "id": 176,
+      "Counrty": "CHINA",
+      "Survey year": 2013,
+      "Wasting": 1.9,
+      "Stunting": 8.1,
+      "Underweight": 2.4
+    },
+    {
+      "id": 177,
+      "Counrty": "COLOMBIA",
+      "Survey year": 1986,
+      "Wasting": 1,
+      "Stunting": 26.6,
+      "Underweight": 8.9
+    },
+    {
+      "id": 178,
+      "Counrty": "COLOMBIA",
+      "Survey year": 1989,
+      "Wasting": 3.8,
+      "Stunting": 21.8,
+      "Underweight": 8.8
+    },
+    {
+      "id": 179,
+      "Counrty": "COLOMBIA",
+      "Survey year": 1995,
+      "Wasting": 1.7,
+      "Stunting": 19.6,
+      "Underweight": 6.3
+    },
+    {
+      "id": 180,
+      "Counrty": "COLOMBIA",
+      "Survey year": 2000,
+      "Wasting": 1,
+      "Stunting": 18.2,
+      "Underweight": 4.9
+    },
+    {
+      "id": 181,
+      "Counrty": "COLOMBIA",
+      "Survey year": "2004-05",
+      "Wasting": 1.6,
+      "Stunting": 16,
+      "Underweight": 5
+    },
+    {
+      "id": 182,
+      "Counrty": "COLOMBIA",
+      "Survey year": "2009-10",
+      "Wasting": 0.9,
+      "Stunting": 12.6,
+      "Underweight": 3.4
+    },
+    {
+      "id": 183,
+      "Counrty": "COLOMBIA",
+      "Survey year": "2015-16",
+      "Wasting": 1.6,
+      "Stunting": 12.7,
+      "Underweight": 3.7
+    },
+    {
+      "id": 184,
+      "Counrty": "COMOROS",
+      "Survey year": "1991-92",
+      "Wasting": 5.3,
+      "Stunting": 38.5,
+      "Underweight": 15.2
+    },
+    {
+      "id": 185,
+      "Counrty": "COMOROS",
+      "Survey year": 1996,
+      "Wasting": 10.7,
+      "Stunting": 40,
+      "Underweight": 21.1
+    },
+    {
+      "id": 186,
+      "Counrty": "COMOROS",
+      "Survey year": 2000,
+      "Wasting": 13.3,
+      "Stunting": 46.9,
+      "Underweight": 25.1
+    },
+    {
+      "id": 187,
+      "Counrty": "COMOROS",
+      "Survey year": 2012,
+      "Wasting": 11.2,
+      "Stunting": 31.1,
+      "Underweight": 16.9
+    },
+    {
+      "id": 188,
+      "Counrty": "CONGO",
+      "Survey year": 1987,
+      "Wasting": 6.6,
+      "Stunting": 30.1,
+      "Underweight": 16.4
+    },
+    {
+      "id": 189,
+      "Counrty": "CONGO",
+      "Survey year": 2005,
+      "Wasting": 8,
+      "Stunting": 31.2,
+      "Underweight": 11.9
+    },
+    {
+      "id": 190,
+      "Counrty": "CONGO",
+      "Survey year": "2011-12",
+      "Wasting": 6,
+      "Stunting": 24.4,
+      "Underweight": 11.8
+    },
+    {
+      "id": 191,
+      "Counrty": "CONGO",
+      "Survey year": "2014-15",
+      "Wasting": 8.2,
+      "Stunting": 21.2,
+      "Underweight": 12.3
+    },
+    {
+      "id": 192,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1989,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 2.4
+    },
+    {
+      "id": 193,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1990,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 2.5
+    },
+    {
+      "id": 194,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1991,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 2.2
+    },
+    {
+      "id": 195,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1992,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 2
+    },
+    {
+      "id": 196,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1993,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 2
+    },
+    {
+      "id": 197,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1994,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 1.9
+    },
+    {
+      "id": 198,
+      "Counrty": "COSTA RICA",
+      "Survey year": 1996,
+      "Wasting": 2.4,
+      "Stunting": 8.2,
+      "Underweight": 3.8
+    },
+    {
+      "id": 199,
+      "Counrty": "COSTA RICA",
+      "Survey year": "2008-09",
+      "Wasting": 1,
+      "Stunting": 5.6,
+      "Underweight": 1.1
+    },
+    {
+      "id": 200,
+      "Counrty": "CUBA",
+      "Survey year": 2000,
+      "Wasting": 2.4,
+      "Stunting": 7,
+      "Underweight": 3.4
+    },
+    {
+      "id": 201,
+      "Counrty": "CZECHIA",
+      "Survey year": 1991,
+      "Wasting": 2.8,
+      "Stunting": 3.1,
+      "Underweight": 0.9
+    },
+    {
+      "id": 202,
+      "Counrty": "CZECHIA",
+      "Survey year": "2001-02",
+      "Wasting": 4.6,
+      "Stunting": 2.7,
+      "Underweight": 2.1
+    },
+    {
+      "id": 203,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": "1985-87",
+      "Wasting": 10.3,
+      "Stunting": 22.5,
+      "Underweight": 10.8
+    },
+    {
+      "id": 204,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": 1994,
+      "Wasting": 8.3,
+      "Stunting": 34.2,
+      "Underweight": 20.3
+    },
+    {
+      "id": 205,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": "1998-99",
+      "Wasting": 6.9,
+      "Stunting": 31.2,
+      "Underweight": 18.2
+    },
+    {
+      "id": 206,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": 2006,
+      "Wasting": 8.4,
+      "Stunting": 41.3,
+      "Underweight": 16.5
+    },
+    {
+      "id": 207,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": 2007,
+      "Wasting": 14,
+      "Stunting": 39,
+      "Underweight": 29.4
+    },
+    {
+      "id": 208,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": "2011-12",
+      "Wasting": 7.6,
+      "Stunting": 29.9,
+      "Underweight": 15.7
+    },
+    {
+      "id": 209,
+      "Counrty": "CôTE D'IVOIRE",
+      "Survey year": 2016,
+      "Wasting": 6.1,
+      "Stunting": 21.6,
+      "Underweight": 12.8
+    },
+    {
+      "id": 210,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 1998,
+      "Wasting": 20.8,
+      "Stunting": 63.9,
+      "Underweight": 55.5
+    },
+    {
+      "id": 211,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 2000,
+      "Wasting": 12.2,
+      "Stunting": 51,
+      "Underweight": 24.7
+    },
+    {
+      "id": 212,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 2002,
+      "Wasting": 8.7,
+      "Stunting": 44.7,
+      "Underweight": 17.8
+    },
+    {
+      "id": 213,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 2004,
+      "Wasting": 8.5,
+      "Stunting": 43.1,
+      "Underweight": 20.6
+    },
+    {
+      "id": 214,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 2009,
+      "Wasting": 5.2,
+      "Stunting": 32.4,
+      "Underweight": 18.8
+    },
+    {
+      "id": 215,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 2012,
+      "Wasting": 4,
+      "Stunting": 27.9,
+      "Underweight": 15.2
+    },
+    {
+      "id": 216,
+      "Counrty": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+      "Survey year": 2017,
+      "Wasting": 2.5,
+      "Stunting": 19.1,
+      "Underweight": 9.3
+    },
+    {
+      "id": 217,
+      "Counrty": "DEMOCRATIC REPUBLIC OF THE CONGO",
+      "Survey year": 1995,
+      "Wasting": 11.4,
+      "Stunting": 51,
+      "Underweight": 30.7
+    },
+    {
+      "id": 218,
+      "Counrty": "DEMOCRATIC REPUBLIC OF THE CONGO",
+      "Survey year": 2001,
+      "Wasting": 15.9,
+      "Stunting": 44.4,
+      "Underweight": 30.3
+    },
+    {
+      "id": 219,
+      "Counrty": "DEMOCRATIC REPUBLIC OF THE CONGO",
+      "Survey year": 2007,
+      "Wasting": 10.4,
+      "Stunting": 45.8,
+      "Underweight": 25.6
+    },
+    {
+      "id": 220,
+      "Counrty": "DEMOCRATIC REPUBLIC OF THE CONGO",
+      "Survey year": 2010,
+      "Wasting": 8.5,
+      "Stunting": 43.4,
+      "Underweight": 24.2
+    },
+    {
+      "id": 221,
+      "Counrty": "DEMOCRATIC REPUBLIC OF THE CONGO",
+      "Survey year": "2013-14",
+      "Wasting": 8.1,
+      "Stunting": 42.7,
+      "Underweight": 23.4
+    },
+    {
+      "id": 222,
+      "Counrty": "DJIBOUTI",
+      "Survey year": "1989-90",
+      "Wasting": 12.5,
+      "Stunting": 28,
+      "Underweight": 20.2
+    },
+    {
+      "id": 223,
+      "Counrty": "DJIBOUTI",
+      "Survey year": 1996,
+      "Wasting": 14.9,
+      "Stunting": 31.7,
+      "Underweight": 16
+    },
+    {
+      "id": 224,
+      "Counrty": "DJIBOUTI",
+      "Survey year": 2002,
+      "Wasting": 19.4,
+      "Stunting": 27.1,
+      "Underweight": 24.4
+    },
+    {
+      "id": 225,
+      "Counrty": "DJIBOUTI",
+      "Survey year": 2012,
+      "Wasting": 21.5,
+      "Stunting": 33.5,
+      "Underweight": 29.9
+    },
+    {
+      "id": 226,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 1986,
+      "Wasting": 3.3,
+      "Stunting": 20.4,
+      "Underweight": 8.7
+    },
+    {
+      "id": 227,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 1991,
+      "Wasting": 2.1,
+      "Stunting": 21.1,
+      "Underweight": 8.4
+    },
+    {
+      "id": 228,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 1996,
+      "Wasting": 2,
+      "Stunting": 13.5,
+      "Underweight": 4.7
+    },
+    {
+      "id": 229,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 2000,
+      "Wasting": 1.5,
+      "Stunting": 7.7,
+      "Underweight": 3.3
+    },
+    {
+      "id": 230,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 2002,
+      "Wasting": 2.2,
+      "Stunting": 11.6,
+      "Underweight": 4.2
+    },
+    {
+      "id": 231,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 2006,
+      "Wasting": 1.9,
+      "Stunting": 10.5,
+      "Underweight": 4.6
+    },
+    {
+      "id": 232,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 2007,
+      "Wasting": 2.3,
+      "Stunting": 10.1,
+      "Underweight": 3.4
+    },
+    {
+      "id": 233,
+      "Counrty": "DOMINICAN REPUBLIC",
+      "Survey year": 2013,
+      "Wasting": 2.4,
+      "Stunting": 7.1,
+      "Underweight": 4
+    },
+    {
+      "id": 234,
+      "Counrty": "ECUADOR",
+      "Survey year": 1986,
+      "Wasting": 2.3,
+      "Stunting": 40.2,
+      "Underweight": 14.5
+    },
+    {
+      "id": 235,
+      "Counrty": "ECUADOR",
+      "Survey year": "1998-99",
+      "Wasting": 2.7,
+      "Stunting": 27.9,
+      "Underweight": 10.4
+    },
+    {
+      "id": 236,
+      "Counrty": "ECUADOR",
+      "Survey year": 2004,
+      "Wasting": 2,
+      "Stunting": 29.2,
+      "Underweight": 6.7
+    },
+    {
+      "id": 237,
+      "Counrty": "ECUADOR",
+      "Survey year": "2005-06",
+      "Wasting": 2.1,
+      "Stunting": 25.9,
+      "Underweight": 6.8
+    },
+    {
+      "id": 238,
+      "Counrty": "ECUADOR",
+      "Survey year": 2012,
+      "Wasting": 2.4,
+      "Stunting": 25.4,
+      "Underweight": 6.4
+    },
+    {
+      "id": 239,
+      "Counrty": "ECUADOR",
+      "Survey year": "2013-14",
+      "Wasting": 1.6,
+      "Stunting": 23.9,
+      "Underweight": 5.1
+    },
+    {
+      "id": 240,
+      "Counrty": "EGYPT",
+      "Survey year": "1988-89",
+      "Wasting": 1.9,
+      "Stunting": 34,
+      "Underweight": 9.4
+    },
+    {
+      "id": 241,
+      "Counrty": "EGYPT",
+      "Survey year": 1991,
+      "Wasting": 4.5,
+      "Stunting": 34.9,
+      "Underweight": 10.5
+    },
+    {
+      "id": 242,
+      "Counrty": "EGYPT",
+      "Survey year": "1992-93",
+      "Wasting": 4,
+      "Stunting": 31.1,
+      "Underweight": 8.2
+    },
+    {
+      "id": 243,
+      "Counrty": "EGYPT",
+      "Survey year": "1995-96",
+      "Wasting": 5.7,
+      "Stunting": 34.8,
+      "Underweight": 10.8
+    },
+    {
+      "id": 244,
+      "Counrty": "EGYPT",
+      "Survey year": "1997-98",
+      "Wasting": 7.5,
+      "Stunting": 30.9,
+      "Underweight": 10.2
+    },
+    {
+      "id": 245,
+      "Counrty": "EGYPT",
+      "Survey year": 1998,
+      "Wasting": 6.4,
+      "Stunting": 26.3,
+      "Underweight": 9.4
+    },
+    {
+      "id": 246,
+      "Counrty": "EGYPT",
+      "Survey year": 2000,
+      "Wasting": 6.948063781321184,
+      "Stunting": 24.4,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 247,
+      "Counrty": "EGYPT",
+      "Survey year": 2003,
+      "Wasting": 5.2,
+      "Stunting": 20.2,
+      "Underweight": 8.7
+    },
+    {
+      "id": 248,
+      "Counrty": "EGYPT",
+      "Survey year": 2005,
+      "Wasting": 5.3,
+      "Stunting": 23.9,
+      "Underweight": 5.4
+    },
+    {
+      "id": 249,
+      "Counrty": "EGYPT",
+      "Survey year": 2008,
+      "Wasting": 7.9,
+      "Stunting": 30.7,
+      "Underweight": 6.8
+    },
+    {
+      "id": 250,
+      "Counrty": "EGYPT",
+      "Survey year": 2014,
+      "Wasting": 9.5,
+      "Stunting": 22.3,
+      "Underweight": 7
+    },
+    {
+      "id": 251,
+      "Counrty": "EL SALVADOR",
+      "Survey year": 1988,
+      "Wasting": 2.2,
+      "Stunting": 36.7,
+      "Underweight": 11.1
+    },
+    {
+      "id": 252,
+      "Counrty": "EL SALVADOR",
+      "Survey year": 1993,
+      "Wasting": 1.5,
+      "Stunting": 31.6,
+      "Underweight": 8
+    },
+    {
+      "id": 253,
+      "Counrty": "EL SALVADOR",
+      "Survey year": 1998,
+      "Wasting": 1.5,
+      "Stunting": 32.3,
+      "Underweight": 9.7
+    },
+    {
+      "id": 254,
+      "Counrty": "EL SALVADOR",
+      "Survey year": "2002-03",
+      "Wasting": 1.3,
+      "Stunting": 24.6,
+      "Underweight": 6.1
+    },
+    {
+      "id": 255,
+      "Counrty": "EL SALVADOR",
+      "Survey year": 2008,
+      "Wasting": 1.6,
+      "Stunting": 20.8,
+      "Underweight": 6.7
+    },
+    {
+      "id": 256,
+      "Counrty": "EL SALVADOR",
+      "Survey year": 2014,
+      "Wasting": 2.1,
+      "Stunting": 13.6,
+      "Underweight": 5
+    },
+    {
+      "id": 257,
+      "Counrty": "EQUATORIAL GUINEA",
+      "Survey year": 1997,
+      "Wasting": 4,
+      "Stunting": 38.7,
+      "Underweight": 13.8
+    },
+    {
+      "id": 258,
+      "Counrty": "EQUATORIAL GUINEA",
+      "Survey year": 2000,
+      "Wasting": 9.2,
+      "Stunting": 42.7,
+      "Underweight": 15.7
+    },
+    {
+      "id": 259,
+      "Counrty": "EQUATORIAL GUINEA",
+      "Survey year": 2004,
+      "Wasting": 2.8,
+      "Stunting": 35,
+      "Underweight": 10.6
+    },
+    {
+      "id": 260,
+      "Counrty": "EQUATORIAL GUINEA",
+      "Survey year": 2011,
+      "Wasting": 3.1,
+      "Stunting": 26.2,
+      "Underweight": 5.6
+    },
+    {
+      "id": 261,
+      "Counrty": "ERITREA",
+      "Survey year": 1993,
+      "Wasting": 11.8,
+      "Stunting": 69.6,
+      "Underweight": 36.9
+    },
+    {
+      "id": 262,
+      "Counrty": "ERITREA",
+      "Survey year": "1995-96",
+      "Wasting": 17,
+      "Stunting": 47.8,
+      "Underweight": 39.6
+    },
+    {
+      "id": 263,
+      "Counrty": "ERITREA",
+      "Survey year": 2002,
+      "Wasting": 15,
+      "Stunting": 43,
+      "Underweight": 34.3
+    },
+    {
+      "id": 264,
+      "Counrty": "ERITREA",
+      "Survey year": 2010,
+      "Wasting": 14.6,
+      "Stunting": 52.5,
+      "Underweight": 39.4
+    },
+    {
+      "id": 265,
+      "Counrty": "ESWATINI",
+      "Survey year": 2000,
+      "Wasting": 1.7,
+      "Stunting": 36.5,
+      "Underweight": 9.1
+    },
+    {
+      "id": 266,
+      "Counrty": "ESWATINI",
+      "Survey year": "2006-07",
+      "Wasting": 2.9,
+      "Stunting": 29.2,
+      "Underweight": 6
+    },
+    {
+      "id": 267,
+      "Counrty": "ESWATINI",
+      "Survey year": 2008,
+      "Wasting": 1.1,
+      "Stunting": 40.4,
+      "Underweight": 7.3
+    },
+    {
+      "id": 268,
+      "Counrty": "ESWATINI",
+      "Survey year": 2010,
+      "Wasting": 0.8,
+      "Stunting": 30.9,
+      "Underweight": 5.9
+    },
+    {
+      "id": 269,
+      "Counrty": "ESWATINI",
+      "Survey year": 2014,
+      "Wasting": 2,
+      "Stunting": 25.5,
+      "Underweight": 5.8
+    },
+    {
+      "id": 270,
+      "Counrty": "ETHIOPIA",
+      "Survey year": 1992,
+      "Wasting": 9.2,
+      "Stunting": 66.9,
+      "Underweight": 41.9
+    },
+    {
+      "id": 271,
+      "Counrty": "ETHIOPIA",
+      "Survey year": 2000,
+      "Wasting": 12.4,
+      "Stunting": 57.4,
+      "Underweight": 41.8
+    },
+    {
+      "id": 272,
+      "Counrty": "ETHIOPIA",
+      "Survey year": 2005,
+      "Wasting": 12.4,
+      "Stunting": 50,
+      "Underweight": 34.3
+    },
+    {
+      "id": 273,
+      "Counrty": "ETHIOPIA",
+      "Survey year": "2010-11",
+      "Wasting": 9.8,
+      "Stunting": 44.4,
+      "Underweight": 29.2
+    },
+    {
+      "id": 274,
+      "Counrty": "ETHIOPIA",
+      "Survey year": 2014,
+      "Wasting": 8.7,
+      "Stunting": 40.4,
+      "Underweight": 25.2
+    },
+    {
+      "id": 275,
+      "Counrty": "ETHIOPIA",
+      "Survey year": 2016,
+      "Wasting": 10,
+      "Stunting": 38.3,
+      "Underweight": 23.5
+    },
+    {
+      "id": 276,
+      "Counrty": "ETHIOPIA",
+      "Survey year": 2019,
+      "Wasting": 7.2,
+      "Stunting": 36.8,
+      "Underweight": 21.1
+    },
+    {
+      "id": 277,
+      "Counrty": "FIJI",
+      "Survey year": 1993,
+      "Wasting": 9.8,
+      "Stunting": 4.3,
+      "Underweight": 6.9
+    },
+    {
+      "id": 278,
+      "Counrty": "FIJI",
+      "Survey year": 2004,
+      "Wasting": 6.3,
+      "Stunting": 7.5,
+      "Underweight": 5.3
+    },
+    {
+      "id": 279,
+      "Counrty": "GABON",
+      "Survey year": "2000-01",
+      "Wasting": 4.2,
+      "Stunting": 25.9,
+      "Underweight": 9
+    },
+    {
+      "id": 280,
+      "Counrty": "GABON",
+      "Survey year": 2012,
+      "Wasting": 3.4,
+      "Stunting": 17,
+      "Underweight": 6.4
+    },
+    {
+      "id": 281,
+      "Counrty": "GAMBIA",
+      "Survey year": 1996,
+      "Wasting": 6.948063781321184,
+      "Stunting": 36.1,
+      "Underweight": 23.2
+    },
+    {
+      "id": 282,
+      "Counrty": "GAMBIA",
+      "Survey year": 2000,
+      "Wasting": 9.1,
+      "Stunting": 24.1,
+      "Underweight": 15.4
+    },
+    {
+      "id": 283,
+      "Counrty": "GAMBIA",
+      "Survey year": "2005-06",
+      "Wasting": 7.4,
+      "Stunting": 27.7,
+      "Underweight": 15.8
+    },
+    {
+      "id": 284,
+      "Counrty": "GAMBIA",
+      "Survey year": 2010,
+      "Wasting": 9.5,
+      "Stunting": 23.4,
+      "Underweight": 17.4
+    },
+    {
+      "id": 285,
+      "Counrty": "GAMBIA",
+      "Survey year": 2012,
+      "Wasting": 9.5,
+      "Stunting": 21.1,
+      "Underweight": 17.9
+    },
+    {
+      "id": 286,
+      "Counrty": "GAMBIA",
+      "Survey year": 2013,
+      "Wasting": 11,
+      "Stunting": 24.6,
+      "Underweight": 16.5
+    },
+    {
+      "id": 287,
+      "Counrty": "GAMBIA",
+      "Survey year": 2018,
+      "Wasting": 6.2,
+      "Stunting": 19,
+      "Underweight": 13.9
+    },
+    {
+      "id": 288,
+      "Counrty": "GAMBIA",
+      "Survey year": 2018,
+      "Wasting": 6,
+      "Stunting": 13.6,
+      "Underweight": 10.3
+    },
+    {
+      "id": 289,
+      "Counrty": "GEORGIA",
+      "Survey year": 1999,
+      "Wasting": 3.1,
+      "Stunting": 16.1,
+      "Underweight": 2.7
+    },
+    {
+      "id": 290,
+      "Counrty": "GEORGIA",
+      "Survey year": 2005,
+      "Wasting": 3,
+      "Stunting": 14.6,
+      "Underweight": 2.4
+    },
+    {
+      "id": 291,
+      "Counrty": "GEORGIA",
+      "Survey year": 2009,
+      "Wasting": 1.6,
+      "Stunting": 11.3,
+      "Underweight": 1.1
+    },
+    {
+      "id": 292,
+      "Counrty": "GERMANY",
+      "Survey year": "2003-06",
+      "Wasting": 1,
+      "Stunting": 1.3,
+      "Underweight": 1.1
+    },
+    {
+      "id": 293,
+      "Counrty": "GERMANY",
+      "Survey year": "2014-17",
+      "Wasting": 0.3,
+      "Stunting": 1.7,
+      "Underweight": 0.5
+    },
+    {
+      "id": 294,
+      "Counrty": "GHANA",
+      "Survey year": 1988,
+      "Wasting": 7,
+      "Stunting": 42.6,
+      "Underweight": 24.8
+    },
+    {
+      "id": 295,
+      "Counrty": "GHANA",
+      "Survey year": "1993-94",
+      "Wasting": 10.9,
+      "Stunting": 41.2,
+      "Underweight": 25.8
+    },
+    {
+      "id": 296,
+      "Counrty": "GHANA",
+      "Survey year": "1998-99",
+      "Wasting": 9.9,
+      "Stunting": 30.6,
+      "Underweight": 20.1
+    },
+    {
+      "id": 297,
+      "Counrty": "GHANA",
+      "Survey year": 2003,
+      "Wasting": 8.4,
+      "Stunting": 35.5,
+      "Underweight": 19
+    },
+    {
+      "id": 298,
+      "Counrty": "GHANA",
+      "Survey year": 2006,
+      "Wasting": 6,
+      "Stunting": 27.9,
+      "Underweight": 13.9
+    },
+    {
+      "id": 299,
+      "Counrty": "GHANA",
+      "Survey year": 2008,
+      "Wasting": 8.7,
+      "Stunting": 28.4,
+      "Underweight": 14.4
+    },
+    {
+      "id": 300,
+      "Counrty": "GHANA",
+      "Survey year": 2011,
+      "Wasting": 6.2,
+      "Stunting": 22.8,
+      "Underweight": 13.4
+    },
+    {
+      "id": 301,
+      "Counrty": "GHANA",
+      "Survey year": 2014,
+      "Wasting": 4.7,
+      "Stunting": 18.8,
+      "Underweight": 11.2
+    },
+    {
+      "id": 302,
+      "Counrty": "GHANA",
+      "Survey year": "2017-18",
+      "Wasting": 6.8,
+      "Stunting": 17.5,
+      "Underweight": 12.6
+    },
+    {
+      "id": 303,
+      "Counrty": "GUATEMALA",
+      "Survey year": 1987,
+      "Wasting": 1.9,
+      "Stunting": 66.2,
+      "Underweight": 27.9
+    },
+    {
+      "id": 304,
+      "Counrty": "GUATEMALA",
+      "Survey year": 1995,
+      "Wasting": 3.8,
+      "Stunting": 55.4,
+      "Underweight": 21.7
+    },
+    {
+      "id": 305,
+      "Counrty": "GUATEMALA",
+      "Survey year": "1998-99",
+      "Wasting": 2.9,
+      "Stunting": 53.1,
+      "Underweight": 20.3
+    },
+    {
+      "id": 306,
+      "Counrty": "GUATEMALA",
+      "Survey year": 2000,
+      "Wasting": 3.7,
+      "Stunting": 51,
+      "Underweight": 18.8
+    },
+    {
+      "id": 307,
+      "Counrty": "GUATEMALA",
+      "Survey year": 2002,
+      "Wasting": 1.9,
+      "Stunting": 54.8,
+      "Underweight": 18.2
+    },
+    {
+      "id": 308,
+      "Counrty": "GUATEMALA",
+      "Survey year": "2008-09",
+      "Wasting": 1,
+      "Stunting": 51.5,
+      "Underweight": 14.1
+    },
+    {
+      "id": 309,
+      "Counrty": "GUATEMALA",
+      "Survey year": "2014-15",
+      "Wasting": 0.8,
+      "Stunting": 46.7,
+      "Underweight": 12.4
+    },
+    {
+      "id": 310,
+      "Counrty": "GUINEA",
+      "Survey year": "1994-95",
+      "Wasting": 14,
+      "Stunting": 35.3,
+      "Underweight": 21.2
+    },
+    {
+      "id": 311,
+      "Counrty": "GUINEA",
+      "Survey year": 1999,
+      "Wasting": 9.7,
+      "Stunting": 31.1,
+      "Underweight": 20
+    },
+    {
+      "id": 312,
+      "Counrty": "GUINEA",
+      "Survey year": 2005,
+      "Wasting": 11,
+      "Stunting": 39.3,
+      "Underweight": 22.7
+    },
+    {
+      "id": 313,
+      "Counrty": "GUINEA",
+      "Survey year": "2007-08",
+      "Wasting": 7.2,
+      "Stunting": 34,
+      "Underweight": 16.4
+    },
+    {
+      "id": 314,
+      "Counrty": "GUINEA",
+      "Survey year": "2011-12",
+      "Wasting": 5.1,
+      "Stunting": 34.4,
+      "Underweight": 16
+    },
+    {
+      "id": 315,
+      "Counrty": "GUINEA",
+      "Survey year": 2012,
+      "Wasting": 10,
+      "Stunting": 31.1,
+      "Underweight": 18.8
+    },
+    {
+      "id": 316,
+      "Counrty": "GUINEA",
+      "Survey year": 2016,
+      "Wasting": 8.1,
+      "Stunting": 32.4,
+      "Underweight": 18.3
+    },
+    {
+      "id": 317,
+      "Counrty": "GUINEA",
+      "Survey year": 2018,
+      "Wasting": 9.2,
+      "Stunting": 30.3,
+      "Underweight": 16.3
+    },
+    {
+      "id": 318,
+      "Counrty": "GUINEA-BISSAU",
+      "Survey year": 2000,
+      "Wasting": 11.8,
+      "Stunting": 33.8,
+      "Underweight": 19.8
+    },
+    {
+      "id": 319,
+      "Counrty": "GUINEA-BISSAU",
+      "Survey year": 2006,
+      "Wasting": 8.8,
+      "Stunting": 47.7,
+      "Underweight": 17.4
+    },
+    {
+      "id": 320,
+      "Counrty": "GUINEA-BISSAU",
+      "Survey year": 2010,
+      "Wasting": 5.9,
+      "Stunting": 32,
+      "Underweight": 18
+    },
+    {
+      "id": 321,
+      "Counrty": "GUINEA-BISSAU",
+      "Survey year": 2014,
+      "Wasting": 6,
+      "Stunting": 27.6,
+      "Underweight": 17
+    },
+    {
+      "id": 322,
+      "Counrty": "GUYANA",
+      "Survey year": 1993,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 16.1
+    },
+    {
+      "id": 323,
+      "Counrty": "GUYANA",
+      "Survey year": 1997,
+      "Wasting": 13.3,
+      "Stunting": 14,
+      "Underweight": 10.3
+    },
+    {
+      "id": 324,
+      "Counrty": "GUYANA",
+      "Survey year": 2000,
+      "Wasting": 12.1,
+      "Stunting": 13.9,
+      "Underweight": 11.9
+    },
+    {
+      "id": 325,
+      "Counrty": "GUYANA",
+      "Survey year": "2006-07",
+      "Wasting": 8.3,
+      "Stunting": 17.9,
+      "Underweight": 10.8
+    },
+    {
+      "id": 326,
+      "Counrty": "GUYANA",
+      "Survey year": 2009,
+      "Wasting": 5.5,
+      "Stunting": 19.3,
+      "Underweight": 11
+    },
+    {
+      "id": 327,
+      "Counrty": "GUYANA",
+      "Survey year": 2014,
+      "Wasting": 6.4,
+      "Stunting": 11.3,
+      "Underweight": 8.2
+    },
+    {
+      "id": 328,
+      "Counrty": "HAITI",
+      "Survey year": 1990,
+      "Wasting": 5.9,
+      "Stunting": 40.1,
+      "Underweight": 23.7
+    },
+    {
+      "id": 329,
+      "Counrty": "HAITI",
+      "Survey year": "1994-95",
+      "Wasting": 9.3,
+      "Stunting": 37.1,
+      "Underweight": 23.8
+    },
+    {
+      "id": 330,
+      "Counrty": "HAITI",
+      "Survey year": 2000,
+      "Wasting": 5.5,
+      "Stunting": 28.8,
+      "Underweight": 13.9
+    },
+    {
+      "id": 331,
+      "Counrty": "HAITI",
+      "Survey year": "2005-06",
+      "Wasting": 10.2,
+      "Stunting": 29.6,
+      "Underweight": 18.9
+    },
+    {
+      "id": 332,
+      "Counrty": "HAITI",
+      "Survey year": 2012,
+      "Wasting": 5.1,
+      "Stunting": 22,
+      "Underweight": 11.6
+    },
+    {
+      "id": 333,
+      "Counrty": "HAITI",
+      "Survey year": "2016-17",
+      "Wasting": 3.7,
+      "Stunting": 21.9,
+      "Underweight": 9.5
+    },
+    {
+      "id": 334,
+      "Counrty": "HONDURAS",
+      "Survey year": 1987,
+      "Wasting": 2.3,
+      "Stunting": 43.3,
+      "Underweight": 18.1
+    },
+    {
+      "id": 335,
+      "Counrty": "HONDURAS",
+      "Survey year": "1991-92",
+      "Wasting": 2.4,
+      "Stunting": 42.7,
+      "Underweight": 15
+    },
+    {
+      "id": 336,
+      "Counrty": "HONDURAS",
+      "Survey year": "1993-94",
+      "Wasting": 2.7,
+      "Stunting": 45.7,
+      "Underweight": 16.1
+    },
+    {
+      "id": 337,
+      "Counrty": "HONDURAS",
+      "Survey year": 1996,
+      "Wasting": 1.6,
+      "Stunting": 38.6,
+      "Underweight": 17.9
+    },
+    {
+      "id": 338,
+      "Counrty": "HONDURAS",
+      "Survey year": 2001,
+      "Wasting": 1.3,
+      "Stunting": 35.5,
+      "Underweight": 12.8
+    },
+    {
+      "id": 339,
+      "Counrty": "HONDURAS",
+      "Survey year": "2005-06",
+      "Wasting": 1.4,
+      "Stunting": 29.8,
+      "Underweight": 8.7
+    },
+    {
+      "id": 340,
+      "Counrty": "HONDURAS",
+      "Survey year": "2011-12",
+      "Wasting": 1.4,
+      "Stunting": 22.6,
+      "Underweight": 7.1
+    },
+    {
+      "id": 341,
+      "Counrty": "INDIA",
+      "Survey year": "1988-90",
+      "Wasting": 20.3,
+      "Stunting": 62.7,
+      "Underweight": 55.5
+    },
+    {
+      "id": 342,
+      "Counrty": "INDIA",
+      "Survey year": "1991-92",
+      "Wasting": 20,
+      "Stunting": 61.9,
+      "Underweight": 52.8
+    },
+    {
+      "id": 343,
+      "Counrty": "INDIA",
+      "Survey year": "1992-93",
+      "Wasting": 19.9,
+      "Stunting": 57.7,
+      "Underweight": 51.2
+    },
+    {
+      "id": 344,
+      "Counrty": "INDIA",
+      "Survey year": "1996-97",
+      "Wasting": 18.4,
+      "Stunting": 45.9,
+      "Underweight": 38.4
+    },
+    {
+      "id": 345,
+      "Counrty": "INDIA",
+      "Survey year": "1998-00",
+      "Wasting": 17.1,
+      "Stunting": 54.2,
+      "Underweight": 46.3
+    },
+    {
+      "id": 346,
+      "Counrty": "INDIA",
+      "Survey year": "2005-06",
+      "Wasting": 20,
+      "Stunting": 47.8,
+      "Underweight": 43.5
+    },
+    {
+      "id": 347,
+      "Counrty": "INDIA",
+      "Survey year": "2013-14",
+      "Wasting": 15.1,
+      "Stunting": 38.7,
+      "Underweight": 29.4
+    },
+    {
+      "id": 348,
+      "Counrty": "INDIA",
+      "Survey year": "2015-16",
+      "Wasting": 20.8,
+      "Stunting": 37.9,
+      "Underweight": 36.3
+    },
+    {
+      "id": 349,
+      "Counrty": "INDIA",
+      "Survey year": "2016-18",
+      "Wasting": 17.3,
+      "Stunting": 34.7,
+      "Underweight": 33.4
+    },
+    {
+      "id": 350,
+      "Counrty": "INDONESIA",
+      "Survey year": 1987,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 35.9
+    },
+    {
+      "id": 351,
+      "Counrty": "INDONESIA",
+      "Survey year": 1989,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 31
+    },
+    {
+      "id": 352,
+      "Counrty": "INDONESIA",
+      "Survey year": 1992,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 29.8
+    },
+    {
+      "id": 353,
+      "Counrty": "INDONESIA",
+      "Survey year": 1996,
+      "Wasting": 14.9,
+      "Stunting": 48.1,
+      "Underweight": 30.3
+    },
+    {
+      "id": 354,
+      "Counrty": "INDONESIA",
+      "Survey year": 1998,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 25.8
+    },
+    {
+      "id": 355,
+      "Counrty": "INDONESIA",
+      "Survey year": 1999,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 22.8
+    },
+    {
+      "id": 356,
+      "Counrty": "INDONESIA",
+      "Survey year": 2000,
+      "Wasting": 5.5,
+      "Stunting": 42.4,
+      "Underweight": 24.8
+    },
+    {
+      "id": 357,
+      "Counrty": "INDONESIA",
+      "Survey year": 2001,
+      "Wasting": 5.4,
+      "Stunting": 41.6,
+      "Underweight": 23.4
+    },
+    {
+      "id": 358,
+      "Counrty": "INDONESIA",
+      "Survey year": 2002,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 23
+    },
+    {
+      "id": 359,
+      "Counrty": "INDONESIA",
+      "Survey year": 2003,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 23.1
+    },
+    {
+      "id": 360,
+      "Counrty": "INDONESIA",
+      "Survey year": 2004,
+      "Wasting": 14.4,
+      "Stunting": 28.6,
+      "Underweight": 19.7
+    },
+    {
+      "id": 361,
+      "Counrty": "INDONESIA",
+      "Survey year": 2005,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 24.4
+    },
+    {
+      "id": 362,
+      "Counrty": "INDONESIA",
+      "Survey year": 2007,
+      "Wasting": 14.8,
+      "Stunting": 40.1,
+      "Underweight": 19.6
+    },
+    {
+      "id": 363,
+      "Counrty": "INDONESIA",
+      "Survey year": 2010,
+      "Wasting": 12.3,
+      "Stunting": 39.2,
+      "Underweight": 18.6
+    },
+    {
+      "id": 364,
+      "Counrty": "INDONESIA",
+      "Survey year": 2013,
+      "Wasting": 13.5,
+      "Stunting": 36.4,
+      "Underweight": 19.9
+    },
+    {
+      "id": 365,
+      "Counrty": "INDONESIA",
+      "Survey year": 2018,
+      "Wasting": 10.2,
+      "Stunting": 30.8,
+      "Underweight": 17.7
+    },
+    {
+      "id": 366,
+      "Counrty": "IRAN (ISLAMIC REPUBLIC OF)",
+      "Survey year": 1995,
+      "Wasting": 8.1,
+      "Stunting": 24.4,
+      "Underweight": 13.8
+    },
+    {
+      "id": 367,
+      "Counrty": "IRAN (ISLAMIC REPUBLIC OF)",
+      "Survey year": 1998,
+      "Wasting": 6.1,
+      "Stunting": 20.4,
+      "Underweight": 9.5
+    },
+    {
+      "id": 368,
+      "Counrty": "IRAN (ISLAMIC REPUBLIC OF)",
+      "Survey year": 2004,
+      "Wasting": 4.8,
+      "Stunting": 7.1,
+      "Underweight": 4.6
+    },
+    {
+      "id": 369,
+      "Counrty": "IRAN (ISLAMIC REPUBLIC OF)",
+      "Survey year": "2010-11",
+      "Wasting": 4,
+      "Stunting": 6.8,
+      "Underweight": 4.1
+    },
+    {
+      "id": 370,
+      "Counrty": "IRAQ",
+      "Survey year": 1991,
+      "Wasting": 4.4,
+      "Stunting": 27.6,
+      "Underweight": 10.4
+    },
+    {
+      "id": 371,
+      "Counrty": "IRAQ",
+      "Survey year": 2000,
+      "Wasting": 6.6,
+      "Stunting": 28.1,
+      "Underweight": 12.8
+    },
+    {
+      "id": 372,
+      "Counrty": "IRAQ",
+      "Survey year": 2003,
+      "Wasting": 5.6,
+      "Stunting": 33.7,
+      "Underweight": 10.1
+    },
+    {
+      "id": 373,
+      "Counrty": "IRAQ",
+      "Survey year": 2004,
+      "Wasting": 6.9,
+      "Stunting": 20,
+      "Underweight": 8
+    },
+    {
+      "id": 374,
+      "Counrty": "IRAQ",
+      "Survey year": 2006,
+      "Wasting": 5.8,
+      "Stunting": 27.5,
+      "Underweight": 7.1
+    },
+    {
+      "id": 375,
+      "Counrty": "IRAQ",
+      "Survey year": 2011,
+      "Wasting": 6.5,
+      "Stunting": 22.1,
+      "Underweight": 7.2
+    },
+    {
+      "id": 376,
+      "Counrty": "IRAQ",
+      "Survey year": 2018,
+      "Wasting": 3,
+      "Stunting": 12.6,
+      "Underweight": 3.9
+    },
+    {
+      "id": 377,
+      "Counrty": "JAMAICA",
+      "Survey year": 1989,
+      "Wasting": 4.4,
+      "Stunting": 12.4,
+      "Underweight": 6.3
+    },
+    {
+      "id": 378,
+      "Counrty": "JAMAICA",
+      "Survey year": 1991,
+      "Wasting": 5.5,
+      "Stunting": 11.8,
+      "Underweight": 5.6
+    },
+    {
+      "id": 379,
+      "Counrty": "JAMAICA",
+      "Survey year": 1992,
+      "Wasting": 2.7,
+      "Stunting": 14.4,
+      "Underweight": 5.7
+    },
+    {
+      "id": 380,
+      "Counrty": "JAMAICA",
+      "Survey year": 1993,
+      "Wasting": 4.4,
+      "Stunting": 12.6,
+      "Underweight": 6.1
+    },
+    {
+      "id": 381,
+      "Counrty": "JAMAICA",
+      "Survey year": 1994,
+      "Wasting": 3,
+      "Stunting": 12.1,
+      "Underweight": 4.6
+    },
+    {
+      "id": 382,
+      "Counrty": "JAMAICA",
+      "Survey year": 1995,
+      "Wasting": 4.8,
+      "Stunting": 9.7,
+      "Underweight": 4.8
+    },
+    {
+      "id": 383,
+      "Counrty": "JAMAICA",
+      "Survey year": 1996,
+      "Wasting": 2.5,
+      "Stunting": 11.2,
+      "Underweight": 5.6
+    },
+    {
+      "id": 384,
+      "Counrty": "JAMAICA",
+      "Survey year": 1997,
+      "Wasting": 2.2,
+      "Stunting": 8.7,
+      "Underweight": 3.5
+    },
+    {
+      "id": 385,
+      "Counrty": "JAMAICA",
+      "Survey year": 1998,
+      "Wasting": 2.6,
+      "Stunting": 9.5,
+      "Underweight": 3.8
+    },
+    {
+      "id": 386,
+      "Counrty": "JAMAICA",
+      "Survey year": 1999,
+      "Wasting": 2.4,
+      "Stunting": 5.7,
+      "Underweight": 2.1
+    },
+    {
+      "id": 387,
+      "Counrty": "JAMAICA",
+      "Survey year": 2000,
+      "Wasting": 3,
+      "Stunting": 7.2,
+      "Underweight": 3.9
+    },
+    {
+      "id": 388,
+      "Counrty": "JAMAICA",
+      "Survey year": 2001,
+      "Wasting": 3.2,
+      "Stunting": 6.6,
+      "Underweight": 4
+    },
+    {
+      "id": 389,
+      "Counrty": "JAMAICA",
+      "Survey year": 2002,
+      "Wasting": 2.4,
+      "Stunting": 8.2,
+      "Underweight": 2.7
+    },
+    {
+      "id": 390,
+      "Counrty": "JAMAICA",
+      "Survey year": 2004,
+      "Wasting": 4.5,
+      "Stunting": 4.9,
+      "Underweight": 3.1
+    },
+    {
+      "id": 391,
+      "Counrty": "JAMAICA",
+      "Survey year": 2006,
+      "Wasting": 3.7,
+      "Stunting": 7.5,
+      "Underweight": 4.8
+    },
+    {
+      "id": 392,
+      "Counrty": "JAMAICA",
+      "Survey year": 2007,
+      "Wasting": 2.7,
+      "Stunting": 5.4,
+      "Underweight": 1.8
+    },
+    {
+      "id": 393,
+      "Counrty": "JAMAICA",
+      "Survey year": 2008,
+      "Wasting": 2.5,
+      "Stunting": 6.9,
+      "Underweight": 2.4
+    },
+    {
+      "id": 394,
+      "Counrty": "JAMAICA",
+      "Survey year": 2010,
+      "Wasting": 4.8,
+      "Stunting": 6,
+      "Underweight": 3.4
+    },
+    {
+      "id": 395,
+      "Counrty": "JAMAICA",
+      "Survey year": 2012,
+      "Wasting": 3,
+      "Stunting": 6.8,
+      "Underweight": 2.7
+    },
+    {
+      "id": 396,
+      "Counrty": "JAMAICA",
+      "Survey year": 2014,
+      "Wasting": 3.6,
+      "Stunting": 6,
+      "Underweight": 2.2
+    },
+    {
+      "id": 397,
+      "Counrty": "JAPAN",
+      "Survey year": 2010,
+      "Wasting": 2.3,
+      "Stunting": 7.1,
+      "Underweight": 3.4
+    },
+    {
+      "id": 398,
+      "Counrty": "JORDAN",
+      "Survey year": 1990,
+      "Wasting": 4,
+      "Stunting": 20,
+      "Underweight": 5.1
+    },
+    {
+      "id": 399,
+      "Counrty": "JORDAN",
+      "Survey year": 1997,
+      "Wasting": 2.4,
+      "Stunting": 11.1,
+      "Underweight": 3.8
+    },
+    {
+      "id": 400,
+      "Counrty": "JORDAN",
+      "Survey year": 2002,
+      "Wasting": 2.5,
+      "Stunting": 11.7,
+      "Underweight": 3.7
+    },
+    {
+      "id": 401,
+      "Counrty": "JORDAN",
+      "Survey year": 2009,
+      "Wasting": 1.6,
+      "Stunting": 8.2,
+      "Underweight": 1.9
+    },
+    {
+      "id": 402,
+      "Counrty": "JORDAN",
+      "Survey year": 2012,
+      "Wasting": 2.4,
+      "Stunting": 7.8,
+      "Underweight": 3
+    },
+    {
+      "id": 403,
+      "Counrty": "KAZAKHSTAN",
+      "Survey year": 1995,
+      "Wasting": 6.4,
+      "Stunting": 23.3,
+      "Underweight": 4.4
+    },
+    {
+      "id": 404,
+      "Counrty": "KAZAKHSTAN",
+      "Survey year": 1999,
+      "Wasting": 2.5,
+      "Stunting": 13.2,
+      "Underweight": 3.8
+    },
+    {
+      "id": 405,
+      "Counrty": "KAZAKHSTAN",
+      "Survey year": 2006,
+      "Wasting": 4.9,
+      "Stunting": 17.5,
+      "Underweight": 4.9
+    },
+    {
+      "id": 406,
+      "Counrty": "KAZAKHSTAN",
+      "Survey year": "2010-11",
+      "Wasting": 4.1,
+      "Stunting": 13.1,
+      "Underweight": 3.7
+    },
+    {
+      "id": 407,
+      "Counrty": "KAZAKHSTAN",
+      "Survey year": 2015,
+      "Wasting": 3.1,
+      "Stunting": 8,
+      "Underweight": 2
+    },
+    {
+      "id": 408,
+      "Counrty": "KENYA",
+      "Survey year": "1985-89",
+      "Wasting": 5.5,
+      "Stunting": 37,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 409,
+      "Counrty": "KENYA",
+      "Survey year": 1993,
+      "Wasting": 7.1,
+      "Stunting": 40.2,
+      "Underweight": 19.4
+    },
+    {
+      "id": 410,
+      "Counrty": "KENYA",
+      "Survey year": 1994,
+      "Wasting": 6.8,
+      "Stunting": 41.1,
+      "Underweight": 17.9
+    },
+    {
+      "id": 411,
+      "Counrty": "KENYA",
+      "Survey year": 1998,
+      "Wasting": 7.2,
+      "Stunting": 37.4,
+      "Underweight": 17.5
+    },
+    {
+      "id": 412,
+      "Counrty": "KENYA",
+      "Survey year": 2000,
+      "Wasting": 7.4,
+      "Stunting": 40.8,
+      "Underweight": 17.1
+    },
+    {
+      "id": 413,
+      "Counrty": "KENYA",
+      "Survey year": 2003,
+      "Wasting": 6.2,
+      "Stunting": 35.8,
+      "Underweight": 16.4
+    },
+    {
+      "id": 414,
+      "Counrty": "KENYA",
+      "Survey year": "2005-06",
+      "Wasting": 6.9,
+      "Stunting": 40.3,
+      "Underweight": 18
+    },
+    {
+      "id": 415,
+      "Counrty": "KENYA",
+      "Survey year": "2008-09",
+      "Wasting": 6.9,
+      "Stunting": 35.5,
+      "Underweight": 16.5
+    },
+    {
+      "id": 416,
+      "Counrty": "KENYA",
+      "Survey year": 2014,
+      "Wasting": 4.2,
+      "Stunting": 26.2,
+      "Underweight": 11.2
+    },
+    {
+      "id": 417,
+      "Counrty": "KIRIBATI",
+      "Survey year": 1985,
+      "Wasting": 12.6,
+      "Stunting": 34.4,
+      "Underweight": 11.3
+    },
+    {
+      "id": 418,
+      "Counrty": "KIRIBATI",
+      "Survey year": 2009,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 15.1
+    },
+    {
+      "id": 419,
+      "Counrty": "KUWAIT",
+      "Survey year": "1996-97",
+      "Wasting": 1.7,
+      "Stunting": 5,
+      "Underweight": 1.5
+    },
+    {
+      "id": 420,
+      "Counrty": "KUWAIT",
+      "Survey year": 2001,
+      "Wasting": 2.2,
+      "Stunting": 4,
+      "Underweight": 2.2
+    },
+    {
+      "id": 421,
+      "Counrty": "KUWAIT",
+      "Survey year": 2002,
+      "Wasting": 2.2,
+      "Stunting": 3.6,
+      "Underweight": 2.1
+    },
+    {
+      "id": 422,
+      "Counrty": "KUWAIT",
+      "Survey year": 2003,
+      "Wasting": 2.6,
+      "Stunting": 3.9,
+      "Underweight": 2.3
+    },
+    {
+      "id": 423,
+      "Counrty": "KUWAIT",
+      "Survey year": 2004,
+      "Wasting": 3.4,
+      "Stunting": 4.1,
+      "Underweight": 2.8
+    },
+    {
+      "id": 424,
+      "Counrty": "KUWAIT",
+      "Survey year": 2005,
+      "Wasting": 3.3,
+      "Stunting": 4.5,
+      "Underweight": 2.7
+    },
+    {
+      "id": 425,
+      "Counrty": "KUWAIT",
+      "Survey year": 2006,
+      "Wasting": 2.8,
+      "Stunting": 4.6,
+      "Underweight": 2.7
+    },
+    {
+      "id": 426,
+      "Counrty": "KUWAIT",
+      "Survey year": 2007,
+      "Wasting": 3.6,
+      "Stunting": 5.1,
+      "Underweight": 2.9
+    },
+    {
+      "id": 427,
+      "Counrty": "KUWAIT",
+      "Survey year": 2008,
+      "Wasting": 2.2,
+      "Stunting": 5.1,
+      "Underweight": 2.3
+    },
+    {
+      "id": 428,
+      "Counrty": "KUWAIT",
+      "Survey year": 2009,
+      "Wasting": 1.8,
+      "Stunting": 3.8,
+      "Underweight": 1.7
+    },
+    {
+      "id": 429,
+      "Counrty": "KUWAIT",
+      "Survey year": 2010,
+      "Wasting": 2.4,
+      "Stunting": 4.1,
+      "Underweight": 1.7
+    },
+    {
+      "id": 430,
+      "Counrty": "KUWAIT",
+      "Survey year": 2011,
+      "Wasting": 1.7,
+      "Stunting": 4,
+      "Underweight": 2.1
+    },
+    {
+      "id": 431,
+      "Counrty": "KUWAIT",
+      "Survey year": 2012,
+      "Wasting": 2.4,
+      "Stunting": 4.3,
+      "Underweight": 2.2
+    },
+    {
+      "id": 432,
+      "Counrty": "KUWAIT",
+      "Survey year": 2013,
+      "Wasting": 2.7,
+      "Stunting": 4.8,
+      "Underweight": 3.1
+    },
+    {
+      "id": 433,
+      "Counrty": "KUWAIT",
+      "Survey year": 2014,
+      "Wasting": 2.4,
+      "Stunting": 5.8,
+      "Underweight": 3
+    },
+    {
+      "id": 434,
+      "Counrty": "KUWAIT",
+      "Survey year": 2015,
+      "Wasting": 3.1,
+      "Stunting": 4.9,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 435,
+      "Counrty": "KUWAIT",
+      "Survey year": 2016,
+      "Wasting": 2.4,
+      "Stunting": 5.9,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 436,
+      "Counrty": "KUWAIT",
+      "Survey year": 2017,
+      "Wasting": 2.5,
+      "Stunting": 6.4,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 437,
+      "Counrty": "KYRGYZSTAN",
+      "Survey year": 1997,
+      "Wasting": 2.9,
+      "Stunting": 36.2,
+      "Underweight": 10.4
+    },
+    {
+      "id": 438,
+      "Counrty": "KYRGYZSTAN",
+      "Survey year": "2005-06",
+      "Wasting": 3.4,
+      "Stunting": 18.1,
+      "Underweight": 2.7
+    },
+    {
+      "id": 439,
+      "Counrty": "KYRGYZSTAN",
+      "Survey year": 2009,
+      "Wasting": 1.3,
+      "Stunting": 22.6,
+      "Underweight": 4.7
+    },
+    {
+      "id": 440,
+      "Counrty": "KYRGYZSTAN",
+      "Survey year": 2012,
+      "Wasting": 2.8,
+      "Stunting": 17.9,
+      "Underweight": 3.8
+    },
+    {
+      "id": 441,
+      "Counrty": "KYRGYZSTAN",
+      "Survey year": 2014,
+      "Wasting": 2.8,
+      "Stunting": 12.9,
+      "Underweight": 2.8
+    },
+    {
+      "id": 442,
+      "Counrty": "KYRGYZSTAN",
+      "Survey year": 2018,
+      "Wasting": 2,
+      "Stunting": 11.8,
+      "Underweight": 1.8
+    },
+    {
+      "id": 443,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": 1993,
+      "Wasting": 11.8,
+      "Stunting": 53.6,
+      "Underweight": 39.8
+    },
+    {
+      "id": 444,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": 1994,
+      "Wasting": 12.3,
+      "Stunting": 52.9,
+      "Underweight": 35.9
+    },
+    {
+      "id": 445,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": 2000,
+      "Wasting": 17.5,
+      "Stunting": 47.5,
+      "Underweight": 35.6
+    },
+    {
+      "id": 446,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": 2006,
+      "Wasting": 7.4,
+      "Stunting": 47.7,
+      "Underweight": 31.6
+    },
+    {
+      "id": 447,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": "2011-12",
+      "Wasting": 5.9,
+      "Stunting": 44.2,
+      "Underweight": 26.6
+    },
+    {
+      "id": 448,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": 2015,
+      "Wasting": 9.7,
+      "Stunting": 35.5,
+      "Underweight": 25.5
+    },
+    {
+      "id": 449,
+      "Counrty": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "Survey year": 2017,
+      "Wasting": 9,
+      "Stunting": 33.1,
+      "Underweight": 21.1
+    },
+    {
+      "id": 450,
+      "Counrty": "LEBANON",
+      "Survey year": 1996,
+      "Wasting": 3.6,
+      "Stunting": 17.2,
+      "Underweight": 3.5
+    },
+    {
+      "id": 451,
+      "Counrty": "LEBANON",
+      "Survey year": 2004,
+      "Wasting": 6.6,
+      "Stunting": 16.5,
+      "Underweight": 4.2
+    },
+    {
+      "id": 452,
+      "Counrty": "LESOTHO",
+      "Survey year": 1992,
+      "Wasting": 3.2,
+      "Stunting": 39.2,
+      "Underweight": 13.8
+    },
+    {
+      "id": 453,
+      "Counrty": "LESOTHO",
+      "Survey year": 1993,
+      "Wasting": 22.4,
+      "Stunting": 37.5,
+      "Underweight": 18.9
+    },
+    {
+      "id": 454,
+      "Counrty": "LESOTHO",
+      "Survey year": 2000,
+      "Wasting": 6.8,
+      "Stunting": 52.7,
+      "Underweight": 14.9
+    },
+    {
+      "id": 455,
+      "Counrty": "LESOTHO",
+      "Survey year": "2004-05",
+      "Wasting": 5.6,
+      "Stunting": 44.7,
+      "Underweight": 16.6
+    },
+    {
+      "id": 456,
+      "Counrty": "LESOTHO",
+      "Survey year": "2009-10",
+      "Wasting": 3.8,
+      "Stunting": 39.3,
+      "Underweight": 13.4
+    },
+    {
+      "id": 457,
+      "Counrty": "LESOTHO",
+      "Survey year": 2014,
+      "Wasting": 2.8,
+      "Stunting": 33.4,
+      "Underweight": 10.5
+    },
+    {
+      "id": 458,
+      "Counrty": "LESOTHO",
+      "Survey year": 2018,
+      "Wasting": 2.1,
+      "Stunting": 34.6,
+      "Underweight": 10.5
+    },
+    {
+      "id": 459,
+      "Counrty": "LIBERIA",
+      "Survey year": "1999-00",
+      "Wasting": 7.4,
+      "Stunting": 45.3,
+      "Underweight": 22.8
+    },
+    {
+      "id": 460,
+      "Counrty": "LIBERIA",
+      "Survey year": "2006-07",
+      "Wasting": 7.9,
+      "Stunting": 39.6,
+      "Underweight": 20.4
+    },
+    {
+      "id": 461,
+      "Counrty": "LIBERIA",
+      "Survey year": 2010,
+      "Wasting": 4,
+      "Stunting": 39,
+      "Underweight": 16.6
+    },
+    {
+      "id": 462,
+      "Counrty": "LIBERIA",
+      "Survey year": 2013,
+      "Wasting": 5.6,
+      "Stunting": 32.1,
+      "Underweight": 15.3
+    },
+    {
+      "id": 463,
+      "Counrty": "LIBERIA",
+      "Survey year": 2016,
+      "Wasting": 4.3,
+      "Stunting": 30.1,
+      "Underweight": 13.6
+    },
+    {
+      "id": 464,
+      "Counrty": "LIBYA",
+      "Survey year": 1995,
+      "Wasting": 3.6,
+      "Stunting": 21.1,
+      "Underweight": 4.2
+    },
+    {
+      "id": 465,
+      "Counrty": "LIBYA",
+      "Survey year": 2007,
+      "Wasting": 6.5,
+      "Stunting": 21,
+      "Underweight": 5.6
+    },
+    {
+      "id": 466,
+      "Counrty": "LIBYA",
+      "Survey year": 2014,
+      "Wasting": 10.2,
+      "Stunting": 38.1,
+      "Underweight": 11.7
+    },
+    {
+      "id": 467,
+      "Counrty": "MADAGASCAR",
+      "Survey year": 1992,
+      "Wasting": 6.4,
+      "Stunting": 60.5,
+      "Underweight": 35.2
+    },
+    {
+      "id": 468,
+      "Counrty": "MADAGASCAR",
+      "Survey year": "1993-94",
+      "Wasting": 16.4,
+      "Stunting": 54.1,
+      "Underweight": 40.9
+    },
+    {
+      "id": 469,
+      "Counrty": "MADAGASCAR",
+      "Survey year": 1995,
+      "Wasting": 9,
+      "Stunting": 55.2,
+      "Underweight": 30.4
+    },
+    {
+      "id": 470,
+      "Counrty": "MADAGASCAR",
+      "Survey year": 1997,
+      "Wasting": 8.9,
+      "Stunting": 58.2,
+      "Underweight": 38
+    },
+    {
+      "id": 471,
+      "Counrty": "MADAGASCAR",
+      "Survey year": "2003-04",
+      "Wasting": 15.1,
+      "Stunting": 52.7,
+      "Underweight": 36.7
+    },
+    {
+      "id": 472,
+      "Counrty": "MADAGASCAR",
+      "Survey year": "2008-09",
+      "Wasting": 6.948063781321184,
+      "Stunting": 49.4,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 473,
+      "Counrty": "MADAGASCAR",
+      "Survey year": "2012-13",
+      "Wasting": 7.5,
+      "Stunting": 48.9,
+      "Underweight": 32.6
+    },
+    {
+      "id": 474,
+      "Counrty": "MADAGASCAR",
+      "Survey year": 2018,
+      "Wasting": 6.4,
+      "Stunting": 41.6,
+      "Underweight": 26.4
+    },
+    {
+      "id": 475,
+      "Counrty": "MALAWI",
+      "Survey year": 1992,
+      "Wasting": 6.6,
+      "Stunting": 55.4,
+      "Underweight": 24.4
+    },
+    {
+      "id": 476,
+      "Counrty": "MALAWI",
+      "Survey year": 1995,
+      "Wasting": 8.5,
+      "Stunting": 53.8,
+      "Underweight": 26.5
+    },
+    {
+      "id": 477,
+      "Counrty": "MALAWI",
+      "Survey year": "1997-98",
+      "Wasting": 8.7,
+      "Stunting": 62.3,
+      "Underweight": 24.5
+    },
+    {
+      "id": 478,
+      "Counrty": "MALAWI",
+      "Survey year": 2000,
+      "Wasting": 6.8,
+      "Stunting": 54.7,
+      "Underweight": 21.5
+    },
+    {
+      "id": 479,
+      "Counrty": "MALAWI",
+      "Survey year": 2002,
+      "Wasting": 6.3,
+      "Stunting": 58.3,
+      "Underweight": 21.7
+    },
+    {
+      "id": 480,
+      "Counrty": "MALAWI",
+      "Survey year": "2004-05",
+      "Wasting": 6.3,
+      "Stunting": 52.5,
+      "Underweight": 18.6
+    },
+    {
+      "id": 481,
+      "Counrty": "MALAWI",
+      "Survey year": 2006,
+      "Wasting": 4.2,
+      "Stunting": 53.1,
+      "Underweight": 15.6
+    },
+    {
+      "id": 482,
+      "Counrty": "MALAWI",
+      "Survey year": 2009,
+      "Wasting": 1.8,
+      "Stunting": 48.8,
+      "Underweight": 12.1
+    },
+    {
+      "id": 483,
+      "Counrty": "MALAWI",
+      "Survey year": 2010,
+      "Wasting": 4,
+      "Stunting": 47.3,
+      "Underweight": 13.9
+    },
+    {
+      "id": 484,
+      "Counrty": "MALAWI",
+      "Survey year": "2013-14",
+      "Wasting": 3.8,
+      "Stunting": 42.4,
+      "Underweight": 16.7
+    },
+    {
+      "id": 485,
+      "Counrty": "MALAWI",
+      "Survey year": "2015-16",
+      "Wasting": 2.8,
+      "Stunting": 37.4,
+      "Underweight": 11.8
+    },
+    {
+      "id": 486,
+      "Counrty": "MALAWI",
+      "Survey year": 2016,
+      "Wasting": 2.4,
+      "Stunting": 44.2,
+      "Underweight": 15.8
+    },
+    {
+      "id": 487,
+      "Counrty": "MALAWI",
+      "Survey year": 2016,
+      "Wasting": 3.9,
+      "Stunting": 38.3,
+      "Underweight": 15
+    },
+    {
+      "id": 488,
+      "Counrty": "MALAWI",
+      "Survey year": 2017,
+      "Wasting": 2.2,
+      "Stunting": 29.045321307779027,
+      "Underweight": 11.2
+    },
+    {
+      "id": 489,
+      "Counrty": "MALAWI",
+      "Survey year": 2018,
+      "Wasting": 1.3,
+      "Stunting": 39,
+      "Underweight": 11.8
+    },
+    {
+      "id": 490,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1990,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 22.1
+    },
+    {
+      "id": 491,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1991,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 23.1
+    },
+    {
+      "id": 492,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1992,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 22.6
+    },
+    {
+      "id": 493,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1993,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 20.5
+    },
+    {
+      "id": 494,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1994,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 19.7
+    },
+    {
+      "id": 495,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1995,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 17.7
+    },
+    {
+      "id": 496,
+      "Counrty": "MALAYSIA",
+      "Survey year": 1999,
+      "Wasting": 15.3,
+      "Stunting": 20.7,
+      "Underweight": 16.7
+    },
+    {
+      "id": 497,
+      "Counrty": "MALAYSIA",
+      "Survey year": 2006,
+      "Wasting": 6.948063781321184,
+      "Stunting": 17.2,
+      "Underweight": 12.9
+    },
+    {
+      "id": 498,
+      "Counrty": "MALAYSIA",
+      "Survey year": 2015,
+      "Wasting": 8,
+      "Stunting": 17.7,
+      "Underweight": 12.4
+    },
+    {
+      "id": 499,
+      "Counrty": "MALAYSIA",
+      "Survey year": 2016,
+      "Wasting": 11.5,
+      "Stunting": 20.7,
+      "Underweight": 13.7
+    },
+    {
+      "id": 500,
+      "Counrty": "MALDIVES",
+      "Survey year": 1994,
+      "Wasting": 16.1,
+      "Stunting": 36.1,
+      "Underweight": 32.5
+    },
+    {
+      "id": 501,
+      "Counrty": "MALDIVES",
+      "Survey year": 1995,
+      "Wasting": 18.9,
+      "Stunting": 33,
+      "Underweight": 39
+    },
+    {
+      "id": 502,
+      "Counrty": "MALDIVES",
+      "Survey year": "1997-98",
+      "Wasting": 19.9,
+      "Stunting": 43,
+      "Underweight": 36.7
+    },
+    {
+      "id": 503,
+      "Counrty": "MALDIVES",
+      "Survey year": 2001,
+      "Wasting": 13.4,
+      "Stunting": 31.9,
+      "Underweight": 25.7
+    },
+    {
+      "id": 504,
+      "Counrty": "MALDIVES",
+      "Survey year": 2009,
+      "Wasting": 10.6,
+      "Stunting": 19,
+      "Underweight": 17.7
+    },
+    {
+      "id": 505,
+      "Counrty": "MALI",
+      "Survey year": 1987,
+      "Wasting": 11.3,
+      "Stunting": 35.8,
+      "Underweight": 28.6
+    },
+    {
+      "id": 506,
+      "Counrty": "MALI",
+      "Survey year": "1995-96",
+      "Wasting": 22,
+      "Stunting": 39.9,
+      "Underweight": 37.7
+    },
+    {
+      "id": 507,
+      "Counrty": "MALI",
+      "Survey year": 2001,
+      "Wasting": 12.6,
+      "Stunting": 42.5,
+      "Underweight": 30
+    },
+    {
+      "id": 508,
+      "Counrty": "MALI",
+      "Survey year": 2006,
+      "Wasting": 15.4,
+      "Stunting": 37.6,
+      "Underweight": 27.9
+    },
+    {
+      "id": 509,
+      "Counrty": "MALI",
+      "Survey year": "2009-10",
+      "Wasting": 8.9,
+      "Stunting": 27.8,
+      "Underweight": 18.9
+    },
+    {
+      "id": 510,
+      "Counrty": "MALI",
+      "Survey year": 2015,
+      "Wasting": 13.5,
+      "Stunting": 30.4,
+      "Underweight": 25
+    },
+    {
+      "id": 511,
+      "Counrty": "MALI",
+      "Survey year": 2018,
+      "Wasting": 9,
+      "Stunting": 26.9,
+      "Underweight": 18.6
+    },
+    {
+      "id": 512,
+      "Counrty": "MARSHALL ISLANDS",
+      "Survey year": 2017,
+      "Wasting": 3.5,
+      "Stunting": 34.8,
+      "Underweight": 11.9
+    },
+    {
+      "id": 513,
+      "Counrty": "MAURITANIA",
+      "Survey year": 1988,
+      "Wasting": 19.1,
+      "Stunting": 40.2,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 514,
+      "Counrty": "MAURITANIA",
+      "Survey year": 1990,
+      "Wasting": 17.4,
+      "Stunting": 54.6,
+      "Underweight": 43.1
+    },
+    {
+      "id": 515,
+      "Counrty": "MAURITANIA",
+      "Survey year": "1995-96",
+      "Wasting": 8.7,
+      "Stunting": 49.8,
+      "Underweight": 20.3
+    },
+    {
+      "id": 516,
+      "Counrty": "MAURITANIA",
+      "Survey year": "2000-01",
+      "Wasting": 15.3,
+      "Stunting": 38.6,
+      "Underweight": 29.7
+    },
+    {
+      "id": 517,
+      "Counrty": "MAURITANIA",
+      "Survey year": 2007,
+      "Wasting": 13.6,
+      "Stunting": 31.5,
+      "Underweight": 25.5
+    },
+    {
+      "id": 518,
+      "Counrty": "MAURITANIA",
+      "Survey year": 2008,
+      "Wasting": 8.1,
+      "Stunting": 23.6,
+      "Underweight": 16.5
+    },
+    {
+      "id": 519,
+      "Counrty": "MAURITANIA",
+      "Survey year": 2011,
+      "Wasting": 13.9,
+      "Stunting": 29.7,
+      "Underweight": 24.4
+    },
+    {
+      "id": 520,
+      "Counrty": "MAURITANIA",
+      "Survey year": 2012,
+      "Wasting": 11.7,
+      "Stunting": 23,
+      "Underweight": 20.2
+    },
+    {
+      "id": 521,
+      "Counrty": "MAURITANIA",
+      "Survey year": 2015,
+      "Wasting": 14.8,
+      "Stunting": 27.9,
+      "Underweight": 24.9
+    },
+    {
+      "id": 522,
+      "Counrty": "MAURITANIA",
+      "Survey year": 2018,
+      "Wasting": 11.5,
+      "Stunting": 22.8,
+      "Underweight": 19.2
+    },
+    {
+      "id": 523,
+      "Counrty": "MAURITIUS",
+      "Survey year": 1985,
+      "Wasting": 18.3,
+      "Stunting": 27.3,
+      "Underweight": 21.1
+    },
+    {
+      "id": 524,
+      "Counrty": "MAURITIUS",
+      "Survey year": 1995,
+      "Wasting": 15.7,
+      "Stunting": 13.6,
+      "Underweight": 13
+    },
+    {
+      "id": 525,
+      "Counrty": "MEXICO",
+      "Survey year": 1988,
+      "Wasting": 6.1,
+      "Stunting": 26.9,
+      "Underweight": 10.9
+    },
+    {
+      "id": 526,
+      "Counrty": "MEXICO",
+      "Survey year": 1989,
+      "Wasting": 6.1,
+      "Stunting": 26,
+      "Underweight": 9.6
+    },
+    {
+      "id": 527,
+      "Counrty": "MEXICO",
+      "Survey year": 1996,
+      "Wasting": 8.5,
+      "Stunting": 25.8,
+      "Underweight": 10.3
+    },
+    {
+      "id": 528,
+      "Counrty": "MEXICO",
+      "Survey year": "1998-99",
+      "Wasting": 2,
+      "Stunting": 21.4,
+      "Underweight": 5.6
+    },
+    {
+      "id": 529,
+      "Counrty": "MEXICO",
+      "Survey year": "2005-06",
+      "Wasting": 2,
+      "Stunting": 15.5,
+      "Underweight": 3.4
+    },
+    {
+      "id": 530,
+      "Counrty": "MEXICO",
+      "Survey year": "2011-12",
+      "Wasting": 1.6,
+      "Stunting": 13.6,
+      "Underweight": 2.8
+    },
+    {
+      "id": 531,
+      "Counrty": "MEXICO",
+      "Survey year": 2015,
+      "Wasting": 1,
+      "Stunting": 12.4,
+      "Underweight": 3.9
+    },
+    {
+      "id": 532,
+      "Counrty": "MEXICO",
+      "Survey year": 2016,
+      "Wasting": 2,
+      "Stunting": 10,
+      "Underweight": 4.2
+    },
+    {
+      "id": 533,
+      "Counrty": "MONGOLIA",
+      "Survey year": 1992,
+      "Wasting": 2.4,
+      "Stunting": 33.1,
+      "Underweight": 11.8
+    },
+    {
+      "id": 534,
+      "Counrty": "MONGOLIA",
+      "Survey year": 1999,
+      "Wasting": 4.3,
+      "Stunting": 30.1,
+      "Underweight": 10.8
+    },
+    {
+      "id": 535,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2000,
+      "Wasting": 7.1,
+      "Stunting": 29.8,
+      "Underweight": 11.6
+    },
+    {
+      "id": 536,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2004,
+      "Wasting": 0.6,
+      "Stunting": 23.5,
+      "Underweight": 4.8
+    },
+    {
+      "id": 537,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2005,
+      "Wasting": 2.7,
+      "Stunting": 27.5,
+      "Underweight": 5.3
+    },
+    {
+      "id": 538,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2010,
+      "Wasting": 1.8,
+      "Stunting": 15.5,
+      "Underweight": 4.7
+    },
+    {
+      "id": 539,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2013,
+      "Wasting": 1,
+      "Stunting": 10.8,
+      "Underweight": 1.6
+    },
+    {
+      "id": 540,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2016,
+      "Wasting": 1.2,
+      "Stunting": 7.3,
+      "Underweight": 0.8
+    },
+    {
+      "id": 541,
+      "Counrty": "MONGOLIA",
+      "Survey year": 2018,
+      "Wasting": 0.9,
+      "Stunting": 9.4,
+      "Underweight": 1.8
+    },
+    {
+      "id": 542,
+      "Counrty": "MONTENEGRO",
+      "Survey year": "2005-06",
+      "Wasting": 4.2,
+      "Stunting": 7.9,
+      "Underweight": 2.2
+    },
+    {
+      "id": 543,
+      "Counrty": "MONTENEGRO",
+      "Survey year": 2013,
+      "Wasting": 2.8,
+      "Stunting": 9.4,
+      "Underweight": 1
+    },
+    {
+      "id": 544,
+      "Counrty": "MOROCCO",
+      "Survey year": 1987,
+      "Wasting": 3.9,
+      "Stunting": 31,
+      "Underweight": 10.4
+    },
+    {
+      "id": 545,
+      "Counrty": "MOROCCO",
+      "Survey year": 1992,
+      "Wasting": 2.6,
+      "Stunting": 30.1,
+      "Underweight": 8.1
+    },
+    {
+      "id": 546,
+      "Counrty": "MOROCCO",
+      "Survey year": "1996-97",
+      "Wasting": 4.7,
+      "Stunting": 28.9,
+      "Underweight": 7.7
+    },
+    {
+      "id": 547,
+      "Counrty": "MOROCCO",
+      "Survey year": "2003-04",
+      "Wasting": 10.8,
+      "Stunting": 23.1,
+      "Underweight": 9.8
+    },
+    {
+      "id": 548,
+      "Counrty": "MOROCCO",
+      "Survey year": "2010-11",
+      "Wasting": 2.3,
+      "Stunting": 14.9,
+      "Underweight": 2.9
+    },
+    {
+      "id": 549,
+      "Counrty": "MOROCCO",
+      "Survey year": "2017-18",
+      "Wasting": 2.6,
+      "Stunting": 15.1,
+      "Underweight": 2.6
+    },
+    {
+      "id": 550,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": 1995,
+      "Wasting": 9.6,
+      "Stunting": 59.9,
+      "Underweight": 23.9
+    },
+    {
+      "id": 551,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": 1997,
+      "Wasting": 9.8,
+      "Stunting": 48.7,
+      "Underweight": 26.3
+    },
+    {
+      "id": 552,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": "2000-01",
+      "Wasting": 8.1,
+      "Stunting": 50.7,
+      "Underweight": 24.5
+    },
+    {
+      "id": 553,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": 2003,
+      "Wasting": 5.4,
+      "Stunting": 46.9,
+      "Underweight": 21.2
+    },
+    {
+      "id": 554,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": 2008,
+      "Wasting": 4.2,
+      "Stunting": 43.5,
+      "Underweight": 18.2
+    },
+    {
+      "id": 555,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": 2011,
+      "Wasting": 6.1,
+      "Stunting": 42.9,
+      "Underweight": 15.6
+    },
+    {
+      "id": 556,
+      "Counrty": "MOZAMBIQUE",
+      "Survey year": "2014-15",
+      "Wasting": 4.4,
+      "Stunting": 42.3,
+      "Underweight": 15.6
+    },
+    {
+      "id": 557,
+      "Counrty": "MYANMAR",
+      "Survey year": 1990,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 32.5
+    },
+    {
+      "id": 558,
+      "Counrty": "MYANMAR",
+      "Survey year": 1991,
+      "Wasting": 12.7,
+      "Stunting": 53.6,
+      "Underweight": 37
+    },
+    {
+      "id": 559,
+      "Counrty": "MYANMAR",
+      "Survey year": 1994,
+      "Wasting": 9.2,
+      "Stunting": 58.7,
+      "Underweight": 31.2
+    },
+    {
+      "id": 560,
+      "Counrty": "MYANMAR",
+      "Survey year": 1995,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 38.7
+    },
+    {
+      "id": 561,
+      "Counrty": "MYANMAR",
+      "Survey year": 1997,
+      "Wasting": 9.6,
+      "Stunting": 55.4,
+      "Underweight": 28.1
+    },
+    {
+      "id": 562,
+      "Counrty": "MYANMAR",
+      "Survey year": 2000,
+      "Wasting": 10.7,
+      "Stunting": 40.8,
+      "Underweight": 30
+    },
+    {
+      "id": 563,
+      "Counrty": "MYANMAR",
+      "Survey year": 2003,
+      "Wasting": 11.7,
+      "Stunting": 42.7,
+      "Underweight": 29.2
+    },
+    {
+      "id": 564,
+      "Counrty": "MYANMAR",
+      "Survey year": "2009-10",
+      "Wasting": 7.9,
+      "Stunting": 35.1,
+      "Underweight": 22.6
+    },
+    {
+      "id": 565,
+      "Counrty": "MYANMAR",
+      "Survey year": "2015-16",
+      "Wasting": 6.6,
+      "Stunting": 29.4,
+      "Underweight": 18.5
+    },
+    {
+      "id": 566,
+      "Counrty": "NAMIBIA",
+      "Survey year": 1992,
+      "Wasting": 9.6,
+      "Stunting": 35.6,
+      "Underweight": 21.4
+    },
+    {
+      "id": 567,
+      "Counrty": "NAMIBIA",
+      "Survey year": 2000,
+      "Wasting": 10,
+      "Stunting": 29.3,
+      "Underweight": 20.2
+    },
+    {
+      "id": 568,
+      "Counrty": "NAMIBIA",
+      "Survey year": "2006-07",
+      "Wasting": 7.6,
+      "Stunting": 29.2,
+      "Underweight": 17.4
+    },
+    {
+      "id": 569,
+      "Counrty": "NAMIBIA",
+      "Survey year": 2013,
+      "Wasting": 7.1,
+      "Stunting": 22.7,
+      "Underweight": 13.2
+    },
+    {
+      "id": 570,
+      "Counrty": "NAURU",
+      "Survey year": 2007,
+      "Wasting": 1,
+      "Stunting": 24,
+      "Underweight": 4.8
+    },
+    {
+      "id": 571,
+      "Counrty": "NEPAL",
+      "Survey year": 1995,
+      "Wasting": 6,
+      "Stunting": 68.2,
+      "Underweight": 42.6
+    },
+    {
+      "id": 572,
+      "Counrty": "NEPAL",
+      "Survey year": 1996,
+      "Wasting": 12.6,
+      "Stunting": 65.7,
+      "Underweight": 47.1
+    },
+    {
+      "id": 573,
+      "Counrty": "NEPAL",
+      "Survey year": "1997-98",
+      "Wasting": 7.9,
+      "Stunting": 61.1,
+      "Underweight": 38.2
+    },
+    {
+      "id": 574,
+      "Counrty": "NEPAL",
+      "Survey year": 2001,
+      "Wasting": 11.3,
+      "Stunting": 56.1,
+      "Underweight": 42.8
+    },
+    {
+      "id": 575,
+      "Counrty": "NEPAL",
+      "Survey year": 2006,
+      "Wasting": 12.7,
+      "Stunting": 49.1,
+      "Underweight": 38.6
+    },
+    {
+      "id": 576,
+      "Counrty": "NEPAL",
+      "Survey year": 2011,
+      "Wasting": 11.2,
+      "Stunting": 40.1,
+      "Underweight": 28.9
+    },
+    {
+      "id": 577,
+      "Counrty": "NEPAL",
+      "Survey year": 2014,
+      "Wasting": 11.3,
+      "Stunting": 37.1,
+      "Underweight": 29.7
+    },
+    {
+      "id": 578,
+      "Counrty": "NEPAL",
+      "Survey year": "2016-17",
+      "Wasting": 9.6,
+      "Stunting": 36.1,
+      "Underweight": 27.3
+    },
+    {
+      "id": 579,
+      "Counrty": "NICARAGUA",
+      "Survey year": 1993,
+      "Wasting": 2.5,
+      "Stunting": 29.6,
+      "Underweight": 9.6
+    },
+    {
+      "id": 580,
+      "Counrty": "NICARAGUA",
+      "Survey year": "1997-98",
+      "Wasting": 3.4,
+      "Stunting": 30.5,
+      "Underweight": 10.3
+    },
+    {
+      "id": 581,
+      "Counrty": "NICARAGUA",
+      "Survey year": 2001,
+      "Wasting": 2.3,
+      "Stunting": 25.1,
+      "Underweight": 7.7
+    },
+    {
+      "id": 582,
+      "Counrty": "NICARAGUA",
+      "Survey year": "2003-05",
+      "Wasting": 0.3,
+      "Stunting": 18.8,
+      "Underweight": 4.3
+    },
+    {
+      "id": 583,
+      "Counrty": "NICARAGUA",
+      "Survey year": "2006-07",
+      "Wasting": 1.5,
+      "Stunting": 23.1,
+      "Underweight": 5.7
+    },
+    {
+      "id": 584,
+      "Counrty": "NICARAGUA",
+      "Survey year": "2011-12",
+      "Wasting": 2.2,
+      "Stunting": 17.3,
+      "Underweight": 4.6
+    },
+    {
+      "id": 585,
+      "Counrty": "NIGER",
+      "Survey year": 1985,
+      "Wasting": 25.3,
+      "Stunting": 43.8,
+      "Underweight": 45
+    },
+    {
+      "id": 586,
+      "Counrty": "NIGER",
+      "Survey year": 1992,
+      "Wasting": 18.8,
+      "Stunting": 45.3,
+      "Underweight": 38.7
+    },
+    {
+      "id": 587,
+      "Counrty": "NIGER",
+      "Survey year": 1998,
+      "Wasting": 19.8,
+      "Stunting": 50.7,
+      "Underweight": 46.9
+    },
+    {
+      "id": 588,
+      "Counrty": "NIGER",
+      "Survey year": 2000,
+      "Wasting": 16.2,
+      "Stunting": 53.5,
+      "Underweight": 43.1
+    },
+    {
+      "id": 589,
+      "Counrty": "NIGER",
+      "Survey year": 2006,
+      "Wasting": 12.5,
+      "Stunting": 54.8,
+      "Underweight": 39.9
+    },
+    {
+      "id": 590,
+      "Counrty": "NIGER",
+      "Survey year": 2012,
+      "Wasting": 18.2,
+      "Stunting": 43.5,
+      "Underweight": 38
+    },
+    {
+      "id": 591,
+      "Counrty": "NIGER",
+      "Survey year": 2012,
+      "Wasting": 13.4,
+      "Stunting": 39.9,
+      "Underweight": 32.1
+    },
+    {
+      "id": 592,
+      "Counrty": "NIGER",
+      "Survey year": 2013,
+      "Wasting": 12.4,
+      "Stunting": 42.5,
+      "Underweight": 33.1
+    },
+    {
+      "id": 593,
+      "Counrty": "NIGER",
+      "Survey year": 2014,
+      "Wasting": 14.2,
+      "Stunting": 42.2,
+      "Underweight": 34.6
+    },
+    {
+      "id": 594,
+      "Counrty": "NIGER",
+      "Survey year": 2016,
+      "Wasting": 10.4,
+      "Stunting": 41.3,
+      "Underweight": 32
+    },
+    {
+      "id": 595,
+      "Counrty": "NIGER",
+      "Survey year": 2018,
+      "Wasting": 14.1,
+      "Stunting": 48.5,
+      "Underweight": 37.5
+    },
+    {
+      "id": 596,
+      "Counrty": "NIGERIA",
+      "Survey year": 1990,
+      "Wasting": 11.7,
+      "Stunting": 48.7,
+      "Underweight": 33.1
+    },
+    {
+      "id": 597,
+      "Counrty": "NIGERIA",
+      "Survey year": 1993,
+      "Wasting": 20.6,
+      "Stunting": 43.8,
+      "Underweight": 35.1
+    },
+    {
+      "id": 598,
+      "Counrty": "NIGERIA",
+      "Survey year": 2003,
+      "Wasting": 11.2,
+      "Stunting": 42.5,
+      "Underweight": 26.7
+    },
+    {
+      "id": 599,
+      "Counrty": "NIGERIA",
+      "Survey year": 2007,
+      "Wasting": 13.4,
+      "Stunting": 39.2,
+      "Underweight": 23.3
+    },
+    {
+      "id": 600,
+      "Counrty": "NIGERIA",
+      "Survey year": 2008,
+      "Wasting": 14.5,
+      "Stunting": 40.6,
+      "Underweight": 26.7
+    },
+    {
+      "id": 601,
+      "Counrty": "NIGERIA",
+      "Survey year": 2011,
+      "Wasting": 10.2,
+      "Stunting": 35.8,
+      "Underweight": 24.2
+    },
+    {
+      "id": 602,
+      "Counrty": "NIGERIA",
+      "Survey year": 2013,
+      "Wasting": 18.1,
+      "Stunting": 36.5,
+      "Underweight": 31
+    },
+    {
+      "id": 603,
+      "Counrty": "NIGERIA",
+      "Survey year": 2014,
+      "Wasting": 7.9,
+      "Stunting": 33.6,
+      "Underweight": 20.6
+    },
+    {
+      "id": 604,
+      "Counrty": "NIGERIA",
+      "Survey year": 2015,
+      "Wasting": 7.3,
+      "Stunting": 33,
+      "Underweight": 19.5
+    },
+    {
+      "id": 605,
+      "Counrty": "NIGERIA",
+      "Survey year": "2016-17",
+      "Wasting": 10.8,
+      "Stunting": 43.6,
+      "Underweight": 31.5
+    },
+    {
+      "id": 606,
+      "Counrty": "NIGERIA",
+      "Survey year": 2018,
+      "Wasting": 6.8,
+      "Stunting": 36.8,
+      "Underweight": 21.8
+    },
+    {
+      "id": 607,
+      "Counrty": "NORTH MACEDONIA",
+      "Survey year": 1999,
+      "Wasting": 1.7,
+      "Stunting": 8,
+      "Underweight": 1.9
+    },
+    {
+      "id": 608,
+      "Counrty": "NORTH MACEDONIA",
+      "Survey year": 2005,
+      "Wasting": 3.4,
+      "Stunting": 11.3,
+      "Underweight": 1.8
+    },
+    {
+      "id": 609,
+      "Counrty": "NORTH MACEDONIA",
+      "Survey year": 2011,
+      "Wasting": 1.8,
+      "Stunting": 4.9,
+      "Underweight": 1.3
+    },
+    {
+      "id": 610,
+      "Counrty": "OMAN",
+      "Survey year": 1991,
+      "Wasting": 7.8,
+      "Stunting": 24.2,
+      "Underweight": 18.6
+    },
+    {
+      "id": 611,
+      "Counrty": "OMAN",
+      "Survey year": "1994-95",
+      "Wasting": 7.2,
+      "Stunting": 21.1,
+      "Underweight": 10.4
+    },
+    {
+      "id": 612,
+      "Counrty": "OMAN",
+      "Survey year": 1999,
+      "Wasting": 7.8,
+      "Stunting": 15.8,
+      "Underweight": 13
+    },
+    {
+      "id": 613,
+      "Counrty": "OMAN",
+      "Survey year": "2008-09",
+      "Wasting": 7.1,
+      "Stunting": 9.8,
+      "Underweight": 8.6
+    },
+    {
+      "id": 614,
+      "Counrty": "OMAN",
+      "Survey year": 2014,
+      "Wasting": 7.5,
+      "Stunting": 14.1,
+      "Underweight": 9.7
+    },
+    {
+      "id": 615,
+      "Counrty": "OMAN",
+      "Survey year": "2016-17",
+      "Wasting": 9.3,
+      "Stunting": 11.4,
+      "Underweight": 11.2
+    },
+    {
+      "id": 616,
+      "Counrty": "PAKISTAN",
+      "Survey year": "1985-87",
+      "Wasting": 24,
+      "Stunting": 62.5,
+      "Underweight": 44.4
+    },
+    {
+      "id": 617,
+      "Counrty": "PAKISTAN",
+      "Survey year": "1990-91",
+      "Wasting": 12.5,
+      "Stunting": 53.9,
+      "Underweight": 38.4
+    },
+    {
+      "id": 618,
+      "Counrty": "PAKISTAN",
+      "Survey year": "1990-94",
+      "Wasting": 17.2,
+      "Stunting": 42.7,
+      "Underweight": 35.3
+    },
+    {
+      "id": 619,
+      "Counrty": "PAKISTAN",
+      "Survey year": 1995,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 34.2
+    },
+    {
+      "id": 620,
+      "Counrty": "PAKISTAN",
+      "Survey year": 2001,
+      "Wasting": 14.1,
+      "Stunting": 41.4,
+      "Underweight": 31.2
+    },
+    {
+      "id": 621,
+      "Counrty": "PAKISTAN",
+      "Survey year": 2011,
+      "Wasting": 14.9,
+      "Stunting": 43.6,
+      "Underweight": 31.4
+    },
+    {
+      "id": 622,
+      "Counrty": "PAKISTAN",
+      "Survey year": "2012-13",
+      "Wasting": 10.5,
+      "Stunting": 45,
+      "Underweight": 31.8
+    },
+    {
+      "id": 623,
+      "Counrty": "PAKISTAN",
+      "Survey year": "2017-18",
+      "Wasting": 7.1,
+      "Stunting": 37.6,
+      "Underweight": 23.1
+    },
+    {
+      "id": 624,
+      "Counrty": "PANAMA",
+      "Survey year": 1997,
+      "Wasting": 1.3,
+      "Stunting": 16.8,
+      "Underweight": 5
+    },
+    {
+      "id": 625,
+      "Counrty": "PANAMA",
+      "Survey year": 2003,
+      "Wasting": 1.6,
+      "Stunting": 23.7,
+      "Underweight": 5.3
+    },
+    {
+      "id": 626,
+      "Counrty": "PANAMA",
+      "Survey year": 2008,
+      "Wasting": 1.2,
+      "Stunting": 19,
+      "Underweight": 3.9
+    },
+    {
+      "id": 627,
+      "Counrty": "PAPUA NEW GUINEA",
+      "Survey year": "1982-83",
+      "Wasting": 5.5,
+      "Stunting": 46,
+      "Underweight": 22.8
+    },
+    {
+      "id": 628,
+      "Counrty": "PAPUA NEW GUINEA",
+      "Survey year": 2005,
+      "Wasting": 4.4,
+      "Stunting": 43.9,
+      "Underweight": 18.1
+    },
+    {
+      "id": 629,
+      "Counrty": "PAPUA NEW GUINEA",
+      "Survey year": "2009-11",
+      "Wasting": 14.1,
+      "Stunting": 49.5,
+      "Underweight": 27.8
+    },
+    {
+      "id": 630,
+      "Counrty": "PARAGUAY",
+      "Survey year": 1990,
+      "Wasting": 0.6,
+      "Stunting": 18.3,
+      "Underweight": 2.8
+    },
+    {
+      "id": 631,
+      "Counrty": "PARAGUAY",
+      "Survey year": 2005,
+      "Wasting": 1.1,
+      "Stunting": 17.5,
+      "Underweight": 3.4
+    },
+    {
+      "id": 632,
+      "Counrty": "PARAGUAY",
+      "Survey year": "2011-12",
+      "Wasting": 2.6,
+      "Stunting": 10.7,
+      "Underweight": 2.6
+    },
+    {
+      "id": 633,
+      "Counrty": "PARAGUAY",
+      "Survey year": 2016,
+      "Wasting": 1,
+      "Stunting": 5.6,
+      "Underweight": 1.3
+    },
+    {
+      "id": 634,
+      "Counrty": "PERU",
+      "Survey year": "1991-92",
+      "Wasting": 1.9,
+      "Stunting": 37.3,
+      "Underweight": 8.8
+    },
+    {
+      "id": 635,
+      "Counrty": "PERU",
+      "Survey year": 1996,
+      "Wasting": 1.6,
+      "Stunting": 31.6,
+      "Underweight": 5.7
+    },
+    {
+      "id": 636,
+      "Counrty": "PERU",
+      "Survey year": 2000,
+      "Wasting": 1.1,
+      "Stunting": 31.3,
+      "Underweight": 5.2
+    },
+    {
+      "id": 637,
+      "Counrty": "PERU",
+      "Survey year": "2003-06",
+      "Wasting": 1,
+      "Stunting": 29.2,
+      "Underweight": 5.4
+    },
+    {
+      "id": 638,
+      "Counrty": "PERU",
+      "Survey year": "2007-08",
+      "Wasting": 0.8,
+      "Stunting": 28,
+      "Underweight": 4.3
+    },
+    {
+      "id": 639,
+      "Counrty": "PERU",
+      "Survey year": 2009,
+      "Wasting": 0.6,
+      "Stunting": 23.9,
+      "Underweight": 4.3
+    },
+    {
+      "id": 640,
+      "Counrty": "PERU",
+      "Survey year": 2010,
+      "Wasting": 0.7,
+      "Stunting": 23.3,
+      "Underweight": 4.3
+    },
+    {
+      "id": 641,
+      "Counrty": "PERU",
+      "Survey year": 2011,
+      "Wasting": 0.4,
+      "Stunting": 19.5,
+      "Underweight": 4.2
+    },
+    {
+      "id": 642,
+      "Counrty": "PERU",
+      "Survey year": 2012,
+      "Wasting": 0.6,
+      "Stunting": 18.4,
+      "Underweight": 3.4
+    },
+    {
+      "id": 643,
+      "Counrty": "PERU",
+      "Survey year": 2013,
+      "Wasting": 0.4,
+      "Stunting": 17.6,
+      "Underweight": 3.6
+    },
+    {
+      "id": 644,
+      "Counrty": "PERU",
+      "Survey year": 2014,
+      "Wasting": 0.6,
+      "Stunting": 14.8,
+      "Underweight": 3.2
+    },
+    {
+      "id": 645,
+      "Counrty": "PERU",
+      "Survey year": 2015,
+      "Wasting": 0.6,
+      "Stunting": 14.7,
+      "Underweight": 3.4
+    },
+    {
+      "id": 646,
+      "Counrty": "PERU",
+      "Survey year": 2016,
+      "Wasting": 0.6,
+      "Stunting": 13.1,
+      "Underweight": 3.2
+    },
+    {
+      "id": 647,
+      "Counrty": "PERU",
+      "Survey year": 2017,
+      "Wasting": 0.5,
+      "Stunting": 12.8,
+      "Underweight": 3.2
+    },
+    {
+      "id": 648,
+      "Counrty": "PERU",
+      "Survey year": 2018,
+      "Wasting": 0.5,
+      "Stunting": 12.2,
+      "Underweight": 2.6
+    },
+    {
+      "id": 649,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 1987,
+      "Wasting": 5.7,
+      "Stunting": 44.7,
+      "Underweight": 29.3
+    },
+    {
+      "id": 650,
+      "Counrty": "PHILIPPINES",
+      "Survey year": "1989-90",
+      "Wasting": 6.9,
+      "Stunting": 43.3,
+      "Underweight": 29.9
+    },
+    {
+      "id": 651,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 1992,
+      "Wasting": 8.8,
+      "Stunting": 40.9,
+      "Underweight": 29.8
+    },
+    {
+      "id": 652,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 1993,
+      "Wasting": 9.1,
+      "Stunting": 38.9,
+      "Underweight": 26.3
+    },
+    {
+      "id": 653,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 1998,
+      "Wasting": 8,
+      "Stunting": 38.3,
+      "Underweight": 28.3
+    },
+    {
+      "id": 654,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 2003,
+      "Wasting": 6,
+      "Stunting": 33.8,
+      "Underweight": 20.7
+    },
+    {
+      "id": 655,
+      "Counrty": "PHILIPPINES",
+      "Survey year": "2008-09",
+      "Wasting": 6.6,
+      "Stunting": 32,
+      "Underweight": 20.6
+    },
+    {
+      "id": 656,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 2011,
+      "Wasting": 7,
+      "Stunting": 33.4,
+      "Underweight": 20.2
+    },
+    {
+      "id": 657,
+      "Counrty": "PHILIPPINES",
+      "Survey year": "2013-14",
+      "Wasting": 7.6,
+      "Stunting": 30,
+      "Underweight": 19.9
+    },
+    {
+      "id": 658,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 2015,
+      "Wasting": 6.8,
+      "Stunting": 33.1,
+      "Underweight": 21.4
+    },
+    {
+      "id": 659,
+      "Counrty": "PHILIPPINES",
+      "Survey year": 2018,
+      "Wasting": 5.6,
+      "Stunting": 30.3,
+      "Underweight": 19.1
+    },
+    {
+      "id": 660,
+      "Counrty": "POLAND",
+      "Survey year": 2009,
+      "Wasting": 6.948063781321184,
+      "Stunting": 2.9,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 661,
+      "Counrty": "POLAND",
+      "Survey year": 2014,
+      "Wasting": 6.948063781321184,
+      "Stunting": 2.6,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 662,
+      "Counrty": "QATAR",
+      "Survey year": 1995,
+      "Wasting": 2.1,
+      "Stunting": 11.6,
+      "Underweight": 4.8
+    },
+    {
+      "id": 663,
+      "Counrty": "REPUBLIC OF KOREA",
+      "Survey year": 2003,
+      "Wasting": 0.9,
+      "Stunting": 2.5,
+      "Underweight": 0.9
+    },
+    {
+      "id": 664,
+      "Counrty": "REPUBLIC OF KOREA",
+      "Survey year": "2008-11",
+      "Wasting": 1.2,
+      "Stunting": 2.5,
+      "Underweight": 0.7
+    },
+    {
+      "id": 665,
+      "Counrty": "REPUBLIC OF MOLDOVA",
+      "Survey year": 2005,
+      "Wasting": 5.8,
+      "Stunting": 10.7,
+      "Underweight": 3.2
+    },
+    {
+      "id": 666,
+      "Counrty": "REPUBLIC OF MOLDOVA",
+      "Survey year": 2012,
+      "Wasting": 1.9,
+      "Stunting": 6.4,
+      "Underweight": 2.2
+    },
+    {
+      "id": 667,
+      "Counrty": "ROMANIA",
+      "Survey year": 1991,
+      "Wasting": 3.3,
+      "Stunting": 11.2,
+      "Underweight": 5
+    },
+    {
+      "id": 668,
+      "Counrty": "ROMANIA",
+      "Survey year": 1999,
+      "Wasting": 3.6,
+      "Stunting": 15.3,
+      "Underweight": 3.4
+    },
+    {
+      "id": 669,
+      "Counrty": "ROMANIA",
+      "Survey year": 2000,
+      "Wasting": 4.3,
+      "Stunting": 12.8,
+      "Underweight": 3.7
+    },
+    {
+      "id": 670,
+      "Counrty": "ROMANIA",
+      "Survey year": 2001,
+      "Wasting": 3.9,
+      "Stunting": 14,
+      "Underweight": 3.8
+    },
+    {
+      "id": 671,
+      "Counrty": "ROMANIA",
+      "Survey year": 2002,
+      "Wasting": 3.5,
+      "Stunting": 12.8,
+      "Underweight": 3.5
+    },
+    {
+      "id": 672,
+      "Counrty": "RWANDA",
+      "Survey year": 1992,
+      "Wasting": 5,
+      "Stunting": 56.8,
+      "Underweight": 24.2
+    },
+    {
+      "id": 673,
+      "Counrty": "RWANDA",
+      "Survey year": 1996,
+      "Wasting": 11,
+      "Stunting": 45.4,
+      "Underweight": 22.6
+    },
+    {
+      "id": 674,
+      "Counrty": "RWANDA",
+      "Survey year": 2000,
+      "Wasting": 8.7,
+      "Stunting": 47.9,
+      "Underweight": 20.3
+    },
+    {
+      "id": 675,
+      "Counrty": "RWANDA",
+      "Survey year": 2005,
+      "Wasting": 4.9,
+      "Stunting": 51.4,
+      "Underweight": 17.9
+    },
+    {
+      "id": 676,
+      "Counrty": "RWANDA",
+      "Survey year": 2009,
+      "Wasting": 4.6,
+      "Stunting": 52,
+      "Underweight": 15.8
+    },
+    {
+      "id": 677,
+      "Counrty": "RWANDA",
+      "Survey year": "2010-11",
+      "Wasting": 2.9,
+      "Stunting": 44.3,
+      "Underweight": 11.7
+    },
+    {
+      "id": 678,
+      "Counrty": "RWANDA",
+      "Survey year": 2012,
+      "Wasting": 2.4,
+      "Stunting": 43.8,
+      "Underweight": 12
+    },
+    {
+      "id": 679,
+      "Counrty": "RWANDA",
+      "Survey year": "2014-15",
+      "Wasting": 2.3,
+      "Stunting": 38.3,
+      "Underweight": 9.6
+    },
+    {
+      "id": 680,
+      "Counrty": "RWANDA",
+      "Survey year": 2015,
+      "Wasting": 2,
+      "Stunting": 36.9,
+      "Underweight": 8.9
+    },
+    {
+      "id": 681,
+      "Counrty": "SAINT LUCIA",
+      "Survey year": 2012,
+      "Wasting": 3.7,
+      "Stunting": 2.5,
+      "Underweight": 2.8
+    },
+    {
+      "id": 682,
+      "Counrty": "SAMOA",
+      "Survey year": 1999,
+      "Wasting": 1.3,
+      "Stunting": 6.4,
+      "Underweight": 1.7
+    },
+    {
+      "id": 683,
+      "Counrty": "SAMOA",
+      "Survey year": 2014,
+      "Wasting": 3.9,
+      "Stunting": 4.9,
+      "Underweight": 3.2
+    },
+    {
+      "id": 684,
+      "Counrty": "SAO TOME AND PRINCIPE",
+      "Survey year": 1986,
+      "Wasting": 6,
+      "Stunting": 32,
+      "Underweight": 14.5
+    },
+    {
+      "id": 685,
+      "Counrty": "SAO TOME AND PRINCIPE",
+      "Survey year": 2000,
+      "Wasting": 3.9,
+      "Stunting": 35.5,
+      "Underweight": 10.2
+    },
+    {
+      "id": 686,
+      "Counrty": "SAO TOME AND PRINCIPE",
+      "Survey year": 2006,
+      "Wasting": 9.6,
+      "Stunting": 28.9,
+      "Underweight": 8
+    },
+    {
+      "id": 687,
+      "Counrty": "SAO TOME AND PRINCIPE",
+      "Survey year": "2008-09",
+      "Wasting": 11.6,
+      "Stunting": 30.8,
+      "Underweight": 14.8
+    },
+    {
+      "id": 688,
+      "Counrty": "SAO TOME AND PRINCIPE",
+      "Survey year": 2014,
+      "Wasting": 4,
+      "Stunting": 17.2,
+      "Underweight": 8.8
+    },
+    {
+      "id": 689,
+      "Counrty": "SAUDI ARABIA",
+      "Survey year": 1994,
+      "Wasting": 2.9,
+      "Stunting": 21.4,
+      "Underweight": 13.5
+    },
+    {
+      "id": 690,
+      "Counrty": "SAUDI ARABIA",
+      "Survey year": "2004-05",
+      "Wasting": 11.8,
+      "Stunting": 9.3,
+      "Underweight": 5.3
+    },
+    {
+      "id": 691,
+      "Counrty": "SENEGAL",
+      "Survey year": 1986,
+      "Wasting": 5.1,
+      "Stunting": 26.5,
+      "Underweight": 17
+    },
+    {
+      "id": 692,
+      "Counrty": "SENEGAL",
+      "Survey year": "1991-92",
+      "Wasting": 9,
+      "Stunting": 34.4,
+      "Underweight": 20.4
+    },
+    {
+      "id": 693,
+      "Counrty": "SENEGAL",
+      "Survey year": "1992-93",
+      "Wasting": 9.4,
+      "Stunting": 29.8,
+      "Underweight": 19
+    },
+    {
+      "id": 694,
+      "Counrty": "SENEGAL",
+      "Survey year": 1996,
+      "Wasting": 8.2,
+      "Stunting": 28.8,
+      "Underweight": 19.6
+    },
+    {
+      "id": 695,
+      "Counrty": "SENEGAL",
+      "Survey year": 2000,
+      "Wasting": 10,
+      "Stunting": 26,
+      "Underweight": 17.8
+    },
+    {
+      "id": 696,
+      "Counrty": "SENEGAL",
+      "Survey year": 2005,
+      "Wasting": 8.7,
+      "Stunting": 19.9,
+      "Underweight": 14.5
+    },
+    {
+      "id": 697,
+      "Counrty": "SENEGAL",
+      "Survey year": "2010-11",
+      "Wasting": 9.8,
+      "Stunting": 26.7,
+      "Underweight": 18.4
+    },
+    {
+      "id": 698,
+      "Counrty": "SENEGAL",
+      "Survey year": 2012,
+      "Wasting": 8.7,
+      "Stunting": 15.5,
+      "Underweight": 14.4
+    },
+    {
+      "id": 699,
+      "Counrty": "SENEGAL",
+      "Survey year": "2012-13",
+      "Wasting": 9,
+      "Stunting": 18.8,
+      "Underweight": 16.7
+    },
+    {
+      "id": 700,
+      "Counrty": "SENEGAL",
+      "Survey year": 2014,
+      "Wasting": 5.9,
+      "Stunting": 18.8,
+      "Underweight": 12.8
+    },
+    {
+      "id": 701,
+      "Counrty": "SENEGAL",
+      "Survey year": 2015,
+      "Wasting": 7.8,
+      "Stunting": 20.7,
+      "Underweight": 16.1
+    },
+    {
+      "id": 702,
+      "Counrty": "SENEGAL",
+      "Survey year": 2016,
+      "Wasting": 7.1,
+      "Stunting": 17.1,
+      "Underweight": 13.8
+    },
+    {
+      "id": 703,
+      "Counrty": "SENEGAL",
+      "Survey year": 2017,
+      "Wasting": 9,
+      "Stunting": 16.5,
+      "Underweight": 14.4
+    },
+    {
+      "id": 704,
+      "Counrty": "SENEGAL",
+      "Survey year": 2019,
+      "Wasting": 8.1,
+      "Stunting": 18.8,
+      "Underweight": 13.3
+    },
+    {
+      "id": 705,
+      "Counrty": "SERBIA",
+      "Survey year": "2005-06",
+      "Wasting": 4.5,
+      "Stunting": 8.1,
+      "Underweight": 1.8
+    },
+    {
+      "id": 706,
+      "Counrty": "SERBIA",
+      "Survey year": 2010,
+      "Wasting": 3.5,
+      "Stunting": 6.6,
+      "Underweight": 1.6
+    },
+    {
+      "id": 707,
+      "Counrty": "SERBIA",
+      "Survey year": 2014,
+      "Wasting": 3.9,
+      "Stunting": 6,
+      "Underweight": 1.8
+    },
+    {
+      "id": 708,
+      "Counrty": "SEYCHELLES",
+      "Survey year": "1987-88",
+      "Wasting": 2.7,
+      "Stunting": 7.7,
+      "Underweight": 5
+    },
+    {
+      "id": 709,
+      "Counrty": "SEYCHELLES",
+      "Survey year": 2012,
+      "Wasting": 4.3,
+      "Stunting": 7.9,
+      "Underweight": 3.6
+    },
+    {
+      "id": 710,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 1989,
+      "Wasting": 8.4,
+      "Stunting": 41.4,
+      "Underweight": 23.7
+    },
+    {
+      "id": 711,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 1990,
+      "Wasting": 10.2,
+      "Stunting": 40.9,
+      "Underweight": 25.4
+    },
+    {
+      "id": 712,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2000,
+      "Wasting": 11.6,
+      "Stunting": 35.5,
+      "Underweight": 23.4
+    },
+    {
+      "id": 713,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2005,
+      "Wasting": 10.2,
+      "Stunting": 45,
+      "Underweight": 27.2
+    },
+    {
+      "id": 714,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2008,
+      "Wasting": 10.5,
+      "Stunting": 37.2,
+      "Underweight": 21.5
+    },
+    {
+      "id": 715,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2010,
+      "Wasting": 8.5,
+      "Stunting": 44.4,
+      "Underweight": 21.7
+    },
+    {
+      "id": 716,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2013,
+      "Wasting": 9.4,
+      "Stunting": 37.8,
+      "Underweight": 18.2
+    },
+    {
+      "id": 717,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2017,
+      "Wasting": 6.8,
+      "Stunting": 31,
+      "Underweight": 15.6
+    },
+    {
+      "id": 718,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2017,
+      "Wasting": 5.1,
+      "Stunting": 29.3,
+      "Underweight": 13.6
+    },
+    {
+      "id": 719,
+      "Counrty": "SIERRA LEONE",
+      "Survey year": 2019,
+      "Wasting": 5.4,
+      "Stunting": 29.5,
+      "Underweight": 13.6
+    },
+    {
+      "id": 720,
+      "Counrty": "SINGAPORE",
+      "Survey year": 2000,
+      "Wasting": 3.6,
+      "Stunting": 4.4,
+      "Underweight": 3.3
+    },
+    {
+      "id": 721,
+      "Counrty": "SOLOMON ISLANDS",
+      "Survey year": 1989,
+      "Wasting": 7.4,
+      "Stunting": 33.7,
+      "Underweight": 16.3
+    },
+    {
+      "id": 722,
+      "Counrty": "SOLOMON ISLANDS",
+      "Survey year": "2006-07",
+      "Wasting": 4.3,
+      "Stunting": 32.8,
+      "Underweight": 11.8
+    },
+    {
+      "id": 723,
+      "Counrty": "SOLOMON ISLANDS",
+      "Survey year": 2015,
+      "Wasting": 8.5,
+      "Stunting": 31.7,
+      "Underweight": 16.2
+    },
+    {
+      "id": 724,
+      "Counrty": "SOMALIA",
+      "Survey year": 2000,
+      "Wasting": 19.3,
+      "Stunting": 29.2,
+      "Underweight": 22.8
+    },
+    {
+      "id": 725,
+      "Counrty": "SOMALIA",
+      "Survey year": 2006,
+      "Wasting": 13.3,
+      "Stunting": 42,
+      "Underweight": 32.8
+    },
+    {
+      "id": 726,
+      "Counrty": "SOMALIA",
+      "Survey year": 2009,
+      "Wasting": 14.3,
+      "Stunting": 25.3,
+      "Underweight": 22.5
+    },
+    {
+      "id": 727,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": "1993-94",
+      "Wasting": 9.1,
+      "Stunting": 29.7,
+      "Underweight": 14.9
+    },
+    {
+      "id": 728,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": "1994-95",
+      "Wasting": 3.3,
+      "Stunting": 28.7,
+      "Underweight": 8
+    },
+    {
+      "id": 729,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": 1999,
+      "Wasting": 4.5,
+      "Stunting": 30.1,
+      "Underweight": 9.8
+    },
+    {
+      "id": 730,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": "2003-04",
+      "Wasting": 7.8,
+      "Stunting": 35.5,
+      "Underweight": 12.1
+    },
+    {
+      "id": 731,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": 2008,
+      "Wasting": 4.8,
+      "Stunting": 24.9,
+      "Underweight": 8.8
+    },
+    {
+      "id": 732,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": 2012,
+      "Wasting": 5.6,
+      "Stunting": 27.2,
+      "Underweight": 8.5
+    },
+    {
+      "id": 733,
+      "Counrty": "SOUTH AFRICA",
+      "Survey year": 2016,
+      "Wasting": 2.5,
+      "Stunting": 27.4,
+      "Underweight": 5.9
+    },
+    {
+      "id": 734,
+      "Counrty": "SOUTH SUDAN",
+      "Survey year": 2006,
+      "Wasting": 24.6,
+      "Stunting": 36.2,
+      "Underweight": 32.5
+    },
+    {
+      "id": 735,
+      "Counrty": "SOUTH SUDAN",
+      "Survey year": 2010,
+      "Wasting": 22.7,
+      "Stunting": 31.3,
+      "Underweight": 27.7
+    },
+    {
+      "id": 736,
+      "Counrty": "SRI LANKA",
+      "Survey year": 1987,
+      "Wasting": 14.9,
+      "Stunting": 32.3,
+      "Underweight": 32.8
+    },
+    {
+      "id": 737,
+      "Counrty": "SRI LANKA",
+      "Survey year": 1993,
+      "Wasting": 17.5,
+      "Stunting": 29.7,
+      "Underweight": 33.8
+    },
+    {
+      "id": 738,
+      "Counrty": "SRI LANKA",
+      "Survey year": 1995,
+      "Wasting": 15.3,
+      "Stunting": 26.1,
+      "Underweight": 29.3
+    },
+    {
+      "id": 739,
+      "Counrty": "SRI LANKA",
+      "Survey year": 2000,
+      "Wasting": 15.9,
+      "Stunting": 18.3,
+      "Underweight": 22.9
+    },
+    {
+      "id": 740,
+      "Counrty": "SRI LANKA",
+      "Survey year": "2006-07",
+      "Wasting": 14.7,
+      "Stunting": 17.3,
+      "Underweight": 21.1
+    },
+    {
+      "id": 741,
+      "Counrty": "SRI LANKA",
+      "Survey year": 2009,
+      "Wasting": 11.8,
+      "Stunting": 19.2,
+      "Underweight": 21.6
+    },
+    {
+      "id": 742,
+      "Counrty": "SRI LANKA",
+      "Survey year": 2012,
+      "Wasting": 21.3,
+      "Stunting": 14.6,
+      "Underweight": 26.1
+    },
+    {
+      "id": 743,
+      "Counrty": "SRI LANKA",
+      "Survey year": 2016,
+      "Wasting": 15.1,
+      "Stunting": 17.3,
+      "Underweight": 20.5
+    },
+    {
+      "id": 744,
+      "Counrty": "STATE OF PALESTINE",
+      "Survey year": 1996,
+      "Wasting": 3,
+      "Stunting": 7.8,
+      "Underweight": 2.5
+    },
+    {
+      "id": 745,
+      "Counrty": "STATE OF PALESTINE",
+      "Survey year": 2002,
+      "Wasting": 9.4,
+      "Stunting": 16.1,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 746,
+      "Counrty": "STATE OF PALESTINE",
+      "Survey year": 2004,
+      "Wasting": 3.2,
+      "Stunting": 10.5,
+      "Underweight": 3.3
+    },
+    {
+      "id": 747,
+      "Counrty": "STATE OF PALESTINE",
+      "Survey year": "2006-07",
+      "Wasting": 1.8,
+      "Stunting": 13.6,
+      "Underweight": 2.6
+    },
+    {
+      "id": 748,
+      "Counrty": "STATE OF PALESTINE",
+      "Survey year": 2010,
+      "Wasting": 3.3,
+      "Stunting": 10.9,
+      "Underweight": 3.7
+    },
+    {
+      "id": 749,
+      "Counrty": "STATE OF PALESTINE",
+      "Survey year": 2014,
+      "Wasting": 1.2,
+      "Stunting": 7.4,
+      "Underweight": 1.4
+    },
+    {
+      "id": 750,
+      "Counrty": "SUDAN",
+      "Survey year": 2006,
+      "Wasting": 14.5,
+      "Stunting": 38.3,
+      "Underweight": 27
+    },
+    {
+      "id": 751,
+      "Counrty": "SUDAN",
+      "Survey year": 2010,
+      "Wasting": 15.4,
+      "Stunting": 34.1,
+      "Underweight": 29.8
+    },
+    {
+      "id": 752,
+      "Counrty": "SUDAN",
+      "Survey year": 2014,
+      "Wasting": 16.3,
+      "Stunting": 38.2,
+      "Underweight": 33
+    },
+    {
+      "id": 753,
+      "Counrty": "SURINAME",
+      "Survey year": "1999-00",
+      "Wasting": 7,
+      "Stunting": 14.1,
+      "Underweight": 11.1
+    },
+    {
+      "id": 754,
+      "Counrty": "SURINAME",
+      "Survey year": 2006,
+      "Wasting": 4.9,
+      "Stunting": 10.6,
+      "Underweight": 7.5
+    },
+    {
+      "id": 755,
+      "Counrty": "SURINAME",
+      "Survey year": 2010,
+      "Wasting": 5,
+      "Stunting": 8.8,
+      "Underweight": 5.8
+    },
+    {
+      "id": 756,
+      "Counrty": "SYRIAN ARAB REPUBLIC",
+      "Survey year": 1993,
+      "Wasting": 10,
+      "Stunting": 32.8,
+      "Underweight": 11.5
+    },
+    {
+      "id": 757,
+      "Counrty": "SYRIAN ARAB REPUBLIC",
+      "Survey year": 1995,
+      "Wasting": 10.4,
+      "Stunting": 26.5,
+      "Underweight": 11.3
+    },
+    {
+      "id": 758,
+      "Counrty": "SYRIAN ARAB REPUBLIC",
+      "Survey year": 2000,
+      "Wasting": 4.9,
+      "Stunting": 24.3,
+      "Underweight": 6
+    },
+    {
+      "id": 759,
+      "Counrty": "SYRIAN ARAB REPUBLIC",
+      "Survey year": 2001,
+      "Wasting": 10.2,
+      "Stunting": 31.7,
+      "Underweight": 11.5
+    },
+    {
+      "id": 760,
+      "Counrty": "SYRIAN ARAB REPUBLIC",
+      "Survey year": 2006,
+      "Wasting": 10.3,
+      "Stunting": 28.7,
+      "Underweight": 10
+    },
+    {
+      "id": 761,
+      "Counrty": "SYRIAN ARAB REPUBLIC",
+      "Survey year": "2009-10",
+      "Wasting": 11.5,
+      "Stunting": 27.9,
+      "Underweight": 10.4
+    },
+    {
+      "id": 762,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 1999,
+      "Wasting": 11.4,
+      "Stunting": 41.5,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 763,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2000,
+      "Wasting": 9.4,
+      "Stunting": 42.1,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 764,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2001,
+      "Wasting": 19.4,
+      "Stunting": 43.2,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 765,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2002,
+      "Wasting": 6.1,
+      "Stunting": 37.1,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 766,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2003,
+      "Wasting": 5.9,
+      "Stunting": 42.4,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 767,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2005,
+      "Wasting": 8.7,
+      "Stunting": 33.1,
+      "Underweight": 14.9
+    },
+    {
+      "id": 768,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2007,
+      "Wasting": 6.9,
+      "Stunting": 39.3,
+      "Underweight": 15.1
+    },
+    {
+      "id": 769,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2009,
+      "Wasting": 4.3,
+      "Stunting": 28.8,
+      "Underweight": 8.3
+    },
+    {
+      "id": 770,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2012,
+      "Wasting": 9.9,
+      "Stunting": 26.9,
+      "Underweight": 13.3
+    },
+    {
+      "id": 771,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2016,
+      "Wasting": 3.5,
+      "Stunting": 19.6,
+      "Underweight": 6.4
+    },
+    {
+      "id": 772,
+      "Counrty": "TAJIKISTAN",
+      "Survey year": 2017,
+      "Wasting": 5.6,
+      "Stunting": 17.5,
+      "Underweight": 7.6
+    },
+    {
+      "id": 773,
+      "Counrty": "THAILAND",
+      "Survey year": 1987,
+      "Wasting": 5.7,
+      "Stunting": 24.6,
+      "Underweight": 20.2
+    },
+    {
+      "id": 774,
+      "Counrty": "THAILAND",
+      "Survey year": 1993,
+      "Wasting": 7.3,
+      "Stunting": 21.1,
+      "Underweight": 16.3
+    },
+    {
+      "id": 775,
+      "Counrty": "THAILAND",
+      "Survey year": 1995,
+      "Wasting": 6.7,
+      "Stunting": 18.1,
+      "Underweight": 15.4
+    },
+    {
+      "id": 776,
+      "Counrty": "THAILAND",
+      "Survey year": "2005-06",
+      "Wasting": 4.7,
+      "Stunting": 15.7,
+      "Underweight": 7
+    },
+    {
+      "id": 777,
+      "Counrty": "THAILAND",
+      "Survey year": "2012-13",
+      "Wasting": 6.7,
+      "Stunting": 16.4,
+      "Underweight": 9.2
+    },
+    {
+      "id": 778,
+      "Counrty": "THAILAND",
+      "Survey year": "2015-16",
+      "Wasting": 5.4,
+      "Stunting": 10.5,
+      "Underweight": 6.7
+    },
+    {
+      "id": 779,
+      "Counrty": "TIMOR-LESTE",
+      "Survey year": 2002,
+      "Wasting": 13.7,
+      "Stunting": 55.7,
+      "Underweight": 40.6
+    },
+    {
+      "id": 780,
+      "Counrty": "TIMOR-LESTE",
+      "Survey year": 2003,
+      "Wasting": 14.3,
+      "Stunting": 54.8,
+      "Underweight": 41.5
+    },
+    {
+      "id": 781,
+      "Counrty": "TIMOR-LESTE",
+      "Survey year": "2007-08",
+      "Wasting": 21.3,
+      "Stunting": 57.2,
+      "Underweight": 49.5
+    },
+    {
+      "id": 782,
+      "Counrty": "TIMOR-LESTE",
+      "Survey year": "2009-10",
+      "Wasting": 18.9,
+      "Stunting": 57.5,
+      "Underweight": 44.9
+    },
+    {
+      "id": 783,
+      "Counrty": "TIMOR-LESTE",
+      "Survey year": 2013,
+      "Wasting": 9.9,
+      "Stunting": 51.7,
+      "Underweight": 37.5
+    },
+    {
+      "id": 784,
+      "Counrty": "TOGO",
+      "Survey year": 1988,
+      "Wasting": 5.9,
+      "Stunting": 40.7,
+      "Underweight": 21.7
+    },
+    {
+      "id": 785,
+      "Counrty": "TOGO",
+      "Survey year": 1996,
+      "Wasting": 6.948063781321184,
+      "Stunting": 40.2,
+      "Underweight": 16.7
+    },
+    {
+      "id": 786,
+      "Counrty": "TOGO",
+      "Survey year": 1998,
+      "Wasting": 12.4,
+      "Stunting": 33.2,
+      "Underweight": 23.8
+    },
+    {
+      "id": 787,
+      "Counrty": "TOGO",
+      "Survey year": 2006,
+      "Wasting": 15.5,
+      "Stunting": 29.9,
+      "Underweight": 23.3
+    },
+    {
+      "id": 788,
+      "Counrty": "TOGO",
+      "Survey year": 2008,
+      "Wasting": 6,
+      "Stunting": 26.9,
+      "Underweight": 20.5
+    },
+    {
+      "id": 789,
+      "Counrty": "TOGO",
+      "Survey year": 2010,
+      "Wasting": 4.8,
+      "Stunting": 29.8,
+      "Underweight": 16.6
+    },
+    {
+      "id": 790,
+      "Counrty": "TOGO",
+      "Survey year": 2012,
+      "Wasting": 5.5,
+      "Stunting": 26.2,
+      "Underweight": 16.5
+    },
+    {
+      "id": 791,
+      "Counrty": "TOGO",
+      "Survey year": "2013-14",
+      "Wasting": 6.6,
+      "Stunting": 27.6,
+      "Underweight": 16.1
+    },
+    {
+      "id": 792,
+      "Counrty": "TOGO",
+      "Survey year": 2017,
+      "Wasting": 5.7,
+      "Stunting": 23.8,
+      "Underweight": 15.2
+    },
+    {
+      "id": 793,
+      "Counrty": "TONGA",
+      "Survey year": 1986,
+      "Wasting": 1.3,
+      "Stunting": 2.2,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 794,
+      "Counrty": "TONGA",
+      "Survey year": 2012,
+      "Wasting": 5.2,
+      "Stunting": 8.1,
+      "Underweight": 1.8
+    },
+    {
+      "id": 795,
+      "Counrty": "TRINIDAD AND TOBAGO",
+      "Survey year": 1987,
+      "Wasting": 4.8,
+      "Stunting": 6.3,
+      "Underweight": 6.2
+    },
+    {
+      "id": 796,
+      "Counrty": "TRINIDAD AND TOBAGO",
+      "Survey year": 2000,
+      "Wasting": 5.2,
+      "Stunting": 5.3,
+      "Underweight": 4.3
+    },
+    {
+      "id": 797,
+      "Counrty": "TRINIDAD AND TOBAGO",
+      "Survey year": 2011,
+      "Wasting": 6.4,
+      "Stunting": 9.2,
+      "Underweight": 4.9
+    },
+    {
+      "id": 798,
+      "Counrty": "TUNISIA",
+      "Survey year": 1988,
+      "Wasting": 3.1,
+      "Stunting": 18.5,
+      "Underweight": 7.9
+    },
+    {
+      "id": 799,
+      "Counrty": "TUNISIA",
+      "Survey year": "1996-97",
+      "Wasting": 7.2,
+      "Stunting": 11.9,
+      "Underweight": 3.3
+    },
+    {
+      "id": 800,
+      "Counrty": "TUNISIA",
+      "Survey year": 2000,
+      "Wasting": 2.9,
+      "Stunting": 16.8,
+      "Underweight": 3.5
+    },
+    {
+      "id": 801,
+      "Counrty": "TUNISIA",
+      "Survey year": 2006,
+      "Wasting": 3.4,
+      "Stunting": 9,
+      "Underweight": 3.3
+    },
+    {
+      "id": 802,
+      "Counrty": "TUNISIA",
+      "Survey year": "2011-12",
+      "Wasting": 2.8,
+      "Stunting": 10.1,
+      "Underweight": 2.3
+    },
+    {
+      "id": 803,
+      "Counrty": "TUNISIA",
+      "Survey year": 2018,
+      "Wasting": 2.1,
+      "Stunting": 8.4,
+      "Underweight": 1.6
+    },
+    {
+      "id": 804,
+      "Counrty": "TURKEY",
+      "Survey year": 1993,
+      "Wasting": 3.9,
+      "Stunting": 23.6,
+      "Underweight": 8.7
+    },
+    {
+      "id": 805,
+      "Counrty": "TURKEY",
+      "Survey year": 1995,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 9
+    },
+    {
+      "id": 806,
+      "Counrty": "TURKEY",
+      "Survey year": 1998,
+      "Wasting": 3,
+      "Stunting": 18.8,
+      "Underweight": 7
+    },
+    {
+      "id": 807,
+      "Counrty": "TURKEY",
+      "Survey year": "2003-04",
+      "Wasting": 1.1,
+      "Stunting": 15.2,
+      "Underweight": 3.5
+    },
+    {
+      "id": 808,
+      "Counrty": "TURKEY",
+      "Survey year": 2008,
+      "Wasting": 1,
+      "Stunting": 12.5,
+      "Underweight": 1.9
+    },
+    {
+      "id": 809,
+      "Counrty": "TURKEY",
+      "Survey year": "2013-14",
+      "Wasting": 1.9,
+      "Stunting": 10,
+      "Underweight": 2.3
+    },
+    {
+      "id": 810,
+      "Counrty": "TURKEY",
+      "Survey year": "2018-19",
+      "Wasting": 1.7,
+      "Stunting": 6,
+      "Underweight": 1.5
+    },
+    {
+      "id": 811,
+      "Counrty": "TURKMENISTAN",
+      "Survey year": 2000,
+      "Wasting": 7.1,
+      "Stunting": 28.1,
+      "Underweight": 10.5
+    },
+    {
+      "id": 812,
+      "Counrty": "TURKMENISTAN",
+      "Survey year": 2006,
+      "Wasting": 7.2,
+      "Stunting": 18.9,
+      "Underweight": 9.2
+    },
+    {
+      "id": 813,
+      "Counrty": "TURKMENISTAN",
+      "Survey year": "2015-16",
+      "Wasting": 4.2,
+      "Stunting": 11.5,
+      "Underweight": 3.2
+    },
+    {
+      "id": 814,
+      "Counrty": "TUVALU",
+      "Survey year": 2007,
+      "Wasting": 3.3,
+      "Stunting": 10,
+      "Underweight": 1.6
+    },
+    {
+      "id": 815,
+      "Counrty": "UGANDA",
+      "Survey year": "1988-89",
+      "Wasting": 3.1,
+      "Stunting": 47.7,
+      "Underweight": 19.7
+    },
+    {
+      "id": 816,
+      "Counrty": "UGANDA",
+      "Survey year": 1995,
+      "Wasting": 5.9,
+      "Stunting": 45.7,
+      "Underweight": 20.8
+    },
+    {
+      "id": 817,
+      "Counrty": "UGANDA",
+      "Survey year": "2000-01",
+      "Wasting": 5,
+      "Stunting": 44.9,
+      "Underweight": 19.2
+    },
+    {
+      "id": 818,
+      "Counrty": "UGANDA",
+      "Survey year": 2006,
+      "Wasting": 6.2,
+      "Stunting": 38.4,
+      "Underweight": 16.3
+    },
+    {
+      "id": 819,
+      "Counrty": "UGANDA",
+      "Survey year": "2009-10",
+      "Wasting": 4.4,
+      "Stunting": 38.2,
+      "Underweight": 15.7
+    },
+    {
+      "id": 820,
+      "Counrty": "UGANDA",
+      "Survey year": 2011,
+      "Wasting": 4.6,
+      "Stunting": 33.5,
+      "Underweight": 14.1
+    },
+    {
+      "id": 821,
+      "Counrty": "UGANDA",
+      "Survey year": "2011-12",
+      "Wasting": 4.2,
+      "Stunting": 33.7,
+      "Underweight": 11.9
+    },
+    {
+      "id": 822,
+      "Counrty": "UGANDA",
+      "Survey year": "2013-14",
+      "Wasting": 3.8,
+      "Stunting": 34,
+      "Underweight": 11.7
+    },
+    {
+      "id": 823,
+      "Counrty": "UGANDA",
+      "Survey year": 2016,
+      "Wasting": 3.5,
+      "Stunting": 28.9,
+      "Underweight": 10.4
+    },
+    {
+      "id": 824,
+      "Counrty": "UKRAINE",
+      "Survey year": 2000,
+      "Wasting": 8.2,
+      "Stunting": 22.9,
+      "Underweight": 4.1
+    },
+    {
+      "id": 825,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "1991-92",
+      "Wasting": 7.8,
+      "Stunting": 49.9,
+      "Underweight": 24.8
+    },
+    {
+      "id": 826,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": 1996,
+      "Wasting": 8.5,
+      "Stunting": 49.6,
+      "Underweight": 26.8
+    },
+    {
+      "id": 827,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": 1999,
+      "Wasting": 5.6,
+      "Stunting": 48.3,
+      "Underweight": 25.3
+    },
+    {
+      "id": 828,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "2004-05",
+      "Wasting": 3.5,
+      "Stunting": 44.4,
+      "Underweight": 16.7
+    },
+    {
+      "id": 829,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "2008-09",
+      "Wasting": 2.9,
+      "Stunting": 43.2,
+      "Underweight": 16.4
+    },
+    {
+      "id": 830,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "2009-10",
+      "Wasting": 4.9,
+      "Stunting": 42.1,
+      "Underweight": 16.1
+    },
+    {
+      "id": 831,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "2010-11",
+      "Wasting": 6.2,
+      "Stunting": 35,
+      "Underweight": 14.1
+    },
+    {
+      "id": 832,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "2012-13",
+      "Wasting": 4.4,
+      "Stunting": 37.4,
+      "Underweight": 13.1
+    },
+    {
+      "id": 833,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": 2014,
+      "Wasting": 3.8,
+      "Stunting": 34.7,
+      "Underweight": 13.4
+    },
+    {
+      "id": 834,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": "2015-16",
+      "Wasting": 4.5,
+      "Stunting": 34.5,
+      "Underweight": 13.7
+    },
+    {
+      "id": 835,
+      "Counrty": "UNITED REPUBLIC OF TANZANIA",
+      "Survey year": 2018,
+      "Wasting": 3.5,
+      "Stunting": 31.8,
+      "Underweight": 14.6
+    },
+    {
+      "id": 836,
+      "Counrty": "UNITED STATES",
+      "Survey year": "1988-94",
+      "Wasting": 0.7,
+      "Stunting": 3.2,
+      "Underweight": 0.9
+    },
+    {
+      "id": 837,
+      "Counrty": "UNITED STATES",
+      "Survey year": "1999-02",
+      "Wasting": 0.4,
+      "Stunting": 3.3,
+      "Underweight": 1.1
+    },
+    {
+      "id": 838,
+      "Counrty": "UNITED STATES",
+      "Survey year": "2003-06",
+      "Wasting": 0.8,
+      "Stunting": 3.2,
+      "Underweight": 1.1
+    },
+    {
+      "id": 839,
+      "Counrty": "UNITED STATES",
+      "Survey year": "2007-10",
+      "Wasting": 0.5,
+      "Stunting": 2.7,
+      "Underweight": 0.8
+    },
+    {
+      "id": 840,
+      "Counrty": "UNITED STATES",
+      "Survey year": "2011-12",
+      "Wasting": 0.6,
+      "Stunting": 2.2,
+      "Underweight": 0.5
+    },
+    {
+      "id": 841,
+      "Counrty": "UNITED STATES",
+      "Survey year": "2013-14",
+      "Wasting": 0.3,
+      "Stunting": 2.4,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 842,
+      "Counrty": "UNITED STATES",
+      "Survey year": "2015-16",
+      "Wasting": 0.4,
+      "Stunting": 3.5,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 843,
+      "Counrty": "URUGUAY",
+      "Survey year": 1987,
+      "Wasting": 6.948063781321184,
+      "Stunting": 21,
+      "Underweight": 6.5
+    },
+    {
+      "id": 844,
+      "Counrty": "URUGUAY",
+      "Survey year": 1999,
+      "Wasting": 2.3,
+      "Stunting": 12.8,
+      "Underweight": 4.7
+    },
+    {
+      "id": 845,
+      "Counrty": "URUGUAY",
+      "Survey year": 2002,
+      "Wasting": 2.4,
+      "Stunting": 14.7,
+      "Underweight": 5.4
+    },
+    {
+      "id": 846,
+      "Counrty": "URUGUAY",
+      "Survey year": 2003,
+      "Wasting": 2.8,
+      "Stunting": 15.8,
+      "Underweight": 5.1
+    },
+    {
+      "id": 847,
+      "Counrty": "URUGUAY",
+      "Survey year": 2004,
+      "Wasting": 3,
+      "Stunting": 13.9,
+      "Underweight": 6
+    },
+    {
+      "id": 848,
+      "Counrty": "URUGUAY",
+      "Survey year": 2007,
+      "Wasting": 2.5,
+      "Stunting": 10.8,
+      "Underweight": 4.2
+    },
+    {
+      "id": 849,
+      "Counrty": "URUGUAY",
+      "Survey year": "2010-11",
+      "Wasting": 1.3,
+      "Stunting": 10.7,
+      "Underweight": 4
+    },
+    {
+      "id": 850,
+      "Counrty": "UZBEKISTAN",
+      "Survey year": 1996,
+      "Wasting": 10.7,
+      "Stunting": 39.5,
+      "Underweight": 13.3
+    },
+    {
+      "id": 851,
+      "Counrty": "UZBEKISTAN",
+      "Survey year": 2002,
+      "Wasting": 9,
+      "Stunting": 24.9,
+      "Underweight": 7.4
+    },
+    {
+      "id": 852,
+      "Counrty": "UZBEKISTAN",
+      "Survey year": 2006,
+      "Wasting": 4.4,
+      "Stunting": 19.6,
+      "Underweight": 4.4
+    },
+    {
+      "id": 853,
+      "Counrty": "UZBEKISTAN",
+      "Survey year": 2017,
+      "Wasting": 1.8,
+      "Stunting": 10.8,
+      "Underweight": 2.9
+    },
+    {
+      "id": 854,
+      "Counrty": "VANUATU",
+      "Survey year": 1996,
+      "Wasting": 6.8,
+      "Stunting": 25.7,
+      "Underweight": 10.6
+    },
+    {
+      "id": 855,
+      "Counrty": "VANUATU",
+      "Survey year": 2007,
+      "Wasting": 5.9,
+      "Stunting": 25.7,
+      "Underweight": 11.5
+    },
+    {
+      "id": 856,
+      "Counrty": "VANUATU",
+      "Survey year": 2013,
+      "Wasting": 4.7,
+      "Stunting": 28.9,
+      "Underweight": 11.7
+    },
+    {
+      "id": 857,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1987,
+      "Wasting": 2.2,
+      "Stunting": 7,
+      "Underweight": 3.9
+    },
+    {
+      "id": 858,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1990,
+      "Wasting": 5.7,
+      "Stunting": 18.6,
+      "Underweight": 6.7
+    },
+    {
+      "id": 859,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1991,
+      "Wasting": 4.5,
+      "Stunting": 18.2,
+      "Underweight": 5.4
+    },
+    {
+      "id": 860,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1992,
+      "Wasting": 4.3,
+      "Stunting": 18.3,
+      "Underweight": 4.5
+    },
+    {
+      "id": 861,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1993,
+      "Wasting": 4,
+      "Stunting": 17.4,
+      "Underweight": 4
+    },
+    {
+      "id": 862,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1994,
+      "Wasting": 3.8,
+      "Stunting": 17.9,
+      "Underweight": 3.9
+    },
+    {
+      "id": 863,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1995,
+      "Wasting": 3.8,
+      "Stunting": 18.9,
+      "Underweight": 4.1
+    },
+    {
+      "id": 864,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1996,
+      "Wasting": 3.8,
+      "Stunting": 19.3,
+      "Underweight": 4.4
+    },
+    {
+      "id": 865,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1997,
+      "Wasting": 3.8,
+      "Stunting": 19.9,
+      "Underweight": 4.5
+    },
+    {
+      "id": 866,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1998,
+      "Wasting": 4.4,
+      "Stunting": 19.2,
+      "Underweight": 4.6
+    },
+    {
+      "id": 867,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 1999,
+      "Wasting": 4,
+      "Stunting": 18.3,
+      "Underweight": 4.1
+    },
+    {
+      "id": 868,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2000,
+      "Wasting": 3.9,
+      "Stunting": 17.4,
+      "Underweight": 3.9
+    },
+    {
+      "id": 869,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2001,
+      "Wasting": 4.4,
+      "Stunting": 17.3,
+      "Underweight": 4
+    },
+    {
+      "id": 870,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2002,
+      "Wasting": 4.8,
+      "Stunting": 17.6,
+      "Underweight": 4.2
+    },
+    {
+      "id": 871,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2003,
+      "Wasting": 5.2,
+      "Stunting": 17.7,
+      "Underweight": 4.6
+    },
+    {
+      "id": 872,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2004,
+      "Wasting": 5.2,
+      "Stunting": 17.1,
+      "Underweight": 4.5
+    },
+    {
+      "id": 873,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2005,
+      "Wasting": 4.8,
+      "Stunting": 16.2,
+      "Underweight": 4.1
+    },
+    {
+      "id": 874,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2006,
+      "Wasting": 4.8,
+      "Stunting": 16.2,
+      "Underweight": 3.9
+    },
+    {
+      "id": 875,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2007,
+      "Wasting": 5,
+      "Stunting": 15.6,
+      "Underweight": 3.7
+    },
+    {
+      "id": 876,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2008,
+      "Wasting": 4.5,
+      "Stunting": 14.6,
+      "Underweight": 3.2
+    },
+    {
+      "id": 877,
+      "Counrty": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+      "Survey year": 2009,
+      "Wasting": 4.1,
+      "Stunting": 13.4,
+      "Underweight": 2.9
+    },
+    {
+      "id": 878,
+      "Counrty": "VIET NAM",
+      "Survey year": "1987-89",
+      "Wasting": 11.1,
+      "Stunting": 61.3,
+      "Underweight": 40.7
+    },
+    {
+      "id": 879,
+      "Counrty": "VIET NAM",
+      "Survey year": "1992-93",
+      "Wasting": 6.7,
+      "Stunting": 61.5,
+      "Underweight": 36.6
+    },
+    {
+      "id": 880,
+      "Counrty": "VIET NAM",
+      "Survey year": 1994,
+      "Wasting": 13.5,
+      "Stunting": 52.5,
+      "Underweight": 40.6
+    },
+    {
+      "id": 881,
+      "Counrty": "VIET NAM",
+      "Survey year": 1998,
+      "Wasting": 11.9,
+      "Stunting": 42.1,
+      "Underweight": 35.8
+    },
+    {
+      "id": 882,
+      "Counrty": "VIET NAM",
+      "Survey year": 1999,
+      "Wasting": 11,
+      "Stunting": 43.7,
+      "Underweight": 31.1
+    },
+    {
+      "id": 883,
+      "Counrty": "VIET NAM",
+      "Survey year": 2000,
+      "Wasting": 6.1,
+      "Stunting": 43.2,
+      "Underweight": 26.7
+    },
+    {
+      "id": 884,
+      "Counrty": "VIET NAM",
+      "Survey year": 2002,
+      "Wasting": 8.9,
+      "Stunting": 37.5,
+      "Underweight": 23.4
+    },
+    {
+      "id": 885,
+      "Counrty": "VIET NAM",
+      "Survey year": 2003,
+      "Wasting": 10.9,
+      "Stunting": 35.4,
+      "Underweight": 24.6
+    },
+    {
+      "id": 886,
+      "Counrty": "VIET NAM",
+      "Survey year": 2004,
+      "Wasting": 11.3,
+      "Stunting": 33.7,
+      "Underweight": 23.8
+    },
+    {
+      "id": 887,
+      "Counrty": "VIET NAM",
+      "Survey year": 2005,
+      "Wasting": 10.7,
+      "Stunting": 33.2,
+      "Underweight": 22.7
+    },
+    {
+      "id": 888,
+      "Counrty": "VIET NAM",
+      "Survey year": 2006,
+      "Wasting": 9.9,
+      "Stunting": 31.8,
+      "Underweight": 22.1
+    },
+    {
+      "id": 889,
+      "Counrty": "VIET NAM",
+      "Survey year": 2007,
+      "Wasting": 10.1,
+      "Stunting": 32.2,
+      "Underweight": 22.6
+    },
+    {
+      "id": 890,
+      "Counrty": "VIET NAM",
+      "Survey year": 2008,
+      "Wasting": 9.7,
+      "Stunting": 30.5,
+      "Underweight": 20.2
+    },
+    {
+      "id": 891,
+      "Counrty": "VIET NAM",
+      "Survey year": "2009-10",
+      "Wasting": 7.1,
+      "Stunting": 29.3,
+      "Underweight": 17.5
+    },
+    {
+      "id": 892,
+      "Counrty": "VIET NAM",
+      "Survey year": "2010-11",
+      "Wasting": 4.1,
+      "Stunting": 22.7,
+      "Underweight": 11.7
+    },
+    {
+      "id": 893,
+      "Counrty": "VIET NAM",
+      "Survey year": 2011,
+      "Wasting": 6.6,
+      "Stunting": 27.5,
+      "Underweight": 16.8
+    },
+    {
+      "id": 894,
+      "Counrty": "VIET NAM",
+      "Survey year": 2012,
+      "Wasting": 6.7,
+      "Stunting": 26.7,
+      "Underweight": 16.2
+    },
+    {
+      "id": 895,
+      "Counrty": "VIET NAM",
+      "Survey year": 2013,
+      "Wasting": 6.6,
+      "Stunting": 25.9,
+      "Underweight": 15.3
+    },
+    {
+      "id": 896,
+      "Counrty": "VIET NAM",
+      "Survey year": 2014,
+      "Wasting": 6.8,
+      "Stunting": 24.9,
+      "Underweight": 14.5
+    },
+    {
+      "id": 897,
+      "Counrty": "VIET NAM",
+      "Survey year": 2015,
+      "Wasting": 6.4,
+      "Stunting": 24.6,
+      "Underweight": 14.1
+    },
+    {
+      "id": 898,
+      "Counrty": "VIET NAM",
+      "Survey year": 2016,
+      "Wasting": 6.948063781321184,
+      "Stunting": 24.3,
+      "Underweight": 13.8
+    },
+    {
+      "id": 899,
+      "Counrty": "VIET NAM",
+      "Survey year": 2017,
+      "Wasting": 5.8,
+      "Stunting": 23.8,
+      "Underweight": 13.4
+    },
+    {
+      "id": 900,
+      "Counrty": "YEMEN",
+      "Survey year": "1991-92",
+      "Wasting": 14.1,
+      "Stunting": 50.4,
+      "Underweight": 29.9
+    },
+    {
+      "id": 901,
+      "Counrty": "YEMEN",
+      "Survey year": 1996,
+      "Wasting": 17.4,
+      "Stunting": 50.4,
+      "Underweight": 34.2
+    },
+    {
+      "id": 902,
+      "Counrty": "YEMEN",
+      "Survey year": 1997,
+      "Wasting": 16.5,
+      "Stunting": 55.2,
+      "Underweight": 43
+    },
+    {
+      "id": 903,
+      "Counrty": "YEMEN",
+      "Survey year": 2003,
+      "Wasting": 15.3,
+      "Stunting": 57.3,
+      "Underweight": 45.3
+    },
+    {
+      "id": 904,
+      "Counrty": "YEMEN",
+      "Survey year": "2005-06",
+      "Wasting": 13.8,
+      "Stunting": 57,
+      "Underweight": 36.7
+    },
+    {
+      "id": 905,
+      "Counrty": "YEMEN",
+      "Survey year": 2011,
+      "Wasting": 13.3,
+      "Stunting": 46.6,
+      "Underweight": 35.5
+    },
+    {
+      "id": 906,
+      "Counrty": "YEMEN",
+      "Survey year": 2013,
+      "Wasting": 16.4,
+      "Stunting": 46.4,
+      "Underweight": 39.9
+    },
+    {
+      "id": 907,
+      "Counrty": "ZAMBIA",
+      "Survey year": 1992,
+      "Wasting": 6.3,
+      "Stunting": 46.3,
+      "Underweight": 21.2
+    },
+    {
+      "id": 908,
+      "Counrty": "ZAMBIA",
+      "Survey year": 1995,
+      "Wasting": 6.948063781321184,
+      "Stunting": 58.1,
+      "Underweight": 15.831152993348114
+    },
+    {
+      "id": 909,
+      "Counrty": "ZAMBIA",
+      "Survey year": "1996-97",
+      "Wasting": 5.3,
+      "Stunting": 48.6,
+      "Underweight": 19.6
+    },
+    {
+      "id": 910,
+      "Counrty": "ZAMBIA",
+      "Survey year": 1999,
+      "Wasting": 5,
+      "Stunting": 59.2,
+      "Underweight": 19.6
+    },
+    {
+      "id": 911,
+      "Counrty": "ZAMBIA",
+      "Survey year": "2001-02",
+      "Wasting": 6.2,
+      "Stunting": 52.5,
+      "Underweight": 23.2
+    },
+    {
+      "id": 912,
+      "Counrty": "ZAMBIA",
+      "Survey year": 2007,
+      "Wasting": 5.6,
+      "Stunting": 45.8,
+      "Underweight": 14.9
+    },
+    {
+      "id": 913,
+      "Counrty": "ZAMBIA",
+      "Survey year": "2013-14",
+      "Wasting": 6.2,
+      "Stunting": 40,
+      "Underweight": 14.9
+    },
+    {
+      "id": 914,
+      "Counrty": "ZAMBIA",
+      "Survey year": "2018-19",
+      "Wasting": 4.2,
+      "Stunting": 34.6,
+      "Underweight": 11.8
+    },
+    {
+      "id": 915,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 1987,
+      "Wasting": 6.948063781321184,
+      "Stunting": 29.045321307779027,
+      "Underweight": 10.5
+    },
+    {
+      "id": 916,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 1988,
+      "Wasting": 1.7,
+      "Stunting": 31,
+      "Underweight": 8
+    },
+    {
+      "id": 917,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 1994,
+      "Wasting": 5.3,
+      "Stunting": 28.5,
+      "Underweight": 11.8
+    },
+    {
+      "id": 918,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 1999,
+      "Wasting": 8.3,
+      "Stunting": 33.8,
+      "Underweight": 11.5
+    },
+    {
+      "id": 919,
+      "Counrty": "ZIMBABWE",
+      "Survey year": "2005-06",
+      "Wasting": 7.2,
+      "Stunting": 35.3,
+      "Underweight": 14
+    },
+    {
+      "id": 920,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 2009,
+      "Wasting": 2.4,
+      "Stunting": 35.1,
+      "Underweight": 11.7
+    },
+    {
+      "id": 921,
+      "Counrty": "ZIMBABWE",
+      "Survey year": "2010-11",
+      "Wasting": 3.2,
+      "Stunting": 32.2,
+      "Underweight": 10.2
+    },
+    {
+      "id": 922,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 2014,
+      "Wasting": 3.2,
+      "Stunting": 27.6,
+      "Underweight": 11.2
+    },
+    {
+      "id": 923,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 2015,
+      "Wasting": 3.3,
+      "Stunting": 27.1,
+      "Underweight": 8.5
+    },
+    {
+      "id": 924,
+      "Counrty": "ZIMBABWE",
+      "Survey year": 2019,
+      "Wasting": 2.9,
+      "Stunting": 23.5,
+      "Underweight": 9.7
+    }
+  ]
