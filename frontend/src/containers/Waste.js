@@ -841,28 +841,42 @@ const data1 = [
 ];
 
 export default function Waste() {
-  const import1 = { country: "cn", value: 1389618778 }, // china
-  { country: "in", value: 1311559204 }, // india
-  { country: "us", value: 331883986 }, // united states
-  { country: "id", value: 264935824 }, // indonesia
-  { country: "pk", value: 210797836 }, // pakistan
-  { country: "br", value: 210301591 }, // brazil
-  { country: "ng", value: 208679114 }, // nigeria
-  { country: "bd", value: 161062905 }, // bangladesh
-  { country: "ru", value: 141944641 }, // russia
-  { country: "mx", value: 127318112 }, // mexico;
-
-  const export1 = [
+  const import1 = [
     { country: "cn", value: 1389618778 }, // china
     { country: "in", value: 1311559204 }, // india
+    { country: "us", value: 33986 }, // united states
+    { country: "id", value: 26493824 }, // indonesia
+    { country: "pk", value: 21836 }, // pakistan
+    { country: "br", value: 2103091 }, // brazil
+    { country: "ng", value: 20739114 }, // nigeria
+    { country: "bd", value: 12905 }, // bangladesh
+    { country: "ru", value: 14641 }, // russia
+    { country: "mx", value: 128112 }, // mexico;
+  ];
+  const export1 = [
+    { country: "cn", value: 1389618778 }, // china
+    { country: "in", value: 13159204 }, // india
     { country: "us", value: 331883986 }, // united states
-    { country: "id", value: 264935824 }, // indonesia
+    { country: "id", value: 2935824 }, // indonesia
     { country: "pk", value: 210797836 }, // pakistan
-    { country: "br", value: 210301591 }, // brazil
+    { country: "br", value: 2301591 }, // brazil
     { country: "ng", value: 208679114 }, // nigeria
-    { country: "bd", value: 161062905 }, // bangladesh
+    { country: "bd", value: 162905 }, // bangladesh
     { country: "ru", value: 141944641 }, // russia
-    { country: "mx", value: 127318112 }, // mexico
+    { country: "mx", value: 127112 }, // mexico
+  ];
+
+  const export3 = [
+    { country: "cn", value: 18778 }, // china
+    { country: "in", value: 159204 }, // india
+    { country: "us", value: 3323986 }, // united states
+    { country: "id", value: 25824 }, // indonesia
+    { country: "pk", value: 2836 }, // pakistan
+    { country: "br", value: 21591 }, // brazil
+    { country: "ng", value: 2086714 }, // nigeria
+    { country: "bd", value: 6062905 }, // bangladesh
+    { country: "ru", value: 41944641 }, // russia
+    { country: "mx", value: 7318112 }, // mexico
   ];
 
   return (
@@ -883,6 +897,15 @@ export default function Waste() {
           value-suffix="people"
           size="xl"
           data={export1}
+        />
+      </div>
+      <div className="wasteCentral">
+        <WorldMap
+          color="red"
+          title="Top 10 Populous Countries"
+          value-suffix="people"
+          size="xl"
+          data={export3}
         />
       </div>
     </div>
