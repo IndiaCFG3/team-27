@@ -36,9 +36,10 @@ function LineGraph() {
           title: {
             display: "PieChart",
             text: "Testing",
-            fontSize: 25,
+            fontSize: 10,
           },
           legend: {
+            display: false,
             position: "bottom",
           },
         }}
