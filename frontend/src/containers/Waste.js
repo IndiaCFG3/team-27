@@ -884,7 +884,7 @@ export default function Waste() {
       <div className="wasteCentral">
         <WorldMap
           color="red"
-          title="Top 10 Populous Countries"
+          title="Import Stats"
           value-suffix="people"
           size="xl"
           data={import1}
@@ -893,7 +893,7 @@ export default function Waste() {
       <div className="wasteCentral">
         <WorldMap
           color="red"
-          title="Top 10 Populous Countries"
+          title="Export Stats"
           value-suffix="people"
           size="xl"
           data={export1}
@@ -902,7 +902,7 @@ export default function Waste() {
       <div className="wasteCentral">
         <WorldMap
           color="red"
-          title="Top 10 Populous Countries"
+          title="Wastage"
           value-suffix="people"
           size="xl"
           data={export3}
