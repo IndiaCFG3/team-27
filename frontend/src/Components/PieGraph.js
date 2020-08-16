@@ -29,7 +29,7 @@ const data = {
 
 function PieGraph() {
   return (
-    <div>
+    <div style={{ height: "200px", width: "35vw", margin: "20px" }}>
       <Pie
         data={data}
         options={{

@@ -29,7 +29,7 @@ const data = {
 
 function LineGraph() {
   return (
-    <div>
+    <div style={{ height: "200px", width: "35vw", margin: "20px" }}>
       <Line
         data={data}
         options={{

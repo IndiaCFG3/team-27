@@ -24,7 +24,7 @@ const data = {
 
 function BarGraph() {
   return (
-    <div style={{ height: "200px" }}>
+    <div style={{ height: "200px", width: "35vw", margin: "20px" }}>
       <Bar
         data={data}
         options={{
