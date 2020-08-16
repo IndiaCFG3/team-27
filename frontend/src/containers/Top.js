@@ -16,32 +16,55 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function NativeSelects() {
+export default function NativeSelects({
+  country: state,
+  updateCountry: setState,
+  year,
+  updateYear,
+}) {
   const classes = useStyles();
-  const [state, setState] = React.useState({
-    age: "",
-    name: "hai",
-  });
 
   const handleChange = (event) => {
     const name = event.target.name;
-    setState({
-      ...state,
-      [name]: event.target.value,
-    });
+    setState(event.target.value);
+    updateYear("");
+  };
+
+  const handleChange2 = (event) => {
+    const name = event.target.name;
+    updateYear(event.target.value);
+    setState("");
   };
 
   return (
     <div className="topContainer">
       <FormControl variant="outlined" className={classes.formControl}>
-        <InputLabel htmlFor="outlined-age-native-simple">Age</InputLabel>
+        <InputLabel htmlFor="outlined-age-native-simple">Country</InputLabel>
         <Select
           native
-          value={state.age}
+          value={state}
           onChange={handleChange}
           label="Age"
           inputProps={{
             name: "age",
+            id: "outlined-age-native-simple",
+          }}
+        >
+          <option aria-label="None" value="" />
+          <option value={10}>Ten</option>
+          <option value={20}>Twenty</option>
+          <option value={30}>Thirty</option>
+        </Select>
+      </FormControl>
+      <FormControl variant="outlined" className={classes.formControl}>
+        <InputLabel htmlFor="outlined-age-native-simple">Year</InputLabel>
+        <Select
+          native
+          value={year}
+          onChange={handleChange2}
+          label="Year"
+          inputProps={{
+            name: "Year",
             id: "outlined-age-native-simple",
           }}
         >

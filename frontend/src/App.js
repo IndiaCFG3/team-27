@@ -1,26 +1,30 @@
-import React from "react";
+import React, { useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Container from "@material-ui/core/Container";
 import Top from "./containers/Top";
-import Bar from "./Components/BarGraph";
-import Line from "./Components/LineGraph";
-import Pie from "./Components/PieGraph";
-import Worlds from "./Components/worldmap";
+import Demand from "./containers/Demand";
 
 function App() {
+  const [country, updateCountry] = useState("");
+  const [year, updateYear] = useState("");
+
   return (
     <Container maxWidth="lg">
       <div>
-        <Top />
+        <Top
+          country={country}
+          updateCountry={updateCountry}
+          year={year}
+          updateYear={updateYear}
+        />
+        <Demand
+          country={country}
+          updateCountry={updateCountry}
+          year={year}
+          updateYear={updateYear}
+        />
       </div>
-      <div className="flexContainer">
-        <Bar />
-        <Line />
-        <Pie />
-        <Line />
-      </div>
-      <Worlds />
     </Container>
   );
 }
