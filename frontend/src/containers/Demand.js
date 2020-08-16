@@ -18,14 +18,18 @@ function Entry(props) {
   return (
     <Container maxWidth="lg">
       <ReactToPdf targetRef={ref} filename="div-blue.pdf">
-        {({ toPdf }) => <button onClick={toPdf}>Generate pdf</button>}
+        {({ toPdf }) => <button onClick={toPdf} style={{background: "orange",padding: "20px",fontWeight: 600,fontSize: "medium",border: "none"}}>Generate pdf</button>}
       </ReactToPdf>
 
-      <div className="flexContainer" ref={ref}>
+      <div className="flexContainer" ref={ref} style={{position:"absolute", height:"-webkit-fill-available"}}>
+        <div style={{display:"flex", marginBottom:"20vh"}}>
         <Bar data={data} />
         <Line data={data} />
+        </div>
+        <div style={{display:"flex"}}>
         <Pie data={data} />
         <Line data={data} />
+        </div>
       </div>
       <Worlds />
     </Container>

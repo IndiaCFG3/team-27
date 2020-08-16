@@ -37,7 +37,7 @@ export default function NativeSelects({
   };
 
   return (
-    <div className="topContainer">
+    <div className="topContainer" style={{textAlign:"center"}}>
       <FormControl variant="outlined" className={classes.formControl}>
         <InputLabel htmlFor="outlined-age-native-simple">Country</InputLabel>
         <Select
