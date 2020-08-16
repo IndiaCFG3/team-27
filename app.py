@@ -47,7 +47,7 @@ trim = df[["API_WellNo", "Well_Type", "Well_Name"]]
 trim.index = trim["API_WellNo"]
 dataset = trim.to_dict(orient="index")
 
-points = pickle.load(open(DATA_PATH.joinpath("points.pkl"), "rb"))
+# points = pickle.load(open(DATA_PATH.joinpath("points.pkl"), "rb"))
 
 
 # Create global chart template
