@@ -13,15 +13,15 @@ function Entry(props) {
 
   useEffect(() => {
     axios({
-      url: "https://localhost:5000/eggsDemand",
+      url: "http://localhost:5000/eggsDemand",
       method: "get",
       headers: {
-        country: props.country,
+        country: "Albania",
       },
     }).then((req) => console.log(req));
 
     axios({
-      url: "https://localhost:5000/eggsPrice",
+      url: "http://localhost:5000/eggsPrice",
       method: "get",
       headers: {
         country: props.country,
@@ -37,7 +37,7 @@ function Entry(props) {
     }).then((req) => console.log(req));
 
     axios({
-      url: "https://localhost:5000/eggsProtein",
+      url: "http://localhost:5000/eggsProtein",
       method: "get",
       headers: {
         country: props.country,
