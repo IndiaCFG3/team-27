@@ -34,3 +34,53 @@ def eggsMalnutrition():
         data= data.groupby('Counrty ').agg({'Survey year': lambda x: list(x),'Wasting': lambda x: list(x), 'Stunting': lambda x: list(x), 
         'Underweight': lambda x: list(x)}).to_json(orient='index')
         return json.dumps(data)
+
+@app.route('/eggsProtein')
+def eggsProtein():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_malnutrition_demand.csv')
+        data= data.groupby('Counrty ').agg({'Survey year': lambda x: list(x),'Wasting': lambda x: list(x), 'Stunting': lambda x: list(x), 
+        'Underweight': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
+
+@app.route('/eggsProducedByArea')
+def eggsProducedByArea():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_produced.csv')
+        data= data.groupby('Area').agg({'Year': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
+
+@app.route('/eggsProducedByYear')
+def eggsProducedByYear():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_produced.csv')
+        data= data.groupby('Year').agg({'Area': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
+
+@app.route('/eggsExportedByArea')
+def eggsExportedByArea():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_export.csv')
+        data= data.groupby('Area').agg({'Year': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
+
+@app.route('/eggsExportedByYear')
+def eggsExportedByYear():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_export.csv')
+        data= data.groupby('Year').agg({'Area': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
+
+@app.route('/eggsProducerPriceByArea')
+def eggsProducerPriceByArea():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_price_demand.csv')
+        data= data.groupby('Area').agg({'Year': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
+
+@app.route('/eggsProducerPriceByYear')
+def eggsProducerPriceByYear():
+    if request.method=='GET':
+        data= pd.read_csv('eggs_price_demand.csv')
+        data= data.groupby('Year').agg({'Area': lambda x: list(x),'Value': lambda x: list(x)}).to_json(orient='index')
+        return json.dumps(data)
